@@ -1,0 +1,119 @@
+---
+title: "Ausschreibungen Architekten und Ingenieure Berlin – aktuell"
+description: "Offene Ausschreibungen und Zuschläge für Planungsleistungen (Architektur, Ingenieure, CPV 71) in Berlin, wöchentlich aktualisiert, kostenlos."
+---
+# Vergabe-Report CPV 71 · letzte 14 Tage (automatisch, KI-/Skript-erzeugt, ohne Gewähr)
+
+Quelle: Bekanntmachungsservice oeffentlichevergabe.de (CC0).
+
+## Offene Ausschreibungen
+- **Straßenbahnneubaustrecke Urban Tech Republic (UTR), Generalplanungsleistung Lph 2-5** – Berliner Verkehrsbetriebe, Bereich Einkauf/ Materialwirtschaft · Frist s. Unterlagen · [Unterlagen](https://vergabekooperation.berlin/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0c881ed31-277baf74c26e516d)
+- **Leistungen der Objektplanung Gebäude für den Neubau CAMPUS der Generationen in der Frobenstraße 27-29, 10783 Berlin Temp** – Bezirksamt Tempelhof-Schöneberg von Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/publications)
+- **Laborleistungen für das ukb** – BG Klinikum Unfallkrankenhaus Berlin gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHHML6V/documents)
+- **VE 04 Baustellenüberwachung** – Bezirksamt Marzahn-Hellersdorf von Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211375)
+- **Abschluss eines nicht-exklusiven Rahmenvertrags Planungsleistungen Ing.-Bw. 2024 ff. im Open-House-Verfahren der Autobah** – Die Autobahn GmbH des Bundes · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-190a57362c2-35ec917373ab9bbc)
+- **Fachplanung Technische Ausrüstung ELT, Teilprojekt 5 Erneuerung der Gebäudeleittechnik und Modernisierung IT** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM1JQ/documents)
+- **Geschäftsstraßenmanagement Haselhorst Siemensstadt 2027-2030** – Bezirksamt Spandau von Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211501)
+- **Erbringung von Planungsleistungen und Erstellung von Genehmigungsunterlagen (K221/P00000919/BC)** – WWF Deutschland · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/0c861ee8-b55a-4a5b-8bbd-ee9cba62f6ed)
+- **Abschluss eines nicht-exklusiven Rahmenvertrags Planung Verkehrsanlagen 2025 ff. im Open-House-Verfahren der Autobahn Gm** – Die Autobahn GmbH des Bundes · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-195a4a87f7a-474cc221ff8efcb8)
+- **Frankfurt Hbf. Reisendeninformation_Planung TK Lph. 1-3 & 5-6, 50 Hz Lph. 1-6 - 2 Lose** – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe (Bukr 11) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/8f5a45aa-aac2-434a-8a66-be2a91affb2d)
+- **A3/A4/A59 Rahmenvertrag Verkehrssicherung** – DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabe.deges.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0c4199ac5-4fae7379625044a6)
+- **Neubau der A 14, VKE 1154, Bauüberwachung / Umweltbaubegleitung CEF-Maßnahmen MP3** – DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabe.deges.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a158b6752b-35ea76783ca2c901)
+- **A4, VKE 3612, Objektplanung Verkehrsanlagen LPh 1 und 2** – DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabe.deges.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1628d1771-183a09e1a5d590ed)
+- **Dienstleistungen i.R. des Mobilitätsmanagements für Schulen in Berlin** – Land Berlin, Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und  · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211352)
+- **Prüfung ortsfester elektrischer Anlagen - Technischer Service** – Berliner Wasserbetriebe · Frist s. Unterlagen · [Unterlagen](https://vergabekooperation.berlin/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a15f321aa9-43d80a080e09c464)
+- **Beratungsleistungen für die Koordinierungsstelle Digitalisierung der Schiene im Bereich strategische Beratung zur techni** – PD - Berater der öffentlichen Hand GmbH · Frist s. Unterlagen · [Unterlagen](https://bieterportal.pd-g.de/?tid=520eef3913bb5f31a4b1307e66402cf2)
+- **planungsbegleitende Vermessungsleistung SOW Km 14,5-33,2** – Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen, III B - Geodä · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/209254)
+- **Leistungen der Generalplanung** – WBM Wohnungsbaugesellschaft Berlin-Mitte mbH · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211616)
+- **A4, VKE 3602, Objektplanung Verkehrsanlagen Lph. 1- 2** – DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabe.deges.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1445be211-2973e6536a131204)
+- **Prüfungen ortsfester elektrischer Anlagen - Klärwerke** – Berliner Wasserbetriebe · Frist s. Unterlagen · [Unterlagen](https://vergabekooperation.berlin/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a13afbf294-19587d7a465d6eb3)
+- **Rahmenvereinbarung Planungsleistungen Leit- und Sicherungstechnik bis 250TEUR je Einzelabruf** – DB Global Business Services (Bukr 1S) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/b5f22a9d-b2f6-4222-8022-a7e440aefd10)
+- **Neubau Wohnhochhaus im Dragoner Areal - Baufeld Mitte** – WBM Wohnungsbaugesellschaft Berlin-Mitte mbH · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211560)
+- **79759 Objektplanungs- mit Fachplanungsleistungen, Dienstgebäude Würzburg, Erweiterungsbau** – DRV Bund Einkaufsmanagement Bauleistungen · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-rentenversicherung-bund.de/einkaufskoordination/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a085dad187-45401c99c6dcf0ee&PublicationType=0)
+- **Rahmenvertrag über Energieberatungs- und Sachverständigenleistungen von Energie-Effizienz-Experten** – HOWOGE Wohnungsbaugesellschaft mbH · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/209774)
+- **Fachplanung Technische Ausrüstung ELT + Aufzug, Teilprojekt 2 Zentralisierung Ver- und Entsorgung** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2C1/documents)
+- **Fachplanung Technische Ausrüstung HLSK + GA, Teilprojekt 2 Zentralisierung Ver- und Entsorgung** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2CW/documents)
+- **Fachplanung Technische Ausrüstung Medizintechnik, Teilprojekt 1.4 Zentralisierung Endoskopie** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2CP/documents)
+- **Leistungen der Tragwerksplanung für den Rückbau und Neubau der Kinder- und Jugendfreizeiteinrichtung Wilde Rübe, Wildenb** – Bezirksamt Neukölln von Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/publications)
+- **Energieträgerumstellung ETU - TGA Planung für Los 1 und 2** – WBM Wohnungsbaugesellschaft Berlin-Mitte mbH · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211400)
+- **A1, Kontrollprüfungen NEB** – DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabe.deges.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1535d6564-751e066c68700d04)
+- **BIM-Planungsleistung - ZKB 2030 - Friedrichshafen Flughafen und Meckenbeuren** – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe (Bukr 11) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/c5537aaa-3955-41ad-ab7b-280d4e1c71eb)
+- **Planung der Modernisierung von Aufzügen nach GBU, Paket 6** – GESOBAU AG · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210145)
+- **Planung Umbau Baumschulenstraße zwischen Köpenicker Landstraße und Südostalle - Sonnenallee** – Land Berlin, vertreten durch das Bezirksamt Treptow-Köpenick von Berli · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210879)
+- **Fachplanung Technische Ausrüstung Medizintechnik, Teilprojekt 3 Erweiterung ZOP und Errichtung von 16 IMC-Betten** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20H/documents)
+- **Ersatzneubau Bäkebrücke – Bauvertragliche Unterstützung** – Wasserstraßen-Neubauamt Berlin · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=898568)
+- **79760 Techn. Ausrüstung Erweiterungsbau, Dienstgebäude Würzburg** – DRV Bund Einkaufsmanagement Bauleistungen · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-rentenversicherung-bund.de/einkaufskoordination/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a0a47845f8-536904e14c463431&PublicationType=0)
+- **RV Baubegleitendens Qualitätscontrolling** – Berlinovo Immobilien Gesellschaft mbH · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210642)
+- **Fachplanung Technische Ausrüstung Medizintechnik, Teilprojekt 4 Sanierung Stationen und Erweiterung Intensivstation** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20C/documents)
+- **Objektplanung Gebäude, Teilprojekt 3 Erweiterung ZOP und Errichtung von 16 IMC-Betten** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20Y/documents)
+- **Objektplanungsleistungen für den Rückbau und Neubau der Kinder- und Jugendfreizeiteinrichtung Wilde Rübe in Berlin-Neukö** – Bezirksamt Neukölln von Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/209896)
+- **Arbeitssicherheit und Arbeitsmedizin** – Stiftung Oper in Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/209922)
+- **DGUV V4 Prüfung ortsveränderliche elektrische Betriebsmittel** – Vivantes - Netzwerk für Gesundheit GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYH4DY66AST6F/documents)
+- **Schleuse Mühlendamm- Planung zur baulichen Sicherung des Mitteldammes** – Wasserstraßen- und Schifffahrtsamt Spree- Havel · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=899500)
+- **Grundinstandsetzung Überbauung Schlangenbader Straße  - Tunnel ÜBS Bauoberleitung und besondere Leistungen I** – Land Berlin, Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und  · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210588)
+- **Vorsorgemonitoring - Detektion von Veränderungen an Bauwerken** – Die Autobahn GmbH des Bundes · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a01a736b72-4715215cf99fbbd1)
+- **Prüfstand für Schweißrauchabscheider inkl. Schweißraucherzeugungseinheit** – Deutsche Gesetzliche Unfallversicherung e.V. · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y6CMWLE/documents)
+- **BFI TP2 Generalplanung  Grundinstandsetzung und Weiterentwicklung der Reparaturhalle (Gebäude F) LPH3-9** – Berliner Verkehrsbetriebe, Bereich Einkauf/ Materialwirtschaft · Frist s. Unterlagen · [Unterlagen](https://vergabekooperation.berlin/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a08a1338d6-2572f8f5777cc150)
+- **3D Technik, Vermessung, Rahmenvertrag für die Vermessung von Innen und Außenflächen** – Land Berlin – Sondervermögen Immobilien des Landes Berlin (SILB) c/o B · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210643)
+- **Objektplanung Gebäude, Teilprojekt 2 Zentralisierung Ver- und Entsorgung** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2CV/documents)
+- **Fachplanung Technische Ausrüstung HLSK + GA, Teilprojekt 2 Zentralisierung Ver- und Entsorgung** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2CW/documents)
+- **Fachplanung Technische Ausrüstung ELT + Aufzug, Teilprojekt 2 Zentralisierung Ver- und Entsorgung** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2C1/documents)
+- **Fachplanung Technische Ausrüstung HLSK + GA, Teilprojekt 3 Erweiterung ZOP und Errichtung von 16 IMC-Betten** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20D/documents)
+- **Fachplanung Technische Ausrüstung ELT + Aufzug, Teilprojekt 3 Erweiterung ZOP und Errichtung von 16 IMC-Betten** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM206/documents)
+- **Objektplanung Gebäude, Teilprojekt 4 Sanierung Stationen und Erweiterung Intensivstation** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM204/documents)
+- **Fachplanung Technische Ausrüstung HLSK + GA, Teilprojekt 4 Sanierung Stationen und Erweiterung Intensivstation** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20B/documents)
+- **Fachplanung Technische Ausrüstung ELT, Teilprojekt 4 Sanierung Stationen und Erweiterung Intensivstation** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20E/documents)
+- **BÜW - Bf Engen Ern. Mittelbahnsteig und barrierefreier Ausbau - G.011603149** – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe (Bukr 11) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/617d3c48-d5e4-42e0-b7ec-2665dd5c113b)
+- **Objektplanung Gebäude, Teilprojekt 3 Erweiterung ZOP und Errichtung von 16 IMC-Betten** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20Y/documents)
+- **RV_D_2027_46000_alle Objekte national** – Bayerische Versorgungskammer · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y4KMVL9/documents)
+- **Fachplanung Technische Ausrüstung Medizintechnik, Teilprojekt 1.5 Zentralisierung Angiographie** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2CJ/documents)
+- **Fachplanung Technische Ausrüstung Medizintechnik, Teilprojekt 1.4 Zentralisierung Endoskopie** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2CP/documents)
+- **Objekt- und TGA-Planung nach HOAI für die Sanierung der GS am Hollerbusch** – Bezirksamt Marzahn-Hellersdorf von Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210250)
+- **2. S-Bahn-Stammstrecke München, Terminsteuerung Querschnitt, VE1411** – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe (Bukr 11) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/be574ed6-da50-4975-ae44-cc1612538ee8)
+
+## Zuschläge (Gewinner, Wert falls veröffentlicht)
+- Rader Hochbrücke, VKE A031, H1-Brückenprüfung A-Bauwerke und Verkehrszeichenbrücken – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → ZETCON Ingenieure GmbH
+- Ertüchtigung der Eingangsbereiche - Haufwerksbeprobungen und Kontrollprüfungen – Land Berlin, vertreten durch das Bezirksamt Trepto → GEOTOP GbR Grube + Grote
+- TGA Planung für die denkmalgerechte Sanierung – Land Berlin, vertreten durch das Bezirksamt Trepto → Brendel Ingenieure GmbH
+- Fachplanung Technische Ausrüstung ELT, Teilprojekt 5 Erneuerung der Gebäudeleittechnik und Modernisi – Deutsches Rotes Kreuz Schwesternschaft Berlin Geme → k. A.
+- 7141, Geotechnische Fachbauüberwachung Vorgriff – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → IGB Ingenieurgesellschaft mbH
+- Umweltbaubegleitung  – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → GICON Ecosystems GmbH
+- Planungsleistungen im Leistungsbild Objektplanung, Gebäude und Innenräume der Leistungsphasen 3-8 fü – Gemeinde Reiskirchen → Kreativ-Architekten Golkaramnay&Horstmann PartG mbB
+- Generalplanerleistungen - 715400005 Bauverwaltungsleistungen  -ID26118Ge – Senatsverwaltung für Stadtentwicklung, Bauen und W → Drees & Sommer SE
+- C38-A5/A66/A648 Westkreuz bis Nordwestkreuz Frankfurt C383 Nordwestkreuz Frankfurt u C382(teilweise) – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → TRIGIS GeoServices GmbH
+- Geotechnische Fachbaubegleitung (GFBB) A143  – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- VKE C241; A 44 VKE C241, Sontra Ost (m) bis Wommener Dreieck (m) - Umwelttechn. Gutachten Rückbau B4 – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → k. A.
+- Technische Beratungsleistungen für ein europaweites ÖPP-Vergabeverfahren sowie zur Begleitung der Pl – PD - Berater der öffentlichen Hand GmbH → hpm Henkel Projektmanagement GmbH
+- VKE 5564;Umfahrung Gotha -  Kartierung OU Gotha B7 Siebleben Kartierung: Avifauna, Haselmäuse, Flede – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → Emch+Berger GmbH Ingenieure und Planer Weimar
+- BIM-Planung Bahnsteigverlängerung Neubrandenburg IOH, Lst, OLA, EEA (50 Hz), Lph 1 bis 4, 5 bis 7 op – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe  → Rail Expert Consult GmbH, DB Engineering & Consulting GmbH, Werner & Balci GmbH
+- 80801 - Schadstoffuntersuchung AZN – DRV Bund Einkaufsmanagement Bauleistungen → Arcadis Germany B.V. & Co. KG
+- Barrierefreier Ausbau Seefeld-Hechendorf: Generalplanung – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe  → Schüßler-Plan Ingenieurgesellschaft
+- Rechercheauftrag Innenstadthavel und Nebengewässer; Recherche, Erfassung und Auswertung von Bestands – Land Berlin, Senatsverwaltung für Mobilität, Verke → ARC-GREENLAB GmbH
+- Ausbau A4, VKE 3621, Erstellung LBP, ASB, SPA-VP; Biotoptypenkartierung – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Generalplanerleistungen – Senatsverwaltung für Stadtentwicklung, Bauen und W → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- große Umweltanalytik, Friedrich-Engels-Straße – Berliner Verkehrsbetriebe, Bereich Einkauf/ Materi → phtv Prüflabor für Hoch-, Tief- und Verkehrsbau GmbH
+- Stellingdamm - Hirtestraße - Verkehrsanlagenplanung Lph. 1-7 – Berliner Verkehrsbetriebe, Bereich Einkauf/ Materi → Emch+Berger GmbH  Ingenieure und Planer Nürnberg
+- Ing. RV Betontechnologische Beratung – Berliner Wasserbetriebe → ibb Mangold - Ingenieurgesellschaft für Bauwerkserhaltung und Bauüberwachung mbH
+- (Bekanntmachung verg. Aufträge) Rahmenvertrag Innenarchitektur-Workplacedesign – Bundesdruckerei GmbH → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Rahmenvertrag Qualitäts- und Projektcontrollingleistungen -Baucontrolling und Bauüberwachung – degewo AG → Drees & Sommer SE, IBB-Müller Ingenieurgesellschaft mbH, Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Entwurfs- und Genehmigungsplanung für die Errichtung und den Betrieb einer Abfallbehandlungsanlage ( – Berliner Stadtreinigungsbetriebe AöR → GICON – Großmann Ingenieur Consult GmbH
+- V347_2026 Wartung Aufzüge HZB (Wannsee, Adlershof) – Helmholtz-Zentrum Berlin für Materialien und Energ → Schindler Aufzüge und Fahrtreppen GmbH
+- Nürnberg Hbf Sprinkleranlage Planung – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe  → BIEGE Nürnberg Hbf c/o SSF Ingenieure AG
+- Generalplanungsleistungen LP 2-9 – Senatsverwaltung für Stadtentwicklung, Bauen und W → PMS AG - Büro für Planung und Steuerung
+
+## Häufigste Gewinner im Zeitraum
+- Drees & Sommer SE – 2 Zuschlag/Zuschläge
+- ZETCON Ingenieure GmbH – 1 Zuschlag/Zuschläge
+- GEOTOP GbR Grube + Grote – 1 Zuschlag/Zuschläge
+- Brendel Ingenieure GmbH – 1 Zuschlag/Zuschläge
+- IGB Ingenieurgesellschaft mbH – 1 Zuschlag/Zuschläge
+- GICON Ecosystems GmbH – 1 Zuschlag/Zuschläge
+- Kreativ-Architekten Golkaramnay&Horstmann PartG mbB – 1 Zuschlag/Zuschläge
+- TRIGIS GeoServices GmbH – 1 Zuschlag/Zuschläge
+- hpm Henkel Projektmanagement GmbH – 1 Zuschlag/Zuschläge
+- Emch+Berger GmbH Ingenieure und Planer Weimar – 1 Zuschlag/Zuschläge
+- Rail Expert Consult GmbH – 1 Zuschlag/Zuschläge
+- DB Engineering & Consulting GmbH – 1 Zuschlag/Zuschläge
+- Werner & Balci GmbH – 1 Zuschlag/Zuschläge
+- Arcadis Germany B.V. & Co. KG – 1 Zuschlag/Zuschläge
+- Schüßler-Plan Ingenieurgesellschaft – 1 Zuschlag/Zuschläge

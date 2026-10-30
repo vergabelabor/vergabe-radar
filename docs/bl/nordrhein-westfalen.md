@@ -1,0 +1,202 @@
+---
+title: "Ausschreibungen Architekten und Ingenieure Nordrhein-Westfalen – aktuell"
+description: "Offene Ausschreibungen und Zuschläge für Planungsleistungen (Architektur, Ingenieure, CPV 71) in Nordrhein-Westfalen, wöchentlich aktualisiert, kostenlos."
+---
+# Vergabe-Report CPV 71 · letzte 14 Tage (automatisch, KI-/Skript-erzeugt, ohne Gewähr)
+
+Quelle: Bekanntmachungsservice oeffentlichevergabe.de (CC0).
+
+## Offene Ausschreibungen
+- **Erweiterung und Sanierung KGS Bergrath - Architektenleistungen** – Stadt Eschweiler · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXWHYYDDYHGKF8S1/documents)
+- **Rahmenvertrag Archäologische Begleitung - Innenstadtumbau Moers** – ENNI Stadt & Service Niederrhein AöR · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYD4DGUB/documents)
+- **Fachplanung der Tragwerksplanung für den Neubau des Zentrums für Kinder- und Jugendmedizin gemäß § 51 HOAI, Leistungspha** – Knappschaftskrankenhaus Bottrop GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0Y6RDYH3P223U/documents)
+- **KGS Bergrath_Erweiterung und Sanierung_TGA-Planung** – Stadt Eschweiler · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXWHYYDDYHGZ90UY/documents)
+- **2026-0356, Planungsleistungen für die Durchführung der Förderverfahren im Rahmen der Umrüstung der Straßenbeleuchtung au** – Stadt Leverkusen - Fachbereich Recht und Vergabe · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXVHYYRDYDC8EG2F/documents)
+- **Cafeterianeubau Schule an der Niers - TGA-Planung (ELT)** – Kreis Viersen - Abteilung 11/1 · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/K-VIERSEN-2026-0041)
+- **Cafeterianeubau Schule an der Niers - TGA-Planung (HLS)** – Kreis Viersen - Abteilung 11/1 · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/K-VIERSEN-2026-0042)
+- **Cafeterianeubau Schule an der Niers - Tragwerksplanung** – Kreis Viersen - Abteilung 11/1 · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/K-VIERSEN-2026-0043)
+- **ES 13 Energetische Sanierung von 13 Standorten RV Bauphysik** – Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht, Ver · Frist s. Unterlagen · [Unterlagen](https://vergabe.duesseldorf.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a159a30e6f-758f9b5852566c60)
+- **KGS Bergrath Erweiterung und Sanierung Tragwerksplanung** – Stadt Eschweiler · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXWHYYDDYHGTK8ZJ/documents)
+- **Neubau Bildungscampus Eslohe - Ingenieurbauwerke** – Innungsverband des Dachdeckerhandwerks Westfalen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y43M1NC/documents)
+- **Neubau eines Feuerwehrgerätehauses in Waurichen - Objektplanung** – Stadt Geilenkirchen - Der Bürgermeister - · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXS0YR1DYHY4EB3S/documents)
+- **BLB NRW BI/ Minden/ HvB Kaserne/Geb. 3c / Fachplanung ELT LPH 7 und 8** – Bau- und Liegenschaftbetrieb NRW Bundesbau · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYHUHXW9U/documents)
+- **GKW, BHKW Modernisierung** – StEB Stadtentwässerungsbetriebe Köln, AöR · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E15186825)
+- **Stadtteilarchitekt WAT II** – Stadt Bochum, Referat Zentrale Vergabestelle · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXUQYYDDY6N3L1J4/documents)
+- **Planungsleistungen für den Umbau des linken Kanalseitendammes DEK km 91,8-99,1;Überholstrecke Saerbeck** – Wasserstraßen- und Schifffahrtsamt Westdeutsche Kanäle, Münsterstraße  · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=902325)
+- **2026-0668 Objektplanungsleistung Freianlagen, GGS Eschenstraße, Eschenstraße 53, 47055 Duisburg** – Stadt Duisburg, Sondervermögen-Immobilien Duisburg (SVI), vertreten du · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YRTDYH3GAB53/documents)
+- **TGA-Planungsleistungen Anlagegruppen 410 - 450, 470, 480, LP 1-8, § 55 HOAI zum Umbau einer Kinderklinik** – Knappschaft Kliniken Gelsenkirchen-Buer GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0Y6RDY6TQWT4T/documents)
+- **Objektplanungsleistungen, Leistungsphasen 3-8, § 34 HOAI zum Neubau einer Notarztwache** – Knappschaft Kliniken Gelsenkirchen-Buer GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0Y6RDY6ZMEUF6/documents)
+- **RV ortsveränderliche Geräte** – Universität Bielefeld · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS0Y4RDY62C5JXS/documents)
+- **221 MWG Neubau Turnhalle Abzw. Maria-Wächtler-Gymnasium: Generalplanerleistungen** – GVE Grundstücksverwaltung Stadt Essen GmbH · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YD5DYHELSLHT/documents)
+- **Quartiersmanagement für das Stadtteilprojekt West für den Zeitraum 2027 und 2028** – Stadt Essen, Zentrales Vergabemanagement · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0Y68DYRVVKHP0/documents)
+- **Generalplanungsleistung Forschungsbau "SEED"** – Universität Duisburg-Essen · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS0YEQDY6GUXNK2/documents)
+- **Planung zum Umbau des Sozialgebäudes KW Mettmann** – Bergisch-Rheinischer Wasserverband · Frist s. Unterlagen · [Unterlagen](https://vergabe.brw-haan.de)
+- **2026-0413, SGP - Wiederkehrende Prüfungen und Hygieneinspektionen an raumlufttechnischen Anlagen im Stadtgebiet für 3 Ja** – Stadt Leverkusen - Fachbereich Recht und Vergabe · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXVHYYRDY659Y3QJ/documents)
+- **SiGeKo ENB BW Ruhrbrücke** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a080d0f619-11c59afd95b796ea)
+- **A42, Umweltbaubegeleitung** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a15e15efa7-16c67264adad05ec)
+- **Umgestaltung des Marktplatzes/ Planungsleistungen** – Stadt Heinsberg · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXS0Y49DYHAN6Y72/documents)
+- **Stadtteil- und Citymanagement** – Schloss-Stadt Hückeswagen · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXT2YY5YTGQ8L9KQ/documents)
+- **TGA-Planungsleistungen Anlagegruppen 410-430,470,480 Leistungsphasen 1-8, § 55 HOAI zum Neubau einer Notarztwache** – Knappschaft Kliniken Gelsenkirchen-Buer GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0Y6RDY6S1L1YB/documents)
+- **Planung der Entkernung und Beräumung der Alten Realschule - Schulzentrum Hackenbroich-Dormagen** – Stadt Dormagen, vertreten durch den Eigenbetrieb Dormagen · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E38778514)
+- **BLB NRW Köln / Neubau JVA Köln / Sachverständigen-Prüfung lufttechnischer Anlagen nach PrüfVO NRW** – Bau- und Liegenschaftsbetrieb NRW Köln · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYHA9LR6H/documents)
+- **Sanierung Nordbad Neuss | Objektplanung (Leistungsbild Gebäude und Innenräume) nach § 34 HOAI** – Neusser Bäder und Eissporthalle GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YBTMW0Q/documents)
+- **Generalplanungsleistung für Bestandswohnimmobilien OSWO, SDWO, WEWO (Vergabenummer VOEK 394-26)** – Bundesanstalt für Immobilienaufgaben · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=899550)
+- **IHK-Campus Zukunft Fachplanung AV-Technik (Los 5)** – IHK Mittlerer Niederrhein · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YW6M2E0/documents)
+- **Geotechnik, BIM** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1630de3c7-3d7cec5585e6a3df)
+- **Stadtwerke Essen AG: EU-weites Vergabeverfahren "Planung der Energiezentrale" (Los 3)** – Stadtwerke Essen AG (SWE) · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D6VM1CB/documents)
+- **Stadtwerke Essen AG: EU-weites Vergabeverfahren "Planung des Wärmenetzes" (Los 4)** – Stadtwerke Essen AG · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D6VM1B8/documents)
+- **A57,AS KR-Oppum-KR-Zentrum,6streif. Ausbau, Projektsteuerung** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a11ac9e202-481a98dcfed5033)
+- **01.01.427/428 IngVergabe Pumpwerk Hummelsheim PW und Druckleitung** – Stadt Bergisch Gladbach - Abwasserwerk · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDFDGN1/documents)
+- **Gebäude 20.16:		        Sanierung Setzungsschäden
+Gebäude 20.16 - 20.18:	Brandschutzsanierung
+(Gebäude 20.16 - 20.18:	De** – Forschungszentrum Jülich GmbH -Team Bau- · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E96268324)
+- **BLB NRW / NL DO / RUB Bochum (WE2188) / Geb. IBN / Ern.NSHV /  Planung und Bauüberwachung / 010-26-00323** – Bau- und Liegenschaftsbetrieb NRW Dortmund · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYHEMRWZZ/documents)
+- **Sanierung HRB Warthstraße Ingenieurleistungen LPH 1-4** – Aggerverband -  - KöR · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E96136725)
+- **Machbarkeitsstudie zur Installation einer kommerziellen DT-Neutronenquelle** – Forschungszentrum Jülich GmbH -Team Bau- · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E56325626)
+- **Schadstoffuntersuchungen (Rahmenvereinbarung/Jahresabrufauftrag) - Verschiedene Objekte in 5 Stadtbezirken, 45875 Gelsen** – Stadt Gelsenkirchen · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0Y6SDYHE91SCG/documents)
+- **Konzepterstellung Modernisierung der Energieversorgung** – Deutsche Rentenversicherung Westfalen - Baureferat - · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-rentenversicherung-bund.de/einkaufskoordination/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1628f263e-70ff1ced5090ed33)
+- **Externe BÜ ENB BW Ruhrbrücke** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-19ffb649fc3-6a368ecbfa6fd362)
+- **Alte Hansestadt Lemgo - VgV-Ausschreibung Projektsteuerungsleistungen - ISEK-Maßnahmen (Aufwertung Lippegarten, Aufwertu** – Alte Hansestadt Lemgo · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YUMM1M0/documents)
+- **Objektplanung brandschutztechnische Ertüchtigung von sieben U-Bahnhöfen im Bestand** – Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht, Ver · Frist s. Unterlagen · [Unterlagen](https://vergabe.duesseldorf.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1118fadf9-129aa7a87b8ae06a)
+- **Modernisierung der Stadtteilbibliothek Süchteln** – Stadt Viersen · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/S-VIERSEN-2026-0088)
+- **Blomberg - Planungsleistungen für das Projekt “Grundschulcampus, Bauabschnitt 2 Umbau und Sanierung von Bestandsgebäuden** – Stadt Blomberg · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E69518884)
+- **Neubau Rettungswache Süd am Johannes Wesling Klinikum in Minden - Tragwerksplanung** – Stadt Minden über Kreis Minden-Lübbecke · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/ccdb4641-e74b-4f3d-acd7-23999d79a020)
+- **Rahmenvereinbarung für ext. Bauüberwachung ** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a13b18eeb5-7c5e80c525f29fae)
+- **Matthias-Claudius-Schule Tragwerk und Bauphysik** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGF9/documents)
+- **Matthias-Claudius-Schule Projektsteuerung** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDG67/documents)
+- **Neubau Rettungswache Süd am Johannes Wesling Klinikum in Minden - Objektplanung Freianlagen** – Stadt Minden über Kreis Minden-Lübbecke · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/8f6e66f9-41f7-4a3f-8928-b6c50bb9ecbc)
+- **Matthias-Claudius-Schule TGA** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGFE/documents)
+- **GGS Vorst Tragwerksplaung und Bauphysik** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGK2/documents)
+- **GGS Vorst TGA** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGKU/documents)
+- **Neuaufstellung des Flächennutzungsplans der Stadt Marl** – Stadt Marl - Amt für Klimaschutz und Nachhaltigkeit - Zentrale Vergabe · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YY9DYHEJHGTX/documents)
+- **Neubau Rettungswache Süd am Johannes Wesling Klinikum in Minden - Fachplanung Technische Ausrüstung** – Stadt Minden über Kreis Minden-Lübbecke · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/2e76cd4a-3162-4bd8-b789-ddb7f97e5203)
+- **Matthias-Claudius-Schule Objektplanung** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDG6Q/documents)
+- **Neubau Bildungscampus Eslohe - Brandschutz** – Innungsverband des Dachdeckerhandwerks Westfalen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y43MW56/documents)
+- **GGS Vorst Objektplanung** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGBH/documents)
+- **Ersatzneubau THK CD Geb. D / Prüfstatik** – Bau- und Liegenschaftsbetrieb NRW Köln · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYH6VXD5A/documents)
+- **Umweltbaubegleitung ENB BW Ruhrbrücke** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a080e0c52c-22df1fe443196a74)
+- **BLB NRW DU / Abteilung Immobilienmanagement 06 Finanzen / Sonstige Liegenschaften / Projektsteuerungsleistungen für fünf** – Bau- und Liegenschaftsbetrieb NRW Duisburg · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYH63HSPH/documents)
+- **Neubau eines Feuerwehrgerätehauses in Waurichen - Objektplanung** – Stadt Geilenkirchen - Der Bürgermeister - · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXS0YR1DYHY4EB3S/documents)
+- **AEMP und Endoskopieaufbereitung Objektplanung** – Berufsgenossenschaftliches Universitätsklinikum Bergmannsheil gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHHM2B6/documents)
+- **Errichtung eines Gigabitnetzes der nächsten Generation in den unterversorgten Teilen der Gemeinde Nümbrecht unter Gewähr** – Gemeinde Nümbrecht · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YBC50G1/documents)
+- **Ermittlung von Überflutungsflächen im Zusammenhang mit der Umsetzung der EG-HWRM-RL - Dhünn und Mutzbach** – Bezirksregierung Köln · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS7YDCDYH0DH40B/documents)
+- **Bauüberwachung Fassadensanierung Opernfoyer** – Vergabe und Beschaffungszentrum Dortmund · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXPSYYFD76M/documents)
+- **Rahmenvertrag Wirtschaftsflächenentwicklung** – Zukunftsagentur Rheinisches Revier GmbH · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/01a0a95b-995b-43b8-9ba1-b38ca91fb101/zustellweg-auswaehlen)
+- **2026-0572 Modellvorhaben Stark im Norden - TP04 - Objektplanung Freianlagen, Neubau Familienzentrum Julius-Birck-Str., 4** – Stadt Duisburg, Sondervermögen-Immobilien Duisburg (SVI), vertreten du · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YRTDYRFGA4B6/documents)
+- **Verkehrsuntersuchung und Vorplanung Freiheitstraße** – Stadt Remscheid, Fachdienst Recht und Vergabe, Abteilung Zentrale Verg · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXS0YY3DY6TWVA7N/documents)
+- **Rahmenvereinbarung über die Durchführung der betriebsärztlichen und sicherheitstechnischen Betreuung - Fachkraft für Arb** – Landesbetrieb Mess- und Eichwesen Nordrhein-Westfalen · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXPNY4AD2U7/documents)
+- **Tunnel Bochum Grumme Nachrüstung LED Beleuchtung** – Die Autobahn GmbH des Bundes - NL Westfalen · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a110d25136-25e6068bd197b479)
+- **Konzepterstellung Schwimmbad und Personalwohnhaus Moltkestr. 15, Klinik Norderney, Kaiserstr. 26, 26548 Norderney** – Deutsche Rentenversicherung Westfalen - Baureferat - · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-rentenversicherung-bund.de/einkaufskoordination/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a152f96b2a-74dd1971fe222768)
+- **Generalplaner Projekt Autarkie Würgassen** – BGZ Gesellschaft für Zwischenlagerung mbH · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E16222477)
+- **Matthias-Claudius-Schule Tragwerk und Bauphysik** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGF9/documents)
+- **TGA-Planungsleistungen Anlagegruppen 440, 450, Leistungsphasen 1-8, § 55 HOAI zum Neubau einer Notarztwache** – Knappschaft Kliniken Gelsenkirchen-Buer GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0Y6RDY6ZH1X0E/documents)
+- **GGS Vorst TGA** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGKU/documents)
+- **Generalplanungsleistung für Bestandswohnimmobilien OSWO, SDWO, WEWO (Vergabenummer VOEK 394-26)** – Bundesanstalt für Immobilienaufgaben · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=899550)
+- **Planungsleistungen inkl. OSA für die Überführungsbrücke Wilhelm-Nieswandt-Allee - Stadt Essen** – Stadt Essen - Amt für Straßen und Verkehr · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YYZDYDX13ZT9/documents)
+- **Rahmenvertrag baubegleitende Vermessung Neubau KALE** – Wupperverband · Frist s. Unterlagen · [Unterlagen](https://vergabe.brw-haan.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1160494d7-25fc853687ad976e)
+- **Universitätsklinikum Münster - 1012 Sanierung und Erweiterung AWT - Abfallzentrale - P30 Planung der technischen Ausrüst** – UKM Infrastruktur Management GmbH · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS0Y6XDY606Z11R/documents)
+- **Projektsteuerung Modernisierung Realschule Am Oberen Schloss** – Universitätsstadt Siegen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YKRM242/documents)
+- **Ausbau Knotenpunkt B56 / L83 / Bundesgrenzschutzstraße** – NRW.URBAN · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS0YM3DYR2HMVU5/documents)
+- **Neubau eines Feuerwehrgerätehauses in Waurichen - Objektplanung** – Stadt Geilenkirchen - Der Bürgermeister - · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXS0YR1DYHY4EB3S/documents)
+- **1/ZIII4/GH997_Wiederholungsprüfung DGUV V4 ortsfester elektr. Anlagen** – Bundesministerium der Verteidigung · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=890623)
+- **BLB NRW / NL Do / TU Dortmund (WE2037) / Rahmenzeitvertrag SiGeKo / 010-26-00290** – Bau- und Liegenschaftsbetrieb NRW Dortmund · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYDGYGF6P/documents)
+- **Erweiterung Janusz Korczak - Gesamtschule, Neubau eines Schulgebäudes Vergabeverfahren Objektplanung Gebäude und Innenrä** – Stadt Gütersloh · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y59MWNE/documents)
+- **Blumenthal-Entwicklungsgesellschaft Herne mbH & Co. KG (BEG); Los 2: Erstellung einer Machbarkeitsstudie zur Neunutzung ** – Blumenthal-Entwicklungsgesellschaft Herne mbH & Co. KG · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D6VMWPC/documents)
+- **Funktionale Ausschreibung zur Beauftragung eines strategischen Optimierungskonzeptes für das städt. WLS-Bad** – Hansestadt Wipperfürth · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXT2YY6YTUYBXBNT/documents)
+- **HSM; Europaschule Herne - Objektplanung Gebäude und Innenräume** – HSM Herner Schulmodernisierungsgesellschaft mbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D6VMW7C/documents)
+- **TGA-Planungsleistungen Anlagegruppen 410 - 450, 470, 480, LP 1-8, § 55 HOAI zum Umbau einer Kinderklinik** – Knappschaft Kliniken Gelsenkirchen-Buer GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0Y6RDY6TQWT4T/documents)
+- **A1, Örtliche Bauüberwachung für Straßen- und Brückenbau** – Die Autobahn GmbH des Bundes | NL Westfalen | AS Osnabrück · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a12f8c44c1-1f34092eb5d5b18c)
+- **Neubau Bildungscampus Eslohe - Brandschutz** – Innungsverband des Dachdeckerhandwerks Westfalen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y43MW56/documents)
+- **Bundesstadt Bonn: Multiprojektsteuerung für die Feuerwachen I und III** – Bundesstadt Bonn - Referat Vergabedienste · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXTSYYDYTT3DFVK6/documents)
+- **Planungsleistungen Umbau Wertstoffhof Nord** – Stadt Bielefeld - Amt für Zentrale Leistungen · Frist s. Unterlagen · [Unterlagen](https://www.vergabe-westfalen.de/VMPSatellite/notice/CXX0YYDDYDSNWNP2/documents)
+- **AeroPark 2 und 3 Würselen Merzbrück – Energiekonzept** – Aachener Kreuz Merzbrück GmbH & Co. KG · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/cc22f5e8-342f-4773-a9c1-c7f60ab9b9f3)
+- **IHK-Campus Zukunft Projektsteuerung** – IHK Mittlerer Niederrhein · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YW6M8PT/documents)
+- **Erstellung von Baulärmgutachten und - monitoring für zwei Neubauprojekte zu ministeriellen Zwecken auf dem Postblockarea** – Bundesanstalt für Immobilienaufgaben · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=898400)
+- **ES 13 Energetische Sanierung von 13 Standorten RV Planung HLS + MSR** – Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht, Ver · Frist s. Unterlagen · [Unterlagen](https://vergabe.duesseldorf.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a13e04b17a-aa3c14b9c473f2a)
+
+## Zuschläge (Gewinner, Wert falls veröffentlicht)
+- Gesamtkonzeption und Teilneubau Betriebshof Goethestraße - Vergabeverfahren Objektplanung Verkehrsan – Stadt Gütersloh → PlusPlan Ingenieure GmbH · 137,649 €
+- ISEK Planungsleistungen – Stadt Tönisvorst → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- BIM (Manager und Gesamtkoordinator) zu Flehe Lph 3-4 – Die Autobahn GmbH des Bundes - NL Rheinland → Konstruktionsgruppe Bauen AG
+- Gesamtsanierung BG Klinikum Duisburg - Fachplanung Technische Ausstattung ELT – BG Klinikum Duisburg gGmbH → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 1,773,249 €
+- Planungsleistung Bauhof - Technische Gebäude Ausstattung – Stadt Schleiden → OTTAWA Ingenieure GmbH
+- Gesamtsanierung BG Klinikum Duisburg - Projektsteuerung – BG Klinikum Duisburg gGmbH → Stein und Partner Projektmanagement GmbH · 1,850,161 €
+- Rahmenvertrag Breitbandnetzausbau – Kolpingstadt Kerpen → Theis Consult GmbH
+- Bert-Brecht-Haus, Fassadensanierung - Objektplanung stufenweise LP 2-3, 4-5, 6-8 – SBO Servicebetriebe Oberhausen - Eigenbetrieb der  → Dr. Schramm Michael GmbH · 392,126 €
+- Gesamtsanierung BG Klinikum Duisburg - Fachplanung Technische Ausstattung HLSK – BG Klinikum Duisburg gGmbH → IBH-Ingenieurgesellschaft · 3,276,425 €
+- OGS-Erweiterung Viktoriaschule - Architektenleistung – Zentrale Gebäudebewirtschaftung Lünen → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Verhandlungsverfahren ohne Teilnahmewettbewerb zur Vergabe von Planungsleistungen für die Medienauss – Bundesanstalt für Immobilienaufgaben → Arcers GmbH architects + engineers
+- LWL - Klinik Marsberg; Neubau Kinder- Jugend-Psychiatrie; DGNB; 26-082 TV – LWL - Bau- und Liegenschaftsbetrieb (LWL-BLB) → Hitzler Ingenieure GmbH & Co. KG · 134,900 €
+- Sanierung Hochwasserentlastungsanlagen und Dammbauwerke – Wupperverband → k. A.
+- Airborne Laserscanning 2026 – Bezirksregierung Köln → Einzelbieter (Name aus Datenschutzgründen ausgeblendet), MILAN Geoservice GmbH, Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 585,907 €
+- Neubau Faulungsanlage KA Müllekoven - Los 03 Tragwerksplanung – Abwasserbetrieb Troisdorf, AöR → k. A.
+- B236 Nachrodt, Brückenneubau Umweltbaubegleitung – Landesbetrieb Straßenbau NRW - Regionalniederlassu → ZETCON Ingenieure GmbH · 175,419 €
+- Labordienstleistungen in der Abwasserbeseitigung – Abwasserbetrieb TEO AöR → AGROLAB Labor GmbH · 124,124 €
+- Gesamtsanierung BG Klinikum Duisburg - Bauphysik – BG Klinikum Duisburg gGmbH → Krämer-Evers Bauphysik GmbH & Co. KG · 145,852 €
+- Planungsleistungen Neubau des Aviation Innovation Centers (AIC) - Los 3 – Technische Ausrüstung – Aachener Kreuz Merzbrück GmbH & Co. KG → Carpus+Partner AG
+- Gesamtsanierung BG Klinikum Duisburg - Objektplanung Gebäude – BG Klinikum Duisburg gGmbH → PL Architekten GmbH · 3,540,499 €
+- Gesamtsanierung BG Klinikum Duisburg - Tragwerksplanung – BG Klinikum Duisburg gGmbH → Schüßler-Plan Ingenieurgesellschaft mbH · 461,996 €
+- Bodengutachten mehrerer Bauwerke – Landesbetrieb Straßenbau NRW - Regionalniederlassu → DB Engineering & Consulting GmbH - Region West · 322,213 €
+- PL Paul-Dohrmann-Schule Neugestaltung Schulhof – Stadt Bochum, Referat Zentrale Vergabestelle → Planungsbüro DTP Landschaftsarchitekten GmbH
+- Rahmenvereinbarung Vermessungsleistungen – Stadt Altena (Westf.) → Bertels Ingenieure GmbH
+- Generalplanung "Innovationszentrum" – TPG TechnologieParkPaderborn GmbH → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Planungsleistungen Brandschutzmaßnahmen U35 Bf. Waldring – Stadt Bochum, Referat Zentrale Vergabestelle → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 83,453 €
+- Gutachter- und Ingenieurleistungen Baureifmachung Glasmacherviertel – Landeshauptstadt Düsseldorf, Der Oberbürgermeister → HPC AG - NL Duisburg
+- Objektplanung Albert-Schweitzer-Gymnasium (Energetische Sanierung) – Stadt Hürth → Beyss Architekten GmbH
+-  PW Tönisheide - Planung eines Abwasserpumpwerks mit Druckleitung und Freispiegelkanal – Bergisch-Rheinischer Wasserverband → ATD GmbH
+- Neubau einer 3-fach Sporthalle inklusive Kita, Abriss der Bestandshalle am Herler Ring 2, 51067 Köln – Amt für Recht, Vergabe und Versicherungen → k. A.
+- Architektonische Neugestaltung des NS-Dokumentationszentrums Köln (Umbau + Innenräume + Treppenhaus) – Amt für Recht, Vergabe und Versicherungen → Wandel Lorch Götze Wach GmbH
+- Neubau einer 3-fach Sporthalle inkl. Kita, Abriss Bestandhalle am Herler Ring 2, 51067 Köln  – Amt für Recht, Vergabe und Versicherungen → k. A.
+- Planungsleistungen Neubau des Aviation Innovation Centers (AIC) - Los 2 – Tragwerksplanung – Aachener Kreuz Merzbrück GmbH & Co. KG → CSZ Ingenieurconsult Gmbh & Co. KG
+- Planungsleistungen Neubau des Aviation Innovation Centers (AIC) - Objektplanung Los 1 – Aachener Kreuz Merzbrück GmbH & Co. KG → Krause Kempen Ingenieure GmbH
+- Planungsleistungen Verkehrsanlagen und Freianlagen für die barrierefreie Umgestaltung des Bahnhofsum – Wallfahrtsstadt Werl → Hellweg-Ingenieure GmbH
+- BLB NRW Köln / Neuentwicklung Viktoriabad/VIKA Universität Bonn, Gebäudeautomation – Bau- und Liegenschaftsbetrieb NRW Köln → SOCOTEC Building Solutions GmbH · 487,389 €
+- BLB NRW / NL DO / JZ Bochum (WE2757) / DO, M2100,  Aust LED + Betriebsoptimierung, Planungsleistunge – Bau- und Liegenschaftsbetrieb NRW Dortmund → Ingenieurbüro Krefft GmbH & Co. KG · 488,161 €
+- Strategisches Baumanagement – Universitätsklinikum Essen Anstalt des öffentliche → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- A40, E2, Externes Projektmanagement – Die Autobahn GmbH des Bundes - NL Rheinland → Drees & Sommer SE
+- Planungsleistungen Ablaufkanal PWK Herne-Röhlinghausen – Emschergenossenschaft → FISCHER TEAMPLAN Ingenieurbüro GmbH
+- Planungsleistungen Technische Ausrüstung für: Umstrukturierung und Modernisierung des bbz Arnsberg – Handwerkskammer Südwestfalen → G-TEC Ingenieure GmbH
+- Ermittlung von Überflutungsflächen im Zusammenhang mit der Umsetzung der EG-HWRM-RL - Strunde – Bezirksregierung Köln → Hydrotec Ingenieurgesellschaft für Wasser und Umwelt mbH · 284,151 €
+- L651/551 Sprockhövel/Niedersprockhövel, Verkehrsuntersuchung – Landesbetrieb Straßenbau NRW - RNL Südwestfalen -  → Brilon Bondzio Weiser Ingenieurgesellschaft  mbH · 63,050 €
+- Neubau einer Mensa im Schulpark Senden - TECHNISCHE GEBÄUDEAUSRÜSTUNG ELT, Mess- und Regeltechnik – Gemeinde Senden → ISW Ingenieur GmbH Schmidt & Willmes
+- Architekten- und Ingenieurleistungen für die folgende Maßnahme: Zentralisierung der Klinik für Kinde – Klinikum Oberberg GmbH → Architekten Naujack Rind Hof GmbH
+- BLB NRW BB / BI / GFMR-Kaserne Augustdorf / MZH Geb. 112 / SiGeKo – Bau- und Liegenschaftbetrieb NRW Bundesbau → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 58,555 €
+- Planungsleistungen Objektplanung Garath Koblenzerstraße (EFRE) – Landeshauptstadt Düsseldorf, Der Oberbürgermeister → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Gestellung Sicherungsaufsicht Sakra/Bahnerdungberechtigter (BEB)/ATWS-Anlage – Die Autobahn GmbH des Bundes | NL Westfalen | AS H → FSU Rail GmbH
+- BLB Aachen | RWTH | Sanierung Brandschutz Luft- und Raumfahrt (LUR) | Objektplanung (005-26-00203) – Bau- und Liegenschaftsbetrieb NRW Aachen → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 116,372 €
+- BLB NRW Köln / Technische Hochschule Köln / Ersatzneubau Campus Deutz / Mensa / Projektsteuerungslei – Bau- und Liegenschaftsbetrieb NRW Köln → BMP Baumanagement GmbH · 1,572,614 €
+- Ext. Unterstützung Nachtragsmanagement AS Euskirchen – Die Autobahn GmbH des Bundes - NL Rheinland → Römhild Ingenieur Consulting GmbH
+- BKS-Objektplanung – Kreis Düren → SSP AG
+- BKS-Technische_Ausrüstung, Vergabe – Kreis Düren → Reichel Ingenieurgesellschaft für Gebäudetechnik mbH
+- "Neubau EUREGIO Geschäftsstelle" in Gronau: Fachplanungsleistung Tragwerksplanung – Stadt Gronau (Westfalen) → g+w ingenieurplanung Beratende Ingenieure für das Bauwesen GmbH
+- BLB NRW D/Düsseldorf (WE1312)/D-MAGS Fachplanung TA: Erneuerung der GLT und Brandschutzmaßnahmen 065 – Bau- und Liegenschaftsbetrieb NRW Düsseldorf → BHS Planungs GmbH & Co KG · 680,630 €
+- CKS / Projektsteuerung für Erweiterungsneubauten u. Neu- bzw. Umstrukturierung – Christliches Klinikum Soest gGmbH → BOS Projektmanagement GmbH
+- Euregio-Gymnasium: Planung der Baufeldfreimachung / Rückbaus – Stadt Bocholt → Asmus + Prabucki Ingenieure Beratungs GmbH · 151,528 €
+- GP: Klinikum Leverkusen – Klinikum Leverkusen gGmbH c/o Klinikum Leverkusen  → Vollack GmbH & Co. KG
+- ÖFS Brutvogelkartierung 2027 – Landesamt für Natur, Umwelt und Klima NRW → Einzelbieter (Name aus Datenschutzgründen ausgeblendet), Einzelbieter (Name aus Datenschutzgründen ausgeblendet), Bioplan Höxter PartG · 350,177 €
+- JHK-DR: Erstmalige Zuweisung der Fachabteilung Geriatrie – Johanniter-Krankenhaus Duisburg-Rheinhausen GmbH → THIEKEN ARCHITEKTEN + INGENIEURE GmbH, IBH-Ingenieurgesellschaft, Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 270,912 €
+- Ingenieurleistung Elektrotechnik - Errichtung Trafo und NSHV am EBG – Stadt Castrop-Rauxel → Hatting & Kuhlmann TGA GmbH & Co. KG · 59,521 €
+- Ingenieurleistungen Elektrotechnik an der Grundschule Alter Garten – Stadt Castrop-Rauxel → Hatting & Kuhlmann TGA GmbH & Co. KG · 86,507 €
+- Ingenieursleistungen Elektrotechnik - Sanierung Ratssaal – Stadt Castrop-Rauxel → Hatting & Kuhlmann TGA GmbH & Co. KG · 95,233 €
+- Erwerb ausschließlicher Nutzungsrechte am Wettbewerbsentwurf von bbz landschaftsarchitekten berlin g – Stadt Castrop-Rauxel → bbz landschaftsarchitekten berlin gmbh · 300,000 €
+- Erweiterung Gebrüder-Grimm-Schule in Grevenbroich | Fachplanung (Leistungsbild Technische Ausrüstung – Stadt Grevenbroich → RC-Planung GmbH
+- Rahmenvertrag für Prüfdienstleistungen Medizin- und Labortechnik – Universitätsklinikum Köln AöR → Universal Labortechnik GmbH & Co. KG, WISAG Medizintechnischer Service GmbH · 1,817,796 €
+- 2025-34/2 DEG Freiraumplanerischer Realisierungswettbewerb - Freiraumgestaltung Friedrich-Park und B – Stadt Duisburg - Amt 31-21 Grün- und Freiraumentwi → KOKOMO Landschaft und Stadtraum GmbH · 563,666 €
+- Neubau Sekundarstufe I - Modulbau - Projektsteuerung – Vergabe und Beschaffungszentrum Dortmund → BMP Baumanagement GmbH · 824,089 €
+
+## Häufigste Gewinner im Zeitraum
+- Hatting & Kuhlmann TGA GmbH & Co. KG – 3 Zuschlag/Zuschläge
+- IBH-Ingenieurgesellschaft – 2 Zuschlag/Zuschläge
+- BMP Baumanagement GmbH – 2 Zuschlag/Zuschläge
+- PlusPlan Ingenieure GmbH – 1 Zuschlag/Zuschläge
+- Konstruktionsgruppe Bauen AG – 1 Zuschlag/Zuschläge
+- OTTAWA Ingenieure GmbH – 1 Zuschlag/Zuschläge
+- Stein und Partner Projektmanagement GmbH – 1 Zuschlag/Zuschläge
+- Theis Consult GmbH – 1 Zuschlag/Zuschläge
+- Dr. Schramm Michael GmbH – 1 Zuschlag/Zuschläge
+- Arcers GmbH architects + engineers – 1 Zuschlag/Zuschläge
+- Hitzler Ingenieure GmbH & Co. KG – 1 Zuschlag/Zuschläge
+- MILAN Geoservice GmbH – 1 Zuschlag/Zuschläge
+- ZETCON Ingenieure GmbH – 1 Zuschlag/Zuschläge
+- AGROLAB Labor GmbH – 1 Zuschlag/Zuschläge
+- Krämer-Evers Bauphysik GmbH & Co. KG – 1 Zuschlag/Zuschläge

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vergabelabor.github.io/vergabe-radar/sitemap.xml

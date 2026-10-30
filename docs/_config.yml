@@ -1,0 +1,8 @@
+title: Vergabe-Radar Planungsleistungen
+description: Kostenloser, KI-erzeugter Radar für Ausschreibungen und Zuschläge von Architektur- und Ingenieurleistungen (CPV 71), aus offenen Daten.
+lang: de
+url: https://vergabelabor.github.io
+baseurl: /vergabe-radar
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

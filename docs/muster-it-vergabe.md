@@ -1,0 +1,257 @@
+# Vergabe-Report CPV 72,48 · letzte 7 Tage (automatisch, KI-/Skript-erzeugt, ohne Gewähr)
+
+Quelle: Bekanntmachungsservice oeffentlichevergabe.de (CC0).
+
+## Offene Ausschreibungen
+- **Erneuerung Serverinfrastruktur für die Stadt Merseburg** – Stadtverwaltung Merseburg · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/54321-Tender-1a00e62e4a2-fc7763564a09152)
+- **RV Strat. Projektdienstleistungen Los 1+2** – Land Baden-Württemberg vertreten durch die IT Baden-Württemberg · Frist s. Unterlagen · [Unterlagen](https://ausschreibungen.landbw.de/Satellite/notice/CXUEYYLDYR7YK9AJ/documents)
+- **Beschaffung von Betriebsdienstleistungen für Content Management Systeme Portale in drei Losen** – Land Hessen, vertreten durch die Hessische Zentrale für Datenverarbeit · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a05c0f07b9-30ee05b89a769c4d)
+- **Überlassung und Einführung einer SAP basierten Meldungs- und Auftragsbearbeitung mit CAFM** – Berliner Stadtreinigungsbetriebe AöR · Frist s. Unterlagen · [Unterlagen](https://www.bsr.de/veroeffentlichungen-und-ausschreibungen/)
+- **Übersetzungssoftware (01/U/2026)** – IKK classic · Frist s. Unterlagen · [Unterlagen](http://www.deutsche-evergabe.de/dashboards/dashboard_off/82a4b8d7-7258-476c-b99e-9685671a6b88)
+- **Pflege, Weiterentwicklung und Support der Individualsoftware SolumSTAR und SolumWEB** – Entwicklungsverbund SolumSTAR der Länder BY, BE, BB, HB, HH, HE, MV, N · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.bayern.de/evergabe.bieter/api/supplier/external/deeplink/subproject/b6a4154a-8ae0-4085-8e38-bb7a870bdca9)
+- **Überlassung, Pflege und Wartung von Sage Lizenzen** – Deutsches Institut für Urbanistik gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DCTM7QV/documents)
+- **Lizenzen Jira und Confluence** – Kommunaler Versorgungsverband Baden-Württemberg · Frist s. Unterlagen · [Unterlagen](https://vergabeportal-bw.de/Satellite/notice/CXRAY6JYM5X/documents)
+- **Lieferung, Implementierung, Migration und Inbetriebnahme eines integrierten ERP- und Abrechnungssystems** – Stadtwerke Forchheim · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/01a01a48-57b3-42f3-b820-09a5918b26f3/zustellweg-auswaehlen)
+- **Nährstoffmanagement** – Landwirtschaftskammer Niedersachsen Geschäftsbüro Landwirtschaft Olden · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXVHYR4DY66E8FVX/documents)
+- **152/164 - Netflowgeneration Wartung & Lizenzen** – RWTH Aachen University · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS0YD8DYRDFG2G4/documents)
+- **Raumbuchungsprogramm für Desksharing** – Stadt Chemnitz · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/54321-Tender-1a03c681a6f-4424af0d1c2efa74)
+- **Rahmenvereinbarung Snow** – Land Niedersachsen vertreten durch IT.Niedersachsen FG 24 - Zentrale V · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXS0Y51YTTCA4DML/documents)
+- **Lieferung, Installation und Inbetriebnahme von zwei KI-Servern** – Deutsches Krebsforschungszentrum · Frist s. Unterlagen · [Unterlagen](https://www.tender24.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0e7e6f1a6-3c9846927be76cd2)
+- **KI-Server 2026** – Zentrale Vergabestelle im Bayerischen Landesamt für Steuern · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.bayern.de/evergabe.bieter/api/supplier/external/deeplink/subproject/751b572c-f6d5-4731-8d96-ba444982f641)
+- **AutoDesk Lizenzen** – Hamburger Energienetze GmbH · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/950858dc-e5aa-4333-964f-00d608fed43c)
+- **Beschaffung eines Biobank Informationsmanagement Systems (BIMS)** – Medizinische Universität Lausitz - Carl Thiem · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXVHY67DY66PB7TG)
+- **Forschungsinformationssystem** – Duale Hochschule Baden-Württemberg · Frist s. Unterlagen · [Unterlagen](https://ausschreibungen.landbw.de/Satellite/notice/CXUEYYJDY668BPML)
+- **Einrichtung eines digitalen Lernmanagementsystems inkl. E-Trainings bzw. E-Learning** – Stadt Schwelm · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/S-SCHWELM-2026-0056)
+- **Lieferung, Installation und Anpassung eines Social Intranets für den Einsatz in der Stadtverwaltung der Hanse- und Unive** – Hanse- und Universitätsstadt Rostock, Die Oberbürgermeisterin, Rechts- · Frist s. Unterlagen · [Unterlagen](https://evergabe-mv.de/Satellite/notice/CXVHYDCYTTCLR4U5)
+- **10054794 - Technical Evaluation Training and Expert Advice for dual TVET training programs in field of HV, RE in Mongoli** – Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH · Frist s. Unterlagen · [Unterlagen](https://ausschreibungen.giz.de/Satellite/notice/CXTRYY6DYR2YY9A4)
+- **Wartungsverlängerung von Forcepoint Lizenzen mit Enhanced Support (SPRT)** – Bundeseisenbahnvermögen · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdetails.html?id=895152)
+- **Lieferung, Montage und Inbetriebnahme einer Videoanlage auf der Schleuse Hirschhorn RK** – Fachstelle Maschinenwesen Südwest · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdetails.html?id=895192)
+- **ReadyAPI Test 2026** – Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier vert · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdetails.html?id=895251)
+- **VM Workspace ONE Advanced 3-year subscriptions** – Stadtreinigung Hamburg AöR · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/157766)
+- **Ausfallkonzepts für das Krankenhausinformationssystem (KIS-Ausfallkonzept)** – SRH Gesundheit GmbH · Frist s. Unterlagen · [Unterlagen](https://plattform.aumass.de/Veroeffentlichung/AV2890B6-A)
+- **Commvault Wartungsverlängerung** – AOK - Die Gesundheitskasse für Niedersachsen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0YHGDYDSXYKV8/documents)
+- **Hardware für hybride Videokonferenzen** – IT-Verbund Schleswig-Holstein (ITV.SH) AöR · Frist s. Unterlagen · [Unterlagen](https://fbhh-evergabe.web.hamburg.de/evergabe.bieter/api/supplier/external/deeplink/subproject/aead7f74-1cf1-46ee-a5d5-fa2b8d854e8b)
+- **Software-as-a-Service für das Verfahren zur Ausweisung von Infrastrukturgebieten** – Bundesnetzagentur · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=893873)
+- **Beschaffung von Microsoft Lizenzen | Offenes Verfahren gemäß § 15 VgV** – Stadtverwaltung Görlitz · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/01a0d338-08ba-4081-8889-3637614fc9a0/zustellweg-auswaehlen)
+- **Trusted Research Environment (TRE) als Minimum Viable Product (MVP) für RIDLOP** – GESIS Leibniz-Institut für Sozialwissenschaften · Frist s. Unterlagen · [Unterlagen](https://www.vergabe24.de/vergabeunterlagen/54321-Tender-1a0d719c3bb-60f9b5f7d0930183)
+- **Rahmenvereinbarung Unterstützung im Themenbereich IT-Security** – Investitionsbank Schleswig-Holstein · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/7/tenderId/121016550)
+- **MDM-System** – Landeshauptstadt Dresden, GB Wirtschaft, Digitales, Personal und Siche · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/54321-Tender-1a0a9d488a2-705f5a3e812bfe80)
+- **Innerstädtische Verbindungen der Kommunen und Internetaccess mit DDoS Absicherung** – ekom21 - Kommunales Gebietsrechenzentrum Hessen · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-19ffa7d585d-75240cf569a37569)
+- **Seminarverwaltungssoftware für das Bildungszentrum Reinhardtsgrimma** – Landesamt für Umwelt, Landwirtschaft und Geologie · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.sachsen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-19f8f3124cd-5ed6bbaff03dbcd7)
+- **Einführung einer Unified Communications & Collaboration Plattform auf Basis Alcatel-Lucent Enterprise Rainbow** – Landeshauptstadt Potsdam, Bereich Vergabemanagement · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YCRHXXC/documents)
+- **62-2026-640-EA Verlängerung der Lizenzen für Cisco Webex** – Stadt Regensburg · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/303932)
+- **Rahmenvertrag für den Bezug von Microsoft Lizenzprodukten aus Volumenverträgen zwischen Bund und Microsoft** – Ministerium für Infrastruktur und Digitales des Landes Sachsen-Anhalt · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=892463)
+- **Rahmenvertrag über Testdienstleistungen 2026** – Staatsbetrieb Sächsische Informatik Dienste · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.sachsen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a04190b8d8-74029493154ff964)
+- **Kabelmanagementsoftware zur Verwaltung des straßenverkehrstechnischen Kabelnetzes - Lieferung inkl. Wartung** – Landeshauptstadt Erfurt, Stadtverwaltung, Stadtkämmerei-Vergabestelle · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=886524)
+- **EUDI-Wallet Support Organisation Technische Infrastruktur der EUDI Wallet Support Organisation (EWSO) - "Tooling"** – Common Codes GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D9LM8G0/documents)
+- **Personalmanagementsystem (HRMS) - Auswahl, Implementierung und Betrieb eines integrierten Personalmanagementsystems ** – DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabe.deges.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0ca4598e3-70081839114b621e)
+- **Office und Access Lizenzen - Lieferung** – Landeshauptstadt Erfurt, Stadtverwaltung, Stadtkämmerei, Verdingungsst · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=894047)
+- **Gemeinde Marklkofen - Gigabit-RL 2.0 (2025) - Auswahlverfahren einer Dienstleistungskonzession im Wirtschaftlichkeitslüc** – Gemeinde Marklkofen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YV8M768/documents)
+- **EUDI-Wallet Support Organisation VoC - Feedback & Analytics** – Common Codes GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D9LMPL2/documents)
+- **Tourismus Marketing GmbH Baden-Württemberg - Vergabe zur Entwicklung und Implementierung eines Tourismus-Dashboards für ** – Tourismus Marketing GmbH Baden-Württemberg · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YMZMV6T/documents)
+- **Confidential Computing-fähige Server - AISEC-2026-0021-PR1303858/72** – Fraunhofer-Institut für Angewandte und Integrierte Sicherheit AISEC · Frist s. Unterlagen · [Unterlagen](https://vergabe.fraunhofer.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0ce7aac21-41f9b957b097ee1a)
+- **Open-House-Zulassungsverfahren zur Zulassung von Distributoren für das openDesk-Ökosystem** – Zentrum für Digitale Souveränität der Öffentlichen Verwaltung (ZenDiS) · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YWLMV2L/documents)
+- **SL 87-26O - externe IT-Dienstleistungen zur Unterstützung des Eigenbetrieb Jobcenter des Landkreis Vorpommern-Rügen** – Eigenbetrieb Jobcenter/ Standort Stralsund · Frist s. Unterlagen · [Unterlagen](https://evergabe-mv.de/Satellite/notice/CXVHYD3DYRG08ZRH/documents)
+- **Transformation der HR-System- und Prozesslandschaft:  Einführung einer zukunftsfähigen HR-Systemlandschaft** – Mobil Krankenkasse · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YDLMVJ1/documents)
+- **Bewerbungs-, Zulassungs- und Kursverwaltungsportal Studierende** – Charité - Universitätsmedizin Berlin · Frist s. Unterlagen · [Unterlagen](https://vergabeplattform.charite.de?tid=cd35d62abbed600322a2a771fd45c458)
+- **Software Laserscanning** – Staatsbetrieb Sachsenforst · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.sachsen.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-19f6b5b912b-5b2470620e0e9075&PublicationType=0)
+- **Bereitstellung einer Ersthelfer-App für den gesamten Rettungsdienstbereich der Leitstelle Jena** – Kommunale Informationstechnik und Telekommunikation Optimierter Regieb · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVKYYRDYR1Y5E6U)
+- **mobile WebAR-Anwendung** – Leibniz-Institut für Gartenbauwissenschaften (IGZ) · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YRZHX1U)
+- **Hosting Webseiten (Drupal/LimeSurvey etc.)** – Verbraucherzentrale Bundesverband e.V. · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YA5MV8J)
+- **Beleuchtungserneuerung U-Würfel B-Ebene ? Los 1: GW, Los 2: Holzhausenstr. und Los 3: Westend** – Stadtwerke Verkehrsgesellschaft Frankfurt am Main mbH (VGF) · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/00e5a173-3827-4430-9e70-3d384f9994e3)
+- **Beschaffung Energiemanagementsoftware** – Universität Osnabrück · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/X-UNI-OSNA-2026-0010)
+- **Server** – Polizeipräsidium für Service und IT Logistikzentrum · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.sachsen.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a0d1fdc57f-4e559be358d30330&PublicationType=0)
+- **Beschaffung eines Dokumentenausgabesystem** – Stadtverwaltung Frankenthal (Pfalz) · Frist s. Unterlagen · [Unterlagen](https://rlp.vergabekommunal.de/Satellite/notice/CXS0Y5UDYR7HKK4F)
+- **Datenbeschaffung über Mobilität der Bevölkerung im Großraum Berlin** – Technische Universität Berlin · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0YEADYRV8JTFT)
+- **Cloud Foundation** – Berliner Feuerwehr · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210650)
+- **E-Akte** – Ministerium für Heimat, Kommunales, Bau und Digitalisierung des Landes · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXPNY6CD297/documents)
+- **RZ-Beratungsdienstleistungen** – rku.it GmbH · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXPSYD1DQ9Q/documents)
+- **Einführung einer cloudbasierten Reisekostenabrechnungs- und 
+Kostenerstattungslösung für die KfW und KfW IPEX-Bank** – KfW Bankengruppe · Frist s. Unterlagen · [Unterlagen](https://ausschreibungen.kfw.de/evergabe.bieter/api/supplier/external/deeplink/subproject/f1e2dd8d-a7f8-48d2-9653-7f01d67a3bdb)
+- **Erneuerung der Fachsoftware für das Schwerbehindertenrecht-Feststellungsverfahren** – Ministerium für Arbeit, Soziales, Gesundheit und Gleichstellung Sachse · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=886040)
+- **Digitale Beteiligungsplattform** – Bundesamt für die Sicherheit der nuklearen Entsorgung · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=886064)
+- **IT Beratung Microsoft M365** – Erste Abwicklungsanstalt AöR · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0YEBDYYV95N74/documents)
+- **Endpoint Detection & Response Lösung (EDR) mit Extended Detection & Response (XDR) Funktionen** – Stadt Iserlohn · Frist s. Unterlagen · [Unterlagen](https://www.vergabe-westfalen.de/VMPSatellite/notice/CXPWYDQLKHA/documents)
+- **Speichererweiterung für Huawei OceanProtect X8000 Backup System** – Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK) · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/54321-Tender-1a0c3cb61c8-6fbac4ff7091db5b)
+- **Aufbau und Weiterentwicklung von Business-Intelligence- und Analytics-Services** – Hamburg Messe und Congress GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0YBVDYR7DLDY5/documents)
+- **KI-Server 2026** – Zentrale Vergabestelle im Bayerischen Landesamt für Steuern · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.bayern.de/evergabe.bieter/api/supplier/external/deeplink/subproject/a0f6b375-621d-4636-ad4c-d35eed76bee1)
+- **Rahmenvertrag MDM Lizenzen Verwaltung** – Vergabe und Beschaffungszentrum Dortmund · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXPSYYFD7RU/documents)
+- **Beschaffung einer App zum Training von Kognition und Sprache bei neurologischen Erkrankungen** – DAK-Gesundheit · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0YRXDYRNWPN04/documents)
+- **Application Management** – BEW Berliner Energie und Wärme GmbH · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/350c8c17-c6de-4d90-8754-7a4e65f5c71c)
+- **IT-Hotline (First-Level-Support)** – Deutscher Bundestag - Vergabereferat · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=893382)
+- **Datenschutzmanagementsystem** – ekom21 - Kommunales Gebietsrechenzentrum Hessen · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a058e93b2d-8499bb908f554e2)
+- **Dienstleistungen im SAP-Umfeld HANA** – Bundesrepublik Deutschland, vertreten durch das Bundesministerium des  · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=885591)
+- **Dienstleistungen im SAP-Umfeld HANA** – Bundesrepublik Deutschland, vertreten durch das Bundesministerium des  · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=885575)
+- **Dienstleistungen im SAP-Umfeld HANA** – Bundesrepublik Deutschland, vertreten durch das Bundesministerium des  · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=885585)
+- **Dienstleistungen im SAP-Umfeld HANA** – Bundesrepublik Deutschland, vertreten durch das Bundesministerium des  · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=885578)
+- **Dienstleistungen im SAP-Umfeld HANA** – Bundesrepublik Deutschland, vertreten durch das Bundesministerium des  · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=885573)
+- **62-2026-688-EA Verlängerung Maintenance von Citrix-Lizenzen** – Stadt Regensburg · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/304012)
+- **Backup (NAS-Backup & Tape-Library)** – Zeppelin Museum Friedrichshafen GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y52MVU2/documents)
+- **Dienstleistungen im SAP-Umfeld HANA** – Bundesrepublik Deutschland, vertreten durch das Bundesministerium des  · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=885570)
+- **Dienstleistungen im SAP-Umfeld HANA** – Bundesrepublik Deutschland, vertreten durch das Bundesministerium des  · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=885565)
+- **Hardware für hybride Videokonferenzen** – IT-Verbund Schleswig-Holstein (ITV.SH) AöR · Frist s. Unterlagen · [Unterlagen](https://fbhh-evergabe.web.hamburg.de/evergabe.bieter/api/supplier/external/deeplink/subproject/2c73f47f-9dfb-4d3f-b6f6-3667031deff8)
+- **IT-Hotline (Second-Level-Support)** – Deutscher Bundestag - Vergabereferat · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=893383)
+- **Rahmenvertrag IT-Services** – Flughafen Stuttgart GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabeportal-bw.de/Satellite/notice/CXRAY6YY5XP/documents)
+- **Dienstleistungen im SAP-Umfeld HANA** – Bundesrepublik Deutschland, vertreten durch das Bundesministerium des  · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=885582)
+- **Beratungs- und IT-Dienstleistungen im Bereich Kubernetes-Plattform - AISEC-2026-0019-PR1260598** – Fraunhofer-Institut für Angewandte und Integrierte Sicherheit AISEC · Frist s. Unterlagen · [Unterlagen](https://vergabe.fraunhofer.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0242a8028-4edc4fcf9f5e6c59)
+- **Newsproviderleistungen für Gas, Strom und LNG** – Bundesnetzagentur · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=893622)
+- **MDM-System** – Landeshauptstadt Dresden, GB Wirtschaft, Digitales, Personal und Siche · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/54321-Tender-1a0a9d488a2-705f5a3e812bfe80)
+- **Dienstleiter für IT-Support 1st Level - PR1250264-9940** – Fraunhofer-Gesellschaft - Einkauf B12 · Frist s. Unterlagen · [Unterlagen](https://vergabe.fraunhofer.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0d2b1cc3e-419dc8faf076d028)
+- **Rahmenvertrag Greenbone Schwachstellen-Scanner** – Ostfalia Hochschule für angewandte Wissenschaften - Hochschule Braunsc · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXVHY6FDYRVUYP0E/documents)
+- **Weltraum-Simulationsanlage Planetarium Stuttgart  ** – Landeshauptstadt Stuttgart, Haupt- und Personalamt, Abt. Allgemeiner S · Frist s. Unterlagen · [Unterlagen](https://lhs-vpbw.vmstart.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-199e22d2640-33cc11665e7271bd)
+- **Rahmenvertrag für den Bezug von Mircosoft Lizenzprodukten aus Volumenverträgen zwischen Bund und Microsoft** – Ministerium für Infrastruktur und Digitales des Landes Sachsen-Anhalt · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=892463)
+- **Digitale Coaching- und Lernplattform ZAF** – Freie und Hansestadt Hamburg - Landesbetrieb ZAF/AMD · Frist s. Unterlagen · [Unterlagen](https://fbhh-evergabe.web.hamburg.de/evergabe.bieter/api/supplier/external/deeplink/subproject/6de3707d-8b54-4151-8a54-87cc0513e723)
+- **Beschaffung zweier Synology NAS RS2423RP+II** – Staatsbetrieb Sächsisches Immobilien- und Baumanagement, Zentrale,  Ze · Frist s. Unterlagen · [Unterlagen](https://www.sachsen-vergabe.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a0d32a1926-3858db464e47f70f&PublicationType=0)
+- **Verlängerung Citrix Universal Hybrid Multi Cloud Subskription (250 Lizenzen) um 12 Monate** – Stadt Oldenburg (Oldb) · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/4c282306-d69e-46a1-ae50-ffdffe52dbdf)
+- **wiso DatenService** – Brandenburgische Technische Universität Cottbus - Senftenberg · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXVZYYDDYRV2XVKH)
+- **Lieferung eines GPU Servers mit 60 Monate vor Ort Service, next business day** – Universität Paderborn · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS0YYPDYRNVDNFQ)
+- **2026-0118, Update sowie ansschließende Wartungs- und Instandhaltungsleistungen inklusive Softwarepflegevertrag für die T** – Stadt Leverkusen - Fachbereich Recht und Vergabe · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXVHYYRYT8VUKJNP)
+- **Beschaffung und Dienstleistung für Aufbau eines Priviliged Access Managements (PAM)** – ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/df36b6bd-87f8-4a0d-bbd9-0587ebdeed2c)
+- **Erbringung von Software-, Wartungs- und Pflegeleistungen für die Digitalen Alarmierungssysteme des LK Potsdam-Mittelmark** – Landkreis Potsdam-Mittelmark · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9Y4BHX2C)
+- **Storage Server CeBiTec** – Universität Bielefeld · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS0Y4RDYRUW2EGX)
+- **Modernisierung und Ablösung des bestehenden Computer-Aided Facility Management Systems (CAFM)** – Bundesinstitut für Berufsbildung (BIBB) · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdetails.html?id=893369)
+- **Rahmenvertrag für Beratungs- und Dienstleistungen Salesforce für SachsenEnergie AG** – SachsenNetze HS.HD GmbH · Frist s. Unterlagen · [Unterlagen](https://sachsenenergie.de/AVA)
+- **Mitarbeitendenportal (Intranet)** – Nord Ost West Informationstechnik GmbH · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-rentenversicherung-bund.de/einkaufskoordination/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-19fa3c9f857-26bf5d529df4c9b8)
+- **Mobile Device Management – BlackBerry Unified Endpoint Manager (UEM) on premise** – Zentrale Vergabestelle im Bayerischen Landesamt für Steuern · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.bayern.de/evergabe.bieter/api/supplier/external/deeplink/subproject/d90ef9c3-f684-4e55-992f-71a1ddf93417)
+- **VMware Subscriptions** – Klinikum Idar-Oberstein GmbH · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/ab5b3226-23de-4e55-aca0-66cbf74d5f02)
+- **Software für die Abteilungen Städtischer Bestattungsdienst und Krematorium der Friedhofsverwaltung** – Stadt Nürnberg - Zentrale Dienste · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/c8924d51-06c9-46bb-92c0-b80051075cc2)
+- **Beschaffung von 7 Citrix Servern** – Gemeinsame kommunale Anstalt IT-Verbund Uelzen · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/ac7b8775-c97e-442a-ada5-84a63c04688b)
+- **Rahmenvertrag Reseller GitLAB 2026** – kubus IT eGbR · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0YRGDYRQ1THKV/documents)
+- **Stadt Bad Pyrmont - Beschaffung einer digitalen Plattform "Digitale Kur"** – Stadt Bad Pyrmont · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0Y6RDYR5FRF05/documents)
+- **Beschaffung Serverinfrastruktur** – Thüringer Landgesellschaft mbH · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=892929)
+- **Betrieb und Hosting eines nicht-moodlebasierten Lernmanagementsystems - LMS** – Senatsverwaltung für Bildung, Jugend und Familie · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/209830)
+- **Rahmenvereinbarungen Programmier- und Beratungsleistungen zur Anwendungsentwicklung im Ressort des StMELF** – Freistaat Bayern, vertreten durch das Bayer. StM f. Ernährung, Landwir · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.bayern.de/evergabe.bieter/api/supplier/external/deeplink/subproject/6ee65187-8511-4e3c-a44a-505b17381076)
+- **Digitales Klinik-Infotainment** – Klinikum Main-Spessart · Frist s. Unterlagen · [Unterlagen](https://mp.aumass.de/Veroeffentlichung/av288c14-eu)
+- **Software für das Testdatenmanagement** – VBL. Versorgungsanstalt des Bundes und der Länder · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y9RMVN9/documents)
+- **Beschaffung und Bereitstellung eines Webshops sowie die Beschaffung von Lager- und Versandleistungen (sogenanntes Fulfil** – Kaufmännische Krankenkasse - KKH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D59MPVN/documents)
+- **VMware Subscriptions** – Saarland-Heilstätten GmbH · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/aad0ad26-ffd2-4aca-a236-9eae04b38a36)
+- **Lieferung eines Storage-Servers inklusive Lizenzen (Austausch und Datenmigration des Storage )** – Zweckverband Abfallwirtschaft Saale-Orla (ZASO · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=892923)
+- **Bereitstellung einer sicheren Dateiaustauschplattform** – Zweckverband Elektronische Verwaltung in Mecklenburg-Vorpommern (eGo-M · Frist s. Unterlagen · [Unterlagen](https://evergabe-mv.de/Satellite/notice/CXRBYY5Y60C/documents)
+- **Virtualisierungsalternativen** – ProVitako Marketing- und Dienstleistungsgesellschaft der Kommunalen IT · Frist s. Unterlagen · [Unterlagen](https://xvergabe.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-19feafaf36e-429119a04458c1f5&)
+- **Aufbau einer gemeinsamen föderierten Identity- und Access-Management-Infrastruktur der Hamburger Hochschulen 
+** – Universität Hamburg · Frist s. Unterlagen · [Unterlagen](https://fbhh-evergabe.web.hamburg.de/evergabe.bieter/api/supplier/external/deeplink/subproject/821093d2-4e03-4bc0-baab-57b5e7930dc6)
+- **Rahmenvertrag über die Erbringung von Dienstleistungen in der Entwicklung von Microservices** – Stadtwerke Leipzig GmbH · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/37940572-929a-420e-9ebb-9760835017d4)
+- **Speichererweiterung für Huawei OceanProtect X8000 Backup System** – Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK) · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/54321-Tender-1a0c3cb61c8-6fbac4ff7091db5b)
+- **Managed SOC und Digital Forensics and Incident Response (DFIR)** – kommunit IT-Zweckverband Schleswig-Holstein · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/41baed96-0202-4440-b946-67041a193f68)
+- **ELS Terminalserver** – Landespolizeidirektion, SG 24-Zentrale Beschaffung/Dienstleistungen · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=893203)
+- **Beschaffung einer modularen Software für die Verwaltung von Kindertageseinrichtungen und offenen Ganztangsschulen in Ise** – Stadt Iserlohn · Frist s. Unterlagen · [Unterlagen](https://www.vergabe-westfalen.de/VMPSatellite/notice/CXPWYDQLK55/documents)
+- **Unterstützungsleistungen für die redaktionelle Pflege der Internet- und Intranetseiten des Landes Hessen** – Land Hessen, vertreten durch die Hessische Zentrale für Datenverarbeit · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a07ac04058-62663060279badbb)
+- **IT_TeTraoBe_2026** – Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier vert · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=883981)
+- **BM2026158IT-DL2027** – BITMARCK · Frist s. Unterlagen · [Unterlagen](https://xvergabe.de/awardProcedure/01a0a063-6715-4f48-9281-738dd9cf2f0a)
+- **Managed Security Services und Aufbau eines Security Operation Centers** – Universität Hamburg · Frist s. Unterlagen · [Unterlagen](https://fbhh-evergabe.web.hamburg.de/evergabe.bieter/api/supplier/external/deeplink/subproject/1e48af9f-33e8-4592-bc86-8625337a288a)
+- **Entwicklung von Szenarien zur Bereitstellung und Verarbeitung von Erdbeobachtungsdaten ab 2030 (EODATA30+)** – Deutsche Raumfahrtagentur im Deutsches Zentrum für Luft- und Raumfahrt · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdetails.html?id=893476)
+- **Red Hat Renewal** – Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR) · Frist s. Unterlagen · [Unterlagen](https://www.subreport-elvis.de/download/bund/E73946623/1790145493875/bekanntmachung.pdf)
+- **Red Hat Renewal** – Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR) · Frist s. Unterlagen · [Unterlagen](https://www.subreport-elvis.de/download/bund/E73946623/1790145493875/bekanntmachung.pdf)
+- **Entwicklung einer Website für das Verbundprojekt MUvIS** – Stadt Halle (Saale), FB Recht, Team Submission · Frist s. Unterlagen · [Unterlagen](https://ausschreibung.halle.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a0c81a3713-3ecd2efeada0054&PublicationType=0)
+- **Einjährige Verlängerung der Citrix-Lizenzen und Wartung** – Stadt Ibbenbüren · Frist s. Unterlagen · [Unterlagen](https://www.vergabe-westfalen.de/VMPSatellite/notice/CXPWYRDLK5Y)
+- **Beschaffung eines ausbaufähigen GPU-Servers für KI-Rechenlasten** – JEN Jülicher Entsorgungsgesellschaft für Nuklearanlagen mbH · Frist s. Unterlagen · [Unterlagen](https://s2c.mercell.com/today/232780)
+- **Confluence Lizenzen Abo** – Berliner Wasserbetriebe · Frist s. Unterlagen · [Unterlagen](https://vergabekooperation.berlin/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-19f93150ce5-2fe392b19952694d)
+- **IT-Angriffserkennungssysteme** – Kaufmännische Krankenkasse - KKH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D59M7S8/documents)
+- **Rahmenvertrag für den Bezug von Mircosoft Lizenzprodukten aus Volumenverträgen zwischen Bund und Microsoft** – Ministerium für Infrastruktur und Digitales des Landes Sachsen-Anhalt · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=892463)
+- **Bereitstellung und Implementierung einer Weblösung auf Basis von Contens CMS** – Landkreis Weißenburg-Gunzenhausen · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E59965491)
+- **Einführung und Betrieb einer gemeinsamen energiewirtschaftlichen IT-Plattform** – Plattform Energie GmbH · Frist s. Unterlagen · [Unterlagen](https://s2.dtvp.de/Satellite/notice/CXPIYY7YY6B/documents)
+- **DiBA DL 2027** – Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier vert · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=892437)
+- **Individuelle Teletherapie (ITT)** – Unfallbehandlungsstelle Berlin (UBS) gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHHMU1B/documents)
+- **Innerstädtische Verbindungen der Kommunen und Internetaccess mit DDoS Absicherung** – ekom21 - Kommunales Gebietsrechenzentrum Hessen · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-19ffa7d585d-75240cf569a37569)
+- **Ausschreibung CITRIX Wartungsverlängerung ab 2027** – Hannoversche Informationstechnologien AöR / hannIT · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYRTDYDCUBE9Q/documents)
+- **Citrix Lizenzumstellung auf Citrix Universal Hybrid Multi-Cloud** – SachsenEnergie AG · Frist s. Unterlagen · [Unterlagen](www.sachsenenergie.de/AVA)
+- **Deep Learning GPU Cluster - PR1285415-2220-I** – Fraunhofer-Gesellschaft - Einkauf B12 · Frist s. Unterlagen · [Unterlagen](https://vergabe.fraunhofer.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0c7ab07bb-45fa0d92284d2447)
+- **Implementierungsbegleitung Digitalisierungsprojekt** – Stadtreinigung Hamburg AöR · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/157574)
+- **Erbringung von Dienstleistungen eines externen Datenschutzbeauftragten** – ALDB GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0YEEDYRS34AW6/documents)
+- **Beschaffung und Einführung einer Fachsoftware für das Jugendamt des Landkreises Landsberg am Lech** – Landratsamt Landsberg am Lech · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/9099acdd-92f6-43bf-a073-d64515f656c5)
+- ** Rahmenvereinbarungen Programmier- und Beratungsleistungen zur Anwendungsentwicklung im Ressort des StMELF** – Freistaat Bayern, vertreten durch das Bayer. StM f. Ernährung, Landwir · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.bayern.de/evergabe.bieter/api/supplier/external/deeplink/subproject/998e1108-9d02-473e-830f-3d82daa128d1)
+- **Lieferung, Installation, Konfiguration, Einführung eines Linac VR-Einzelplatz Schulungssystems** – Westküstenkliniken Brunsbüttel und Heide gGmbH · Frist s. Unterlagen · [Unterlagen](https://bi-medien.de/ausschreibungsdienste/ausschreibungen/D462924240)
+- **Bereitstellung, Betrieb (inkl. Hosting) und Support einer IT-Anwendung zur Digitalisierung der Vorgänge in Bezug auf die** – Freistaat Thüringen, vertreten durch das Thüringer Ministerium für Soz · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=882230)
+- **Dienstleistung "M365 - Solution Architect / Integrationsmanager" für die Weiterentwicklung der M365 Umgebung der Stadt N** – Stadt Nürnberg - Zentrale Dienste · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/7d34fcfc-d677-4efc-8163-6b55e5a98718)
+- **Jamf Lizenzen** – Berliner Feuerwehr · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210526)
+- **Bereitstellung VS-nfD (= Verschlusssache -nur für den Dienstebrauch) zugelassener mobiler Arbeitsplätze (vollintegrierte** – Landespolizeidirektion Saarland · Frist s. Unterlagen · [Unterlagen](https://saarvpsl.vmstart.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0b33659e9-b5fc46c82e8faa5)
+- **Gesamtstädtisches Identity-Access Management** – Vergabe und Beschaffungszentrum Dortmund · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXPSYYFDQ1R/documents)
+- **Rahmenvertrag für Redaktion, Datenerhebung und Content-Befüllung für akademische Informationsmedien** – Deutscher Akademischer Austauschdienst e. V. · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=892701)
+- **Security Managed Services** – Universitätsklinikum Frankfurt · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/47bdabc9-a3dd-4135-a1c7-fb4c99090b6a)
+- **Software Nuix Neo** – Oberfinanzdirektion Baden-Württemberg - LZfD · Frist s. Unterlagen · [Unterlagen](https://ausschreibungen.landbw.de/Satellite/notice/CXUEYY6DYRU23248/documents)
+- **Extended Detection & Response (XDR) – Lösung** – Klinikum Esslingen GmbH · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/b21cf071-c34e-4d0f-b973-084f3bb79d64)
+- **Backup Cloud to Cloud** – Deutsche Gesetzliche Unfallversicherung e.V. · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXV1YYDDYRFAHH3P/documents)
+- **Lieferung und Migration von "Neue Systemlandschaft"** – Stadt Lübben (Spreewald)/Lubin (Blota) · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YMUHX8E/documents)
+- **Erstellung und Integration einer Umweltapplikation zur Einspielung und Abarbeitung realitätsnahe Notfall und Lageszenari** – Staatliche Feuerwehrschule Regensburg · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.bayern.de/evergabe.bieter/api/supplier/external/deeplink/subproject/50af5a37-8c04-4c61-9bbf-ef7ef250eb95)
+- **Visuelle Straßenzustandserfassung 1.Kampagne Stadtbezirk Mülheim (Los 9)** – Amt für Recht, Vergabe und Versicherungen · Frist s. Unterlagen · [Unterlagen](https://vergabeplattform.stadt-koeln.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a04313b0c7-7864abd7b1c44a6c&)
+- **Verlängerung I-Doit Subscription** – Friedrich-Schiller-Universität Jena · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdetails.html?id=893047)
+- **Relaunch Informationsportal Sozialpolitik- aktuell.de** – Universität Duisburg-Essen · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS0YEQDYRQW4V4G)
+- **Erstellung der Architektur und Beratung bei der Implementierung einer  internen Datenplattform** – Landkreis Stade · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/K-LKS-19-2026-0002)
+- **NoSpamProxy E-Mail-Security-Gateway: Lizenzen, Wartung und Support für 36 Monate** – Universitätsklinikum Halle (Saale (AöR) - Kaufmännische Direktion · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdetails.html?id=893341)
+
+## Zuschläge (Gewinner, Wert falls veröffentlicht)
+- Microsoft Unified Enterprise Support und Proactive Services 2026/27 – Deutsche Bundesbank, Zentralbereich Beschaffungen → Microsoft Deutschland GmbH
+- K4268 - VMware VSphere Enterprise Wartungsverlängerung – Kreis Plön, Der Landrat, Zentrale Vergabestelle → SoftwareONE Deutschland GmbH
+- Gemeinde Egglkofen - Vergabeverfahren Wirtschaftlichkeitslückenmodell – Gemeinde Egglkofen → Telekom Deutschland GmbH · 100 €
+- C-ITS-PKI – Die Autobahn GmbH des Bundes → Microsec zrt.
+- Ausschreibung für die Fortführung des Projekts "Sekretariat für Kooperation (SfK)" – Freie und Hansestadt Hamburg (FHH) - Behörde für S → KWB Koordinierungsstelle Weiterbildung und Beschäftigung e. V.
+- Gemeinde Albaching - Ausschreibung Wirtschaftlichkeitslückenmodell – Gemeinde Albaching → Telekom Deutschland GmbH · 100 €
+- VMware Cloud Foundation VCF Subscription zum Einsatz auf DELL VxRail – WBM Wohnungsbaugesellschaft Berlin-Mitte mbH → SVA System Vertrieb Alexander GmbH
+- Netzwerkmodernisierung BDen – Kassenzahnärztliche Vereinigung Baden-Württemberg  → Bechtle GmbH · 267,677 €
+- Rahmenvertrag Dienstleistungen für XSL-FO – Informationstechnikzentrum Bund (ITZBund) → doctronic GmbH & Co. KG
+- Rahmenvertrag Server, Storage, Software – Universität Duisburg-Essen → k. A.
+- Umbau DDCs für die Beleuchtungssteuerung – Universität Trier → k. A.
+- Entwicklung einer Moodle-Lernplattform – Technische Universität Dortmund → k. A.
+- DDoS Schutz mit einer Filterleistung von 30+ Tbps + Static IP – Landeshauptstadt Stuttgart, Haupt- und Personalamt → k. A.
+- GScan Reconstruction SaaS Softwarelizenz – Deutsches Zentrum für Luft- und Raumfahrt e. V. (D → k. A.
+- Montage einer LED-Wall an der Fassade des Haus H auf der Liegenschaft der Hochschule Schmalkalden, B – Hochschule Schmalkalden → k. A.
+- Lieferung von 2 Akustikboxen (Lieferleistung) im Rahmen der Baumaßnahme Schaffung von Lernzonen für  – Hochschule Schmalkalden → k. A.
+- Rahmenvereinbarung über IT-Monitoring-Lösungen des Herstellers Checkmk – Bundesrepublik Deutschland, vertreten durch das Bu → SVA System Vertrieb Alexander GmbH
+- VMware Produkte Verlängerung und weitere Lizenzen Production Support/Subscription – Technische Universität Ilmenau, Dezernat Finanzen, → MR Datentechnik Vertriebs- und Service GmbH
+- Rahmenvertrag FPGA Programmierung – Deutsches Zentrum für Luft- und Raumfahrt e.V. (DL → Ingenics Digital GmbH
+- Digital Asset Management System – Deutscher Bundestag - Vergabereferat → 4ALLPORTAL GmbH
+- 81322924-Technical and Advisory Services for Developing and Piloting an Interoperable Digital Wallet – Deutsche Gesellschaft für Internationale Zusammena → Intelli DOO Beograd · 790,900 €
+- Projekt 1002: Smart Connectivity (SmaCo) – Bundesamt für Sicherheit in der Informationstechni → GWT-TUD GmbH
+- Austausch der bestehenden Hardware der Nutanix-Virtualisierungsumgebung – Verbandsgemeindeverwaltung Annweiler am Trifels → Krieger Systemhaus & Elektronik · 321,704 €
+- GeoCat (SaaS) – Land Niedersachsen vertreten durch IT.Niedersachse → GeoCat B.V. · 469,770 €
+- Smartbear ReadyAPI Test Fixed User Subskriptionen – Bayerisches Landesamt für Digitalisierung, Breitba → k. A.
+- Beratungs- und Schulungsleistungen Observability mit Dynatrace – ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellsc → k. A.
+- Website Relaunch der zentralen Website www.folkwang-uni.de (Kopie) – Folkwang Universität der Künste → k. A.
+- Unterstützung Anbindung S/4HANA an IdM – Nord Ost West Informationstechnik GmbH → k. A.
+- ImmoGIS – Freie und Hansestadt Hamburg - Landesbetrieb Immob → con terra GmbH · 4,737,816 €
+- Datenplattform – Technische Universität München → k. A.
+- Erweiterung der bestehenden (Net)Backup-Infrastruktur für die Evangelische Klinikum Westerwald gGmbH – Evangelisches Klinikum Westerwald gGmbH → CANCOM GmbH
+- VG Lalling - Vergabe Breitband – Verwaltungsgemeinschaft Lalling → Telekom Deutschland GmbH · 400 €
+- Gemeinde Georgensgmünd - Vergabe Breitband – Gemeinde Georgensgmünd → k. A.
+- Lizenzierung, Weiterentwicklung und technischer Betrieb eines Kampagnenplanungstools – AOK-Bundesverband eGbR - Arbeitsgemeinschaft von K → Digital Control GmbH & Co KG
+- Webrelaunch Justus-Liebig-Universität Gießen – Land Hessen, vertreten durch die Hessische Zentral → in2code GmbH
+- Webrelaunch Justus-Liebig-Universität Gießen - Technische Implementierung, Hosting und Betrieb – Land Hessen, vertreten durch die Hessische Zentral → kitconcept GmbH
+- Auftragsvergabe: Externe Unterstützung IT-Orchestrierung – Deutsche Bundesbank, Zentralbereich Beschaffungen → Computacenter AG & Co. oHG
+- IT-Notfallumgebung BüvA – Techniker Krankenkasse → Panik Button B.V.
+- Stadt Schleswig, CAFM-System, Computer Aided Facility Management System – Stadt Schleswig → EBCsoft GmbH
+- Finanzsoftware - Zentrale Software für Haushalts-, Kassen-, Rechnungswesen – Landkreis Ostprignitz-Ruppin → H&H Datenverarbeitungs- und Beratungsgesellschaft mbH
+- Softwareentwicklung für Betriebssystem des AVF-Kompetenzzentrum im Rahmen des Projekts MOVEwell – Bauhaus-Universität Weimar → Ubilabs GmbH
+- Bereitstellung und Betrieb eines Zeitwirtschaftssystems in Form eines cloudbasierten Managed Service – Südwestrundfunk
+Anstalt des öffentlichen Rechts → k. A.
+- Beschaffung einer HR-Software als SaaS – Leibniz-Institut für Lebensmittel-Systembiologie a → k. A.
+- Aufbau Apache Kafka-Plattform – Techniker Krankenkasse → k. A.
+- Software EUDI-Wallet-Adapter  – Informationstechnikzentrum Bund (ITZBund) → k. A.
+- 1887-CM-BI Tool – BWI GmbH → SVA System Vertrieb Alexander GmbH
+- IT-Beratungsdienstleistungen SAP und Organisation „digital@M“ – Rahmenvereinbarung  – digital@M → Sopra Steria SE, Comline Computer + Softwarelösungen SE, BTC Business Technology Consulting AG
+- Rahmenvertrag zur Sicherstellung des Betriebs und die (Weiter-)Entwicklung des Produktes PMflexOne   – Informationstechnikzentrum Bund (ITZBund) → Bechtle AG
+- Software Assurance Microsoft Lizenzen – Kommunale Wasserwerke Leipzig GmbH → k. A.
+- Maschen Server/Modems erneuern Siemens – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → Siemens Mobility GmbH
+- Einführung von SAP S4HANA - Los 1 - Projektmanagementbüro – Landeshauptstadt Hannover - Zentrale Submission → Consulting Insire
+- 1828-TB-Wartungs- und Entwicklungsleistungen DynaConf, BWI-Helper und BWI-Installationsmanager – BWI GmbH → DOT-IT GmbH
+- 1858-CK-Vulnerability-Scanning-Platform  – BWI GmbH → Greenbone AG
+- Verlängerung der IGEL OS Lizenzen – Vitos gemeinnützige GmbH → IOK GmbH & Co. KG
+- Transfer auf XFT Add-on Suite 4S4 – GFZ Helmholtz-Zentrum für Geoforschung → GISA GmbH
+- Rahmenvereinbarung über die Prüfung, Beratung und Sicherstellung der digitalen Barrierefreiheit von  – Bayerisches Staatsministerium für Digitales → T-Systems International GmbH
+- Beschaffung einer Softwarelösung für das Jugendamt – Landkreis Zwickau - Landratsamt → LogoData ERFURT GmbH
+- 26F30388 - Nds. Landesarchiv Osnabrück - Gebäudeautomation – Land Niedersachen vertreten durch das Staatliche B → k. A.
+- Elektronische Ausgangsrechnungen – Universität Stuttgart → k. A.
+- Niedersächsisches Studieninstitut für kommunale Verwaltung e. V.: Managed Services für Microsoft 365 – NSI Consult Beratungs- und Servicegesellschaft mbH → skaylink GmbH
+- Befristete Überlassungs- und Pflegeleistungen von CA-Software (Subscription) – Sozialversicherung für Landwirtschaft, Forsten und → MAXXYS AG
+- ELS - Archivsystem IGNIS Plus – Berliner Feuerwehr → Sopra Steria SE
+- Verlängerung VMware Lizenzen 2026-2029 – Stadt Aalen - Amt für IT und Digitalisierung → WBS IT-Service GmbH
+- IT-Service-Integrator für IT-Dienstleister der hessischen Landwirtschaftsförderung (Los 6) – Landesbank Hessen Thüringen-Girozentrale (Helaba) → Sopra Steria SE
+- Vergabe IT Sicherheitslösung MDR_KBR_2026 – Klinikum Bremerhaven-Reinkenheide gGmbH → QGroup GmbH
+- Hotline für ELSTER / MeinUK / authega UHD – Zentrale Vergabestelle im Bayerischen Landesamt fü → hello.de AG
+- Neues Kassensystem / Ticketing Wilhelma – Wilhelma Zoologisch-Botanischer Garten Stuttgart → HKS Systeme GmbH
+- Bildungskarte – Landeshauptstadt Düsseldorf, Der Oberbürgermeister → Syrcon GmbH
+- Rahmenvereinbarung zur Lieferung von Nokia IP-MPLS Router – Zentrale Polizeidirektion Niedersachsen → Nokia Solutions and Networks GmbH & Co. KG
+- Rahmenvertrag: Microsoft Cloud-Lizenzen für CRM-System und Azure Plan – Rhein-Main-Verkehrsverbund GmbH → abtis GmbH
+- Anpassung und Upgrade der UZ Software – Die Autobahn GmbH des Bundes - NL Südbayern → Yunex GmbH
+- NMZB-Portalentwicklung - Entwicklung und Weiterentwicklung des Portal-Basissystems – Bundesamt für Naturschutz → JaMoin GmbH
+- Check Point Firewall – Klinikum St. Georg gGmbH → CANCOM GmbH
+- Subscription Access Rights Manager – EWN Entsorgungswerk für Nuklearanlagen GmbH → k. A.

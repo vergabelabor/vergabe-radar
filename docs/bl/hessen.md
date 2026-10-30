@@ -1,0 +1,124 @@
+---
+title: "Ausschreibungen Architekten und Ingenieure Hessen – aktuell"
+description: "Offene Ausschreibungen und Zuschläge für Planungsleistungen (Architektur, Ingenieure, CPV 71) in Hessen, wöchentlich aktualisiert, kostenlos."
+---
+# Vergabe-Report CPV 71 · letzte 14 Tage (automatisch, KI-/Skript-erzeugt, ohne Gewähr)
+
+Quelle: Bekanntmachungsservice oeffentlichevergabe.de (CC0).
+
+## Offene Ausschreibungen
+- **GLV für FBÜ OB inkl. FaSt - Netz Augsburg - alle Netzbezirke (in 3 Losen)** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/0542d11d-d136-4ba8-83d8-b5e19281b299)
+- **Haus der Vereine, Wiesbaden; Fachplanung Technische Ausrüstung ALG 4-6, LPH 5 - 9 sowie Besondere Leistungen ** – Landeshauptstadt Wiesbaden - Der Magistrat - Hauptamt · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a12efcf839-2489e8d62da9a4c9)
+- **Planungsleistung Ersatzneubau Hamm-Brücher-Steg** – Magistrat der Universitätsstadt Marburg · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E51748858)
+- **Ronshausen, Feuerwehr - TGA-Planung** – Der Gemeindevorstand, der Gemeinde Ronshausen · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a182669a96-14dc4cbbee2831c5)
+- **Dienstleistungen von Architekturbüros (Gebäude) sowie Fachplanungsleistungen (Bauphysik), Sanierung Sporthalle, Wolfgang** – Wetteraukreis - FS 1.5.1 Zentrale Vergabestelle · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1693bc296-5436f3475d87dd05)
+- **Umweltplanung für Str. 6366 Leipzig - Geithain, Nordabschnitt** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/19bdbb60-a0de-411b-8560-5733d7b7c828)
+- **Generalplanung** – Magistrat der Stadt Kassel · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/155021)
+- **Planungsleistung Busbahnhof Hamm-Brücher-Platz** – Magistrat der Universitätsstadt Marburg · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E51997979)
+- **Hochrheinbahn - Sicherungskoordination für Ausbau und Elektrifizierung der Strecke** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/8e60c126-e309-4126-817e-28211355225f)
+- **Kreisausschuss des Odenwaldkreises Eigenbetrieb Bau- und Immobilienmanagement - Beschaffung Energiemanagementsystem** – Kreisausschuss des Odenwaldkreises Eigenbetrieb Bau- und Immobilienman · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E78166472)
+- **Konzepterstellung und Sanierungsmanagements für drei Quartiere nach KfW 432 in Kassel** – Magistrat der Stadt Kassel · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/153963)
+- **Bauüberwachung zusätzliche Weichenverbindungen Osnabrück Pu** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/537b6f9c-b770-46f8-8604-d63dd18a237f)
+- **2026-018aba-03586-IngV_B 49 - OU Reiskirchen / Lindenstruth / Umweltbaubegleitung (UBB)** – Hessen Mobil Straßen- und Verkehrsmanagement · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1675efe04-4be88691901f78ef)
+- **Planungsleistung Ersatzneubau Hamm-Brücher-Steg** – Magistrat der Universitätsstadt Marburg · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E51748858)
+- **TBW Berlin Nord-Süd S-Bahn Tunnel Jan. 2027 - 545** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/69dc6aa5-26b5-41b5-b8b3-c9778ccd3ed9)
+- **Durchführung von Risikomanagementverfahren nach CSM-VO sowie Prüfung und Bewertung von fachtechnisch** – DB Energie GmbH (Bukr 31) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/4eca21dd-cf52-4a92-a26f-d290813a02a3)
+- **Heinrich-Seliger-Schule, Gestaltung der Außenanlage_Planungsleistungen** – Stadt Frankfurt am Main, Grünflächenamt · Frist s. Unterlagen · [Unterlagen](https://vergabe.stadt-frankfurt.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0901fe9da-7dd24952501ef62a)
+- **BÜB OB/KIB inkl. Abfallmanagement + ltd. Bauüberwacher der Gesamtmaßnahme und SÜ** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/c3a707cd-3c81-4617-9918-85f8493eab17)
+- **TNW_ARCH_Antoniushaus gGmbH_Erweiterung Peter-Josef-Briefs Schule_aktualisiert** – Antoniushaus gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHYM142/documents)
+- **Umwelt-Bauüberwachung Generalsanierung Lübeck - Hamburg Strecke 1120** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/d8cbdfe1-20a3-4b5a-ad97-d3874d30f182)
+- **Untersuchung von Abwasser- und Gewässerproben RPGI** – Land Hessen, vertreten durch das Hessische Competence Center -Beschaff · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0e89c2d3d-39eda11c252fb35)
+- **Analytik von Abwasser- und Gewässerproben RPDA** – Land Hessen, vertreten durch das Hessische Competence Center -Beschaff · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a09fe4bfef-8d93aec715a6095)
+- **Geotechni. BÜW VE7531f NeM17 2. Stammstrecke München** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/1ab51421-bc7b-49e4-9654-d0d6d108c678)
+- **Bauüberwachung Korridorsanierung Köln - Remagen (Linker Rhein)** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/83ee672b-e29a-4b12-a6d0-0e58bf3a836c)
+- **Haus der Vereine, Wiesbaden; Fachplanung Technische Ausrüstung ALG 1-3, LPH 4 - 9** – Landeshauptstadt Wiesbaden - Der Magistrat - Hauptamt · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a03ce8758c-23c104fe365f742b)
+- **Leistungen der Verkehrsanlagen und Ingenieurbauwerke für das Baugebiet Köllsche Gärten, Projektabschnitt 2 in Stockstadt** – Gemeinde Stockstadt am Rhein · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1626472e6-762347121616820b)
+- **JVA Dieburg, Brandschutzertüchtigung: Beseitigung Brandschutzmängel nach aktuellem Brandschutzkonzept** – Land Hessen, vertreten durch den Landesbetrieb Bau und Immobilien Hess · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0f22240fe-2cfbb3012ef9025)
+- **251501_KS_DstLg Marbachshöhe_Neubau Betreuungseinrichtung_Fachplanung Technische Ausrüstung 1-8** – Bundesanstalt für Immobilienaufgaben, vertreten durch den Landesbetrie · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0c3c062df-674ca5e2713584ba)
+- **Städtebauliche Entwicklungsmaßnahme Wiesbaden-Ostfeld; Leistungen zur Erstellung eines Umweltberichts für die verbindlic** – SEG Stadtentwicklungsgesellschaft Wiesbaden mbH · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0f662e6e1-5d40aa8df3dd0cf7)
+- **Zweiphasiger städtebaulich-freiraumplanerischer Wettbewerb nach RPW 2013 - Produktives Quartier Gutleut-West** – Stadt Frankfurt am Main – Der Magistrat –  vertreten durch das  Stadtp · Frist s. Unterlagen · [Unterlagen](https://bieterportal.pd-g.e-va.eu/?tid=8413eea2f66ab3385f5da9feb8f8344e)
+- **Bauüberwachungsleistungen_Invest-Container 2027 (B48 & B49) Duisburg Hbf - Essen Hbf** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/c2ae6d45-7f45-4a00-b17b-2c20a12d8f64)
+- **MPAL VE 3.33 Bauüberwachung HKLS** – DB Regio AG (Bukr 12) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/a1635bbe-7bf2-4ecc-afbe-b59e89dc578d)
+- **Erweiterung Klassenräume und Ganztag und Teilsanierung Keltenbau an der Limesschule Altenstadt - Generalplanerleistungen** – Wetteraukreis · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a158939566-82c36f563566812)
+- **U5 Verlängerung Frankfurter Berg - Umlegung entwässerungstechnischer Anlagen - Ingenieurbauwerke** – Stadtwerke Verkehrsgesellschaft Frankfurt am Main mbH (VGF) · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/8793a4ad-d08b-4a4c-aee7-e41a0da131f0)
+- **26FEI88522 Bauüberwachungsleistungen Bf. Guben und Wellmitz** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/1d3bbc54-afde-4009-bb28-a7e5e72818ee)
+- **017f2c. Landschaftspflegerischer Begleitplan (LBP), faunistische und floristische Kartierung, artenschutzrechtlicher Fac** – Hessen Mobil, Straßen- und Verkehrsmanagement, Zentrale · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a11b6356df-5cd6a4680cb3940c)
+- **Gestellung Spezialfachkraft MSS zur Überwachung der HSG-Bearbeitung** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/0a4bda9e-f138-42a6-95ed-59234c9dba8d)
+- **VDE 8.1 Güterzugstrecke Bauüberwachungsleistung für das VP4 EÜ AS Steinach** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/cb329675-953d-4fa0-851c-9dfa09655317)
+- **Neubau Stadtteilzentrum Nordend Planungsleistung Elektrotechnik** – Vergabestelle der Stadt Fulda · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1432bdb01-79ac6dd259f90ddf)
+- **Uhlandschule Tragwerksplanung** – Stadt Offenbach am Main · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1437416e7-517bb5e9850ba6ef)
+- **Bildflugprogramm 2027** – Land Hessen, vertreten durch das Hessische Competence Center -Beschaff · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a10b1c59fd-7a5cb64f80910b0f)
+- **BIM-Planung Peitz Guben (Spree-Neiße), ESTW, Vst, OLA, LST, TK, Whz, übertr. Lph 1-2, opt. Lph 3-7** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/e1aeba45-d147-4454-8f15-238ac2de6443)
+- **Kreis Bergstraße - Schul- und Bildungszentrum Ost, Viernheim: INFRA II** – Kreis Bergstraße, Eigenbetrieb Schule + Gebäudewirtschaft · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YNDMWEH/documents)
+- **Modernisierungskonvoi 2026-2028** – Wissenschaftsstadt Darmstadt, Rechtsamt - Sachgebiet Vergabe · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0805afa42-20392ac2107e46f5)
+- **Messdienstleistungen für die Kanalnetz-Messkampagne 2027 und 2028 bzw. 2029 im Stadtgebiet Kassel** – Magistrat der Stadt Kassel · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/156285)
+
+## Zuschläge (Gewinner, Wert falls veröffentlicht)
+- Ingenieurleistungen – Stadt Frankfurt am Main, Amt für Straßenbau und Er → k. A.
+- Projektsteuerungsleistung - Planmanagement ESTW Bonn-Bad Godesberg – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → THOST Projektmanagement GmbH
+- Neubau 20 Wohnungen in Modulbauweise,, Leistungen der Technischen Ausrüstung gem. §§ 53 ff. HOAI, An – Magistrat der Stadt Bad Vilbel → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Bauüberwachung: ABS Lübeck Schwerin BÜW Strecke 1122 km 32,2 - 2,2 – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → k. A.
+- Planung der EMSR-Technik – Magistrat der Stadt Kassel → HOLINGER Ingenieure GmbH
+- Neubau Stadtteilzentrum Nordend  – Vergabestelle der Stadt Fulda → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- 10016508-Appui à la transition énergétique au Sénégal (PED III) – Deutsche Gesellschaft für Internationale Zusammena → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 2,044,527 €
+- Leistungen der Tragwerksplanung, Bad Vilbel, Neubau 20 Wohnungen in Modulbauweise – Magistrat der Stadt Bad Vilbel → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- 10019362-Appui à l'adaptation de la chaîne d'approvisionnement de cacao en Côte d'Ivoire aux défis d – Deutsche Gesellschaft für Internationale Zusammena → GFA Consulting Group GmbH · 448,612 €
+- Leistungen der Technischen Ausrüstung, Anl.-Gr. 4+5, Bad Vilbel, Neubau 20 Wohnungen in Modulbauweis – Magistrat der Stadt Bad Vilbel → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- HMWEVL, FBT BA 9-11 + Sprinkler , HKLS ALG 1-3 und 7-8  – Land Hessen, vertreten durch den Landesbetrieb Bau → Petschow & Thiel GmbH
+- FiDT Technologie- und Gründerzentrum Kassel, Sanierung und Aufstockung Gebäude 8 - Leistungen der Ge – FiDT Fördergesellschaft für innovative Dienstleist → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- ASG/05/272 Ingenieurleistungen 01/2027-12/2029 zzgl. Option bis 12/2030 – HIM GmbH, Bereich Altlastensanierung - HIM-ASG - → HYDRODATA GmbH
+- Richtsberg Gesamtschule Marburg | Neustrukturierung Untergeschoss nach Entkernung – Magistrat der Universitätsstadt Marburg → ArchitekteBSH, J. Schander - C. Schander - GbR · 150,644 €
+- BÜW Oberbau für GE Gablingen – Meitingen,  km 11,774 - 19,917 inkl. Leitende Bauüberwachung – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → ZETCON Ingenieure GmbH
+- Richtsberg Gesamtschule Marburg | Neustrukturierung Untergeschoss nach Entkernung – Magistrat der Universitätsstadt Marburg → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 75,009 €
+- Anschluss der Clemens-Brentano-Europa-Schule an ein bestehendes oder neu zu errichtendes Fernwärmene – Landkreis Gießen - Der Kreisausschuss - → Stadtwerke Gießen AG
+- Gelände- und Sensorpflege an der Wetterstation Schwerin und der Winterdienst am Radar-Standort Türkh – Deutscher Wetterdienst → Einzelbieter (Name aus Datenschutzgründen ausgeblendet), Green and Clean Service GmbH
+- Ermittlung von Entschädigung für Außen- und Innenwohnbereich für baubedingte Schallimmissionen – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Stadt Babenhausen-Durchgängigkeitsmaßnahmen an der Gersprenz Bereich: StadtmühleBabenhausen – Magistrat der Stadt Babenhausen, Fachbereich IV –  → Weber Ingenieure GmbH
+- Planungsleistung Technische Ausrüstung - Elektroplanung für die Sanierung des denkmalgeschützten Goe – Freies Deutsches Hochstift / Frankfurter Goethe-Mu → Elektroplanung Will GmbH
+- Förderschule Homberg, Erweiterungsbau – Kreisausschuss des Schwalm-Eder-Kreises → k. A.
+- Planungsleistungen Technische Ausrüstung (ELT) für Sanierung und energetische Ertüchtigung der Sport – Gemeinde Reiskirchen → Planungsteam Bock & Partner GmbH
+- Arheilger Straße - Straßenbahnabstellanlage, Verkehrsanlagenplanung Lph 1-7 – HEAG mobilo GmbH → Mailänder Consult GmbH
+- Bauüberwachung, ESTW-A Wernberg, Strecke 5860, Bf Wernberg – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → DB Engineering & Consulting GmbH
+- Sanierung, Umbau und Erweiterung Grundschule  Schelmengraben, Wiesbaden; Objektplanung Freianlagen / – Landeshauptstadt Wiesbaden - Der Magistrat - Hochb → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Potentialanalyse Grünflächen  für die Landeshauptstadt Wiesbaden; Konzeptionelle, inhaltliche und fa – Landeshauptstadt Wiesbaden, Der Magistrat, Grünflä → Freiraum für alle GmbH
+- Bauüberwachung Fehmarnbeltquerung (FBQ) PFA 4, PFA 5.1 & PFA 5.2 - Los 1 - 8 – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → ZETCON Ingenieure GmbH, MapTerra GmbH, Krämer-Evers Bauphysik GmbH & Co. K
+- Projektsteuerungsleistung Generalsanierung Hagen-Hamm – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → JKM consult GmbH
+- Zentrale Bauüberwachungs-Leistungen Invest-Container C-05, Strecke 4120, Programm Bauen im Takt – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Arbeitssicherheitstechnische Betreuung und Consultingleistungen und Beratungen im Rahmen von Bau- un – Technische Universität Darmstadt → medical airport service GmbH · 225,036 €
+- Objektplanung – Der Gemeindevorstand des Gemeinde Münster → herzig I architekten und ingenieure gmbh
+- Gesamtsanierung Oberwaldschule Grebenhain, 3. BA, Planungsleistungen nach HOAI 2021, Fachplanung Tec – Kreisausschuss des Vogelsbergkreises → elektroplan-schneider GmbH
+- Leistungen der Objektplanung – Gemeindevorstand der Gemeinde Otzberg → MOHA+ GmbH & Co. KG
+- Gesamtsanierung Oberwaldschule Grebenhain, 3. BA, Planungsleistungen nach HOAI 2021, Fachplanung Tec – Kreisausschuss des Vogelsbergkreises → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Ingenieurbauwerke und Objektplanung Verkehrsanlagen (LPH 1-9) – Gemeinde Wölfersheim → JHI Bauingenieure GmbH
+- Oberleitserneuerung Iphofen-Rottendorf Strecke 5910 km62,1 bis km86,6 Bauüberwachungsleistungen – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → KMS IG AG, DB Engineering & Consulting GmbH
+- Bauüberwachung KIB/OB - Strecke 2013, km 2,61 Aufweitung EÜ Münster-Mauritz – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → KOMB Ingenieure GmbH
+- Erschließung Gewerbegebiet Massenheimer Weg - Planungsleistungen Leistungsphasen 1-9 gemäß HOAI – Stadt Bad Homburg v. d. Höhe - Der Magistrat, Fach → Dipl.-Ing. Scheuermann u. Martin GmbH, Ingenieurbüro Fokus Versorgung GmbH
+- 10011800-General Planner Services for an Infectious Diseases/Isolation Unit at Ola During Children"s – Deutsche Gesellschaft für Internationale Zusammena → management4health AG
+- Vergabe Ingenieurleistungen Bahnhofsumfeld Eschborn – Magistrat der Stadt Eschborn → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- 0178a7a. Vorgezogene Ausführungsplanung Lph 4 u. 5, Hessen ID: 21059. – Hessen Mobil, Straßen- und Verkehrsmanagement, Zen → k. A.
+- RRX PF5a Fachbauüberwachung + Gutachter Altbergbau – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → Dr. Spang Ingenieurgesellschaft für - Bauwesen Geologie Umwelttechnik mbH
+- Geotechn.Leistungen/ Bodenschutz/ Bodenmanagement_ABS 38 PFA1.7 – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → Umtec Ingenieure Sasse Meyer - von Mücke GmbH & Co. KG, Geoconsult ZT GmbH, regioplus Ingenieurgesellschaft GbR
+- Bauüberwachung Generalsanierung Lehrte-Oebisfelde, BA 2 - Sperrzeit B2 und C – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- 26FEI85530 Grundlastvertrag BÜW Region Mitte 2026ff – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → IST GmbH Ingenieurbüro Schienentech, Einzelbieter (Name aus Datenschutzgründen ausgeblendet), Railim GmbH
+- Bauüberwachung Ern. KrBw. Wiesbaden Biebrich Str. 3505 Km 44,020 – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → k. A.
+- Stadt Steinau an der Straße Projektsteuerung Städtebauförderung mit ISEK – Magistrat der Stadt Steinau an der Straße → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Stadt Schwalbach - Vergabe von Fachplanungsleistungen für Küchentechnik für den Neubau des Feuerwehr – Magistrat der Stadt Schwalbach am Taunus → k. A.
+- 0180ec. Objekt- und Tragwerksplanung Ingenieurbauwerke nach § 41 und § 51 HOAI, Lph. 1 bis 3. – Hessen Mobil, Straßen- und Verkehrsmanagement, Zen → Ingenieurbüro Grassl GmbH
+- 26FEI87603 - Grundlastvertrag PD Nürnberg alle Netzbezirke 2027 – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → Emch + Berger GmbH - Ingenieure und Planer Nürnberg
+
+## Häufigste Gewinner im Zeitraum
+- ZETCON Ingenieure GmbH – 2 Zuschlag/Zuschläge
+- DB Engineering & Consulting GmbH – 2 Zuschlag/Zuschläge
+- THOST Projektmanagement GmbH – 1 Zuschlag/Zuschläge
+- HOLINGER Ingenieure GmbH – 1 Zuschlag/Zuschläge
+- GFA Consulting Group GmbH – 1 Zuschlag/Zuschläge
+- Petschow & Thiel GmbH – 1 Zuschlag/Zuschläge
+- HYDRODATA GmbH – 1 Zuschlag/Zuschläge
+- ArchitekteBSH, J. Schander - C. Schander - GbR – 1 Zuschlag/Zuschläge
+- Stadtwerke Gießen AG – 1 Zuschlag/Zuschläge
+- Green and Clean Service GmbH – 1 Zuschlag/Zuschläge
+- Weber Ingenieure GmbH – 1 Zuschlag/Zuschläge
+- Elektroplanung Will GmbH – 1 Zuschlag/Zuschläge
+- Planungsteam Bock & Partner GmbH – 1 Zuschlag/Zuschläge
+- Mailänder Consult GmbH – 1 Zuschlag/Zuschläge
+- Freiraum für alle GmbH – 1 Zuschlag/Zuschläge

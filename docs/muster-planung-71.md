@@ -1,0 +1,1155 @@
+---
+title: "Ausschreibungen und Zuschläge Planungsleistungen (Architektur, Ingenieure) – aktuell"
+description: "Offene Ausschreibungen und Zuschläge mit Gewinnern für Architektur- und Ingenieurleistungen (CPV 71), bundesweit, wöchentlich aktualisiert. Kostenlos, offene Daten."
+---
+# Vergabe-Report CPV 71 · letzte 14 Tage (automatisch, KI-/Skript-erzeugt, ohne Gewähr)
+
+Quelle: Bekanntmachungsservice oeffentlichevergabe.de (CC0).
+
+## Offene Ausschreibungen
+- **Straßenbahnneubaustrecke Urban Tech Republic (UTR), Generalplanungsleistung Lph 2-5** – Berliner Verkehrsbetriebe, Bereich Einkauf/ Materialwirtschaft · Frist s. Unterlagen · [Unterlagen](https://vergabekooperation.berlin/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0c881ed31-277baf74c26e516d)
+- **Schulzentrum Bogen - Lieferung von Wärme** – Landkreis Straubing-Bogen · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/b45be229-994d-46d7-a9c8-5a30a15a1023)
+- **Umbau und Teilsanierung der Grundschule Hattstedt - Freianlagenplanung** – Amt Nordsee-Treene · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYYPYT86DMRLC/documents)
+- **Neubau Azubiwohnheim - TGA Elektroplanung** – Hamburger Hochbahn AG · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YE3M1JD/documents)
+- **Erweiterung und Sanierung KGS Bergrath - Architektenleistungen** – Stadt Eschweiler · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXWHYYDDYHGKF8S1/documents)
+- **Rahmenvertrag Archäologische Begleitung - Innenstadtumbau Moers** – ENNI Stadt & Service Niederrhein AöR · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYD4DGUB/documents)
+- **Leistungen der Fachplanung Technische Ausrüstung der Anlagengruppe 7 (Küchentechnik) gem. § 53 HOAI 2021** – Landkreis Ostalbkreis, vertreten durch den Eigenbetrieb Immobilien Kli · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y9PM1SG/documents)
+- **Umbau der Außenstelle der Klaus-Groth-Schule zur Offenen Ganztagsschule (OGTS) - Planungsleistungen: Gebäude und Innenrä** – Stadt Husum · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYHPDYHUR067L/documents)
+- **Neubau Azubiwohnheim - Tragwerksplanung** – Hamburger Hochbahn AG · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YE3M1ZT/documents)
+- **Neubau Azubiwohnheim - TGA-Planung HKLS** – Hamburger Hochbahn AG · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YE3M1X3/documents)
+- **Stadt Syke: Umnutzung des Hotels Wessel zu einem Bibliotheks- und Kulturzentrum: Technische Ausrüstung** – Stadt Syke · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YBLM1NL/documents)
+- **Umbau und Teilsanierung der Grundschule Hattstedt - Tragwerksplanung** – Amt Nordsee-Treene · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYYPYT86YF424/documents)
+- **Umgestaltung Obstmarkt 
+Archäologische Baubegleitung** – Stadt Nürnberg - Servicebetrieb Öffentlicher Raum · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/3d858898-82a3-4a45-b98d-34d7eac8f974)
+- **KBV Ems- und Wörsbachtal -  Planungsleistungen Schlammentwässerung KA Niederselters** – Kläranlagenbetriebsverband Ems- und Wörsbachtal · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a17d1dde31-73699eb9211897bb)
+- **Fachplanung der Tragwerksplanung für den Neubau des Zentrums für Kinder- und Jugendmedizin gemäß § 51 HOAI, Leistungspha** – Knappschaftskrankenhaus Bottrop GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0Y6RDYH3P223U/documents)
+- **Planungsleistungen für die Umgestaltung der Ortsmitte Oberhofen in zwei Losen** – Stadt Ravensburg, Ortsverwaltung Eschach · Frist s. Unterlagen · [Unterlagen](https://www.vergabe24.de/vergabeunterlagen/54321-Tender-1a17c6b3e2d-15c388c61faf1919)
+- **Technische Ausrüstung (Anlagengruppen 1-5 und 7-8) gem. § 55 HOAI für die Maßnahme: Neubau einer Kindertagesstätte im St** – Mittelstadt Völklingen · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E16957578)
+- **GLV für FBÜ OB inkl. FaSt - Netz Augsburg - alle Netzbezirke (in 3 Losen)** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/0542d11d-d136-4ba8-83d8-b5e19281b299)
+- **Befahrung öffentlicher Straßenraum FHH 2027** – Landesbetrieb Geoinformation und Vermessung · Frist s. Unterlagen · [Unterlagen](https://fbhh-evergabe.web.hamburg.de/evergabe.bieter/api/supplier/external/deeplink/subproject/af6c95bb-3622-4a12-becb-ed478f162c47)
+- **KGS Bergrath_Erweiterung und Sanierung_TGA-Planung** – Stadt Eschweiler · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXWHYYDDYHGZ90UY/documents)
+- **DLR Standort Bremen - Sanierung Dachfläche - Objektplanung Gebäude / Innenraum (26-0324_P)** – Deutsches Zentrum für Luft-und Raumfahrt e. V. | TI-ZVM · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E69113755)
+- **Objektplanungsleistungen für die Sanierung für die Grundschule mit Sporthalle in Mestlin** – Stadt Mestlin über das Amt Goldberg-Mildenitz · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E98211911)
+- **Haus der Vereine, Wiesbaden; Fachplanung Technische Ausrüstung ALG 4-6, LPH 5 - 9 sowie Besondere Leistungen ** – Landeshauptstadt Wiesbaden - Der Magistrat - Hauptamt · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a12efcf839-2489e8d62da9a4c9)
+- **Neubau eines Studierendenwohnhauses Sonnenhutweg in Ulm
+Fachplanerleistungen Tragwerk (Los 1), HLS (Los 2), ELT (Los 3),** – Studierendenwerk Ulm Anstalt des öffentlichen Rechts · Frist s. Unterlagen · [Unterlagen](https://plattform.aumass.de/Veroeffentlichung/av28f139-eu)
+- **Planungsleistung Ersatzneubau Hamm-Brücher-Steg** – Magistrat der Universitätsstadt Marburg · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E51748858)
+- **Technische Gebäudeausrüstung** – Martin-Luther-Universität Halle-Wittenberg, Bau, Liegenschaften u. Geb · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/54321-Tender-1a1776d2c3e-2525323b46521dcb)
+- **2026-0356, Planungsleistungen für die Durchführung der Förderverfahren im Rahmen der Umrüstung der Straßenbeleuchtung au** – Stadt Leverkusen - Fachbereich Recht und Vergabe · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXVHYYRDYDC8EG2F/documents)
+- **Leistungen der Objektplanung Gebäude für den Neubau CAMPUS der Generationen in der Frobenstraße 27-29, 10783 Berlin Temp** – Bezirksamt Tempelhof-Schöneberg von Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/publications)
+- **Rahmenvertrag Ladeinfrastruktur** – Dataport AöR · Frist s. Unterlagen · [Unterlagen](https://fbhh-evergabe.web.hamburg.de/evergabe.bieter/api/supplier/external/deeplink/subproject/f43ce8ca-a0cb-41ac-9de9-58e8d87f0c4e)
+- **RV Hydrogeologische Modellierung und Data Science** – Bundesgesellschaft für Endlagerung mbH (BGE) · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E59555399)
+- **Torgauer Platz, HOAI-Planungsleistungen (LPH 8-9) für Straßenbahnbetriebsanlage** – Leipziger Verkehrsbetriebe (LVB) GmbH, Bereich Einkauf und IT · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/54321-Tender-1a15d37a7ac-1431574ecd9f0eb1)
+- **Objektplanung** – Landeshauptstadt München, Baureferat · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/300435)
+- **Industriepark Schwarze Pumpe; Modernisierung eines Teilabschnittes des Ableiters 1 der Abwasserbehandlungsanlage I (ABA ** – Zweckverband Industriepark Schwarze Pumpe (ZV ISP) vertreten durch die · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YEZH31S/documents)
+- **Cafeterianeubau Schule an der Niers - TGA-Planung (ELT)** – Kreis Viersen - Abteilung 11/1 · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/K-VIERSEN-2026-0041)
+- **Cafeterianeubau Schule an der Niers - TGA-Planung (HLS)** – Kreis Viersen - Abteilung 11/1 · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/K-VIERSEN-2026-0042)
+- **Cafeterianeubau Schule an der Niers - Tragwerksplanung** – Kreis Viersen - Abteilung 11/1 · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/K-VIERSEN-2026-0043)
+- **Örtliche Bauüberwachung im Rahmen des Projekts "Stadtbahn Glückstein-Quartier" (M016)** – MV Mannheimer Verkehr GmbH · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/ed5b9fd8-d900-4af0-9101-be9ccdae5a22)
+- **Wasserschutzberatung** – Stadtwerke Osnabrück AG · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YM6MPSG/documents)
+- **Teilsanierung, Teilneubau Grundschule Bönebüttel, TGA** – Gemeinde Bönebüttel über Amt Bokhorst-Wankendorf · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y9CM1YF/documents)
+- **Laborleistungen für das ukb** – BG Klinikum Unfallkrankenhaus Berlin gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHHML6V/documents)
+- **Ronshausen, Feuerwehr - TGA-Planung** – Der Gemeindevorstand, der Gemeinde Ronshausen · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a182669a96-14dc4cbbee2831c5)
+- **ES 13 Energetische Sanierung von 13 Standorten RV Bauphysik** – Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht, Ver · Frist s. Unterlagen · [Unterlagen](https://vergabe.duesseldorf.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a159a30e6f-758f9b5852566c60)
+- **KGS Bergrath Erweiterung und Sanierung Tragwerksplanung** – Stadt Eschweiler · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXWHYYDDYHGTK8ZJ/documents)
+- **Rahmenvertrag für Asphalt- und Baugrunduntersuchungen im Landkreis Stade** – Landkreis Stade · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/K-LKS-66-STR-2026-0041)
+- **Immelmann-Kaserne Celle, Serielle energetische Sanierung Geb. 35+37** – Bundesrepublik Deutschland vertreten durch das Staatliche Baumanagemen · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YY5RS1S)
+- **Gutachten zur Optimierung von Prozessen bei der Bergbehörde und Sicherstellung der Gefahrenvorsorge und des Wasserschutz** – Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Lan · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS7YYFDYH7X5FMZ)
+- **Machbarkeitsstudie Düsselring** – Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht, Ver · Frist s. Unterlagen · [Unterlagen](https://vergabe.duesseldorf.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a115fd606d-12a7c25794c3d46a&PublicationType=0)
+- **&quot;Aufstellung eines Handlungskonzeptes zur Fließgewässer- und Auenentwicklung des Köhlener Mühlenbaches&quot;** – Niedersächsischer Landesbetrieb für Wasserwirtschaft, Küsten- und Natu · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YYHRSTS)
+- **Überprüfung von ortsveränderlichen elektrischen Betriebsmitteln** – Landkreis Elbe-Elster · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YR9H3TL)
+- **Vermessung des Fließgewässers Ems zwischen Meppen und Papenburg** – Logistik Zentrum Niedersachsen Landesbetrieb - Außenstelle Hannover · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YYHRSTE)
+- **Baugrunduntersuchungen und Berichterstellung** – Stadt Sprockhövel · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/S-SPROCK-2026-0025)
+- **Planungsleistungen B Plan 40 &quot;Erweiterung Gewerbegebiet Nord&quot; Wittenberge** – Stadt Wittenberge · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXVHYHSDYHG303LS)
+- **&quot;Untersuchung der Qualitätskomponenten Makrophyten und Angiospermen in der Tideelbe, Koordiniertes Elbe-Messprogram** – Niedersächsischer Landesbetrieb für Wasserwirtschaft, Küsten- und Natu · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YYHRS18)
+- **ABW - Erneuerung und Optimierung von Pumpwerken (Ingenieurleistungen)** – Stadt Hameln - Zentrale Vergabestelle - im Auftrag der Abwasserbetrieb · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/S-HAMELN-ABW-2026-0021)
+- **Schadstoffgutachten für LSW A57** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a158427d49-61f77417379e6a95&PublicationType=0)
+- **Sanierung Albert-Koenig-Museum - Planungsleistung HOAI TA** – Landkreis Celle · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/158541)
+- **VE 04 Baustellenüberwachung** – Bezirksamt Marzahn-Hellersdorf von Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211375)
+- **Neubau Bildungscampus Eslohe - Ingenieurbauwerke** – Innungsverband des Dachdeckerhandwerks Westfalen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y43M1NC/documents)
+- **2026-70_B83_Objektplanung_Verkehrsanlagen** – Niedersächsische Landesbehörde für Straßenbau und Verkehr - Geschäftsb · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YY6RSWP/documents)
+- **Dienstleistungen von Architekturbüros (Gebäude) sowie Fachplanungsleistungen (Bauphysik), Sanierung Sporthalle, Wolfgang** – Wetteraukreis - FS 1.5.1 Zentrale Vergabestelle · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1693bc296-5436f3475d87dd05)
+- **Umweltplanung für Str. 6366 Leipzig - Geithain, Nordabschnitt** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/19bdbb60-a0de-411b-8560-5733d7b7c828)
+- **Neubau eines Feuerwehrgerätehauses in Waurichen - Objektplanung** – Stadt Geilenkirchen - Der Bürgermeister - · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXS0YR1DYHY4EB3S/documents)
+- **Maximilian-Kolbe-Schule Rheinbrohl - Anbau; Objektplanung** – Kreisverwaltung Neuwied -Vergabestelle- · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E82395761)
+- **Umbau und Teilsanierung der Grundschule Hattstedt - Planung Technische Ausrüstung (Elektro)** – Amt Nordsee-Treene · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYYPYT86YXF19/documents)
+- **Umbau und Teilsanierung der Grundschule Hattstedt - Planung Technische Ausrüstung (HLS)** – Amt Nordsee-Treene · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYYPYT86YKUS9/documents)
+- **BLB NRW BI/ Minden/ HvB Kaserne/Geb. 3c / Fachplanung ELT LPH 7 und 8** – Bau- und Liegenschaftbetrieb NRW Bundesbau · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYHUHXW9U/documents)
+- **Planung Kältetechnik TGA-Planung - Sanierung der Eissporthalle Rostock** – Eigenbetrieb Kommunale Objektbewirtschaftung und -entwicklung der Hans · Frist s. Unterlagen · [Unterlagen](https://www.subreport-elvis.de/E68993578)
+- **Generalplanung** – Magistrat der Stadt Kassel · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/155021)
+- **GKW, BHKW Modernisierung** – StEB Stadtentwässerungsbetriebe Köln, AöR · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E15186825)
+- **„Sanierung des Verwaltungsgebäudes der ehem. Stadtbrauerei Penig“** – Stadt Penig · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/01a15d31-d5bd-42e7-bd16-cfecdf1f653d/zustellweg-auswaehlen)
+- **PL 0060 Immissionsschutz** – VAG Verkehrs-Aktiengesellschaft · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/4fa0cbc7-8de2-4c7e-8fbc-9c19a14759c3)
+- **Planungsleistung Busbahnhof Hamm-Brücher-Platz** – Magistrat der Universitätsstadt Marburg · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E51997979)
+- **B 245n BÜ HDL - VgV - OP VA** – Landesstraßenbaubehörde Sachsen-Anhalt RB Mitte · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=902179)
+- **Hochrheinbahn - Sicherungskoordination für Ausbau und Elektrifizierung der Strecke** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/8e60c126-e309-4126-817e-28211355225f)
+- **26D409001 - Semperoper Dresden, Neubau Ballett Zentrum mit Interimsnutzung** – Staatsbetrieb Sächsisches Immobilien- und Baumanagement, Zentrale,  Ze · Frist s. Unterlagen · [Unterlagen](https://www.sachsen-vergabe.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0d38c7c0c-457603c220d7c883)
+- **Rahmenvertrag Baugrunduntersuchungen 2027-2029** – Landeshauptstadt Hannover - Fachbereich Tiefbau · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/101/tenderId/25982)
+- **Bäderbetriebe Wunstorf GmbH - Umbau und Erweiterung des Wunstorf Elements - Projektsteuerungsleistungen** – Bäderbetriebe Wunstorf GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y6JM2GS/documents)
+- **FBE A38 AS Lützen - AS Leipzig-Südost RF DD TA2, Los 1 - BOL/BÜ/Objektbetreuung (gem. §§ 45 ff. HOAI 2021)** – Die Autobahn GmbH des Bundes - NL Ost · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a11f954dd4-522d3155ad7487da)
+- **Brandschutzplanung für den 2. BA Walter-Erbe-Schule** – Universitätsstadt Tübingen - Zentrale Vergabestelle · Frist s. Unterlagen · [Unterlagen](https://vergabeportal-bw.de/Satellite/notice/CXW1YYDDYRPYFX78/documents)
+- **Stadtteilarchitekt WAT II** – Stadt Bochum, Referat Zentrale Vergabestelle · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXUQYYDDY6N3L1J4/documents)
+- **Planungsleistungen für den Umbau des linken Kanalseitendammes DEK km 91,8-99,1;Überholstrecke Saerbeck** – Wasserstraßen- und Schifffahrtsamt Westdeutsche Kanäle, Münsterstraße  · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=902325)
+- **VgV Regenklärbecken Gewerbegebiet Langenwinkel** – Stadt Lahr · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/45d02f3f-0f93-479d-843b-ac4d1c7b4927)
+- **Fassadensanierung - Objektplanung** – KG VHG Verwaltung Hamburgischer Gebäude GmbH & Co. KG vertreten durch  · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/c4c210be-363e-4304-90a3-5363843f05bf)
+- **Thermische Bauphysik Wärmeschutz und Energiebilanzierung, Bauakustik und Raumakustik** – Landeshauptstadt München, Baureferat · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/300774)
+- **"Schulzentrum Ichenheim", Architektenleistungen** – Gemeinde Neuried, Rathaus · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/bca57d70-0634-4636-8d72-1cc7d6145888)
+- **VgV Aufdimensionierung Hauptsammler Alte Rheinstraße/Eisenbahnstraße** – Stadt Lahr · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/08716c96-034c-4ce3-a91e-1cfaeccbe390)
+- **Kreisausschuss des Odenwaldkreises Eigenbetrieb Bau- und Immobilienmanagement - Beschaffung Energiemanagementsystem** – Kreisausschuss des Odenwaldkreises Eigenbetrieb Bau- und Immobilienman · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E78166472)
+- **Leistungen der bodenkundliche Baubegleitung** – Hamburger Hochbahn AG · Frist s. Unterlagen
+- **Rahmenvertrag über die Untersuchung von PFAS in Wasser für die Jahre 2027-2029, Grund-und Oberflächenwasser** – Bayerisches Landesamt für Umwelt · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.bayern.de/evergabe.bieter/api/supplier/external/deeplink/subproject/8b63e22f-950c-407a-afe3-201176cbc92d)
+- **Abschluss eines nicht-exklusiven Rahmenvertrags Planungsleistungen Ing.-Bw. 2024 ff. im Open-House-Verfahren der Autobah** – Die Autobahn GmbH des Bundes · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-190a57362c2-35ec917373ab9bbc)
+- **SV-JWA-261026-004 - Modernisierung U-Bahnhof Odeonsplatz, Planung Baulogistik** – Stadtwerke München GmbH · Frist s. Unterlagen · [Unterlagen](https://www.swm.de/einkauf/bekanntmachungen)
+- **Planungsleistungen Neubau DES und RWL** – Trinkwasserversorgung Magdeburg GmbH  · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/01a163e0-901f-482a-8f96-189ef11ab61f/zustellweg-auswaehlen)
+- **Konzepterstellung und Sanierungsmanagements für drei Quartiere nach KfW 432 in Kassel** – Magistrat der Stadt Kassel · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/153963)
+- **Fraunhofer-Gesellschaft 80-00031-2800-A1 Objektplanung Gebäude - Rahmenvereinbarung Reg 15_02** – Fraunhofer-Gesellschaft e.V. - Vergabestelle Bau · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/97744796-f447-45ed-94c1-474293c3f58d)
+- **Sanierung der zentralen Bettenaufbereitung im Westpfalz-Klinikum Kaiserslautern** – Westpfalz-Klinikum GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YJVM1Y7/documents)
+- **A 17 Fahrbahnerneuerung Dresden-Südvorstadt bis Heidenau Los 1: BOL/BÜ; Los 2: SiGeKo ** – Die Autobahn GmbH des Bundes - NL Ost · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0c7f54a0a-10ab79c76165fc7c)
+- **Umbau und Teilsanierung der Grundschule Hattstedt - Freianlagenplanung** – Amt Nordsee-Treene · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYYPYT86DMRLC/documents)
+- **Bauüberwachung zusätzliche Weichenverbindungen Osnabrück Pu** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/537b6f9c-b770-46f8-8604-d63dd18a237f)
+- **Fachplanung Technische Ausrüstung ELT, Teilprojekt 5 Erneuerung der Gebäudeleittechnik und Modernisierung IT** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM1JQ/documents)
+- **Geschäftsstraßenmanagement Haselhorst Siemensstadt 2027-2030** – Bezirksamt Spandau von Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211501)
+- **2026-0668 Objektplanungsleistung Freianlagen, GGS Eschenstraße, Eschenstraße 53, 47055 Duisburg** – Stadt Duisburg, Sondervermögen-Immobilien Duisburg (SVI), vertreten du · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YRTDYH3GAB53/documents)
+- **Erbringung von Planungsleistungen und Erstellung von Genehmigungsunterlagen (K221/P00000919/BC)** – WWF Deutschland · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/0c861ee8-b55a-4a5b-8bbd-ee9cba62f6ed)
+- **Sanierung Haus II Gymnasium in Bad Salzungen - Objektplanung Gebäude** – Landratsamt Wartburgkeis · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y9UMWQ7/documents)
+- **Sanierung Haus II Gymnasium in Bad Salzungen - Fachplanung Technische Ausrüstung - HLS** – Landratsamt Wartburgkeis · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y9UMW70/documents)
+- **Sanierung Haus II Gymnasium in Bad Salzungen - Technische Ausrüstung - ELT** – Landratsamt Wartburgkeis · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y9UMW7N/documents)
+- **Objektplanungsleistungen für die Sanierung für die Grundschule mit Sporthalle in Mestlin** – Stadt Mestlin über das Amt Goldberg-Mildenitz · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E98211911)
+- **Abschluss eines nicht-exklusiven Rahmenvertrags Planung Verkehrsanlagen 2025 ff. im Open-House-Verfahren der Autobahn Gm** – Die Autobahn GmbH des Bundes · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-195a4a87f7a-474cc221ff8efcb8)
+- **Frankfurt Hbf. Reisendeninformation_Planung TK Lph. 1-3 & 5-6, 50 Hz Lph. 1-6 - 2 Lose** – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe (Bukr 11) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/8f5a45aa-aac2-434a-8a66-be2a91affb2d)
+- **TGA-Planungsleistungen Anlagegruppen 410 - 450, 470, 480, LP 1-8, § 55 HOAI zum Umbau einer Kinderklinik** – Knappschaft Kliniken Gelsenkirchen-Buer GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0Y6RDY6TQWT4T/documents)
+- **Umbau und Modernisierung der Grundschule Hattstedt - Gebäudeplanung** – Amt Nordsee-Treene · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYYPYT8R1GRBC/documents)
+- **Arbeitssicherheitstechnische Beratung** – Hansestadt Stade · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/S-HSS-69-2026-0019)
+- **Gutachten zu den Wirkungen von Tempo 30 nachts in Hauptverkehrsstraßen** – Landeshauptstadt Stuttgart, Haupt- und Personalamt, Abt. Allgemeiner S · Frist s. Unterlagen · [Unterlagen](https://lhs-vpbw.vmstart.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a15803ccfb-1fd383be2fce0e7c&PublicationType=0)
+- **LBM Trier- Erstellung, Druck, Rahmung und Anbringung von Flucht- und Rettungsplänen** – LBM Trier · Frist s. Unterlagen · [Unterlagen](https://lbm.vergabe.rlp.de/VMPSatellite/notice/CXS2YYRDYHA9U8CU)
+- **Dienst- und Planungsleistungen für Neubau-, Umbau-, Erweiterungs-, Sanierungs-, Reparatur- und Instandsetzungsmaßnahmen ** – Stadt Mönchengladbach · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYD0DGUV)
+- **Zustandserfassung und Objektplanung für die Instandsetzung der Klockesbrücke (Essenerstraße über DB) in Oberhausen** – Stadt Oberhausen Stabsstelle 2-0-10 Zentrale Vergabe · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YR9DYHF2VPLT)
+- **Planungsleistungen für den Bau eines straßenbegleitenden Geh-/Radweg entlang der Kreisstraße 16, Abschnitte 2 - 4, zwisc** – Hochsauerlandkreis · Frist s. Unterlagen · [Unterlagen](https://www.vergabe-westfalen.de/VMPSatellite/notice/CXS0YYKDYHGQFN7W)
+- **Stadt Lahnstein - Ausbau der Hochstraße und Seitengassen inkl. Kirchstraße, Bahnhofsvorplatz inkl. Ouahigouya Platz - Be** – Stadtverwaltung Lahnstein · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YK7M1NQ)
+- **Planungsleistungen für den Ausbau der Kreisstraße 12/1 zwischen der L686 und der L840 (Odin)** – Hochsauerlandkreis · Frist s. Unterlagen · [Unterlagen](https://www.vergabe-westfalen.de/VMPSatellite/notice/CXS0YYKDYHUDRGEH)
+- **Prüfung Dachaufstiege u Leitern** – Der Kreisausschuss, Hochbau- und Liegenschaftsamt · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y37M1K2)
+- **Prüfung ortsveränderlicher elektrischer Betriebsmittel** – Landkreis Verden - Zentrale Vergabestelle · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXS0YR2DYHART9MT)
+- **Fachplanung Freianlagen (Am Neuen Markt)** – Stadt Rotenburg (Wümme) · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/f208b8b4-7c0f-4165-a8ff-254ce12152ca)
+- **Objektplanungsleistungen, Leistungsphasen 3-8, § 34 HOAI zum Neubau einer Notarztwache** – Knappschaft Kliniken Gelsenkirchen-Buer GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0Y6RDY6ZMEUF6/documents)
+- **Neubau eines Feuerwehrgerätehauses - Tragwerksplanung** – Gemeinde Bohmstedt · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/7/tenderId/121016882)
+- **DLR Standort Bremen - Sanierung Dachfläche - Objektplanung Gebäude / Innenraum (26-0324_P)** – Deutsches Zentrum für Luft-und Raumfahrt e. V. | TI-ZVM · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E69113755)
+- **Sanierung der zentralen Bettenaufbereitung im Westpfalz-Klinikum Kaiserslautern** – Westpfalz-Klinikum GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YJVM1Y7/documents)
+- **RV ortsveränderliche Geräte** – Universität Bielefeld · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS0Y4RDY62C5JXS/documents)
+- **Planungsleistungen Technische Gebäudeausrüstung (TGA) zum Bau eines Wohngebäudes** – WGT Wohnungsbaugesellschaft Teltow mbH (WGT) · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/1590455a-a80b-414f-ba3c-49fbdc90e2b4)
+- **TGA-Planung - Sanierung der Eissporthalle Rostock** – Eigenbetrieb Kommunale Objektbewirtschaftung und -entwicklung der Hans · Frist s. Unterlagen · [Unterlagen](https://www.subreport-elvis.de/E82625866)
+- **2026-018aba-03586-IngV_B 49 - OU Reiskirchen / Lindenstruth / Umweltbaubegleitung (UBB)** – Hessen Mobil Straßen- und Verkehrsmanagement · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1675efe04-4be88691901f78ef)
+- **Planungsleistung Ersatzneubau Hamm-Brücher-Steg** – Magistrat der Universitätsstadt Marburg · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E51748858)
+- **Bauliche Neustrukturierung Westallgäu-Klinikum Wangen, Fachplanung technische Ausrüstung, Anlagengruppen 4, 5 und 6 (Ele** – Landkreis Ravensburg, Eigenbetrieb IKP · Frist s. Unterlagen · [Unterlagen](https://www.vergabe24.de/vergabeunterlagen/54321-Tender-1a163b71525-3fc47d5dc0e78ddb)
+- **Vergabeverfahren Objektplanung LPH 5-9
+Generalsanierung Feuerwehrgerätehaus der Gemeinde
+Gräfelfing** – Gemeinde Gräfelfing  · Frist s. Unterlagen · [Unterlagen](https://plattform.aumass.de/Veroeffentlichung/av286a8e-eu)
+- **Plangebiet "Westlich Metzer Straße" Teilnehmerwettbewerb** – Landeshauptstadt Saarbrücken (LHS) · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YECMP92/documents)
+- **TBW Berlin Nord-Süd S-Bahn Tunnel Jan. 2027 - 545** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/69dc6aa5-26b5-41b5-b8b3-c9778ccd3ed9)
+- **Planungsleistungen Technische Ausrüstung ALG 1-3, 7 und 8, gem. §§ 53 ff. HOAI 2021, LPH 1-9, stufenweise Beauftragung** – Stadt Pfaffenhofen an der Ilm · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/300431)
+- **A3/A4/A59 Rahmenvertrag Verkehrssicherung** – DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabe.deges.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0c4199ac5-4fae7379625044a6)
+- **Durchführung von Risikomanagementverfahren nach CSM-VO sowie Prüfung und Bewertung von fachtechnisch** – DB Energie GmbH (Bukr 31) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/4eca21dd-cf52-4a92-a26f-d290813a02a3)
+- **221 MWG Neubau Turnhalle Abzw. Maria-Wächtler-Gymnasium: Generalplanerleistungen** – GVE Grundstücksverwaltung Stadt Essen GmbH · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YD5DYHELSLHT/documents)
+- **Heinrich-Seliger-Schule, Gestaltung der Außenanlage_Planungsleistungen** – Stadt Frankfurt am Main, Grünflächenamt · Frist s. Unterlagen · [Unterlagen](https://vergabe.stadt-frankfurt.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0901fe9da-7dd24952501ef62a)
+- **Hafen Trier: Planungs- und Ingenieurleistungen zur Errichtung einer Multi-Purpose-Halle in Anlehnung an die Leistungspha** – Trierer Hafengesellschaft mbH · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E56574936)
+- **Rahmenvereinbarung zu historischen Recherchen und zur Lieferung von Informationen und Unterlagen zum sowjetischen Luft- ** – Landesamt für innere Verwaltung M-V, Abteilung Beschaffung/Dienstleist · Frist s. Unterlagen · [Unterlagen](https://www.vergabemarktplatz-mv.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a0ec033f68-7400eee1a2f19898&PublicationType=0)
+- **Neubau Rathaus in Ruhstorf a. d. Rott - Objektplanungsleistungen** – BayernGrund GmbH · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/6d0c63e3-2f2e-41af-a91a-1e87ceaa6ca7)
+- **Planungsleistungen Objektplanung Freianlagen, gem. § 38 ff HOAI 2021, LPH 1-9, stufenweise Beauftragung** – Stadt Pfaffenhofen an der Ilm · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/300434)
+- **Airborne Laserscanbefliegung 2027** – Landesamt für Geoinformation und Landentwicklung · Frist s. Unterlagen · [Unterlagen](https://ausschreibungen.landbw.de/Satellite/notice/CXUEYY2DYYLTT2GN/documents)
+- **Quartiersmanagement für das Stadtteilprojekt West für den Zeitraum 2027 und 2028** – Stadt Essen, Zentrales Vergabemanagement · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0Y68DYRVVKHP0/documents)
+- **PLAN - VgV Gebäudeplanung - Schule HUM** – BBS Bau- und Betriebsservice GmbH · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/X-BBS-2026-0142)
+- **P-Option, BA II, Tunnel Wartberg - Beweissicherung Wasser (BSW Wasser)** – DB Projekt Stuttgart-Ulm GmbH (Bukr 5S) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/b793b109-de9d-403e-bbca-68fde1222ab4)
+- **Planungsleistungen Technische Ausrüstung ALG 4, 5 und 6 (ELT) gem. §§ 53 ff. HOAI 2021, LPH 1-9, stufenweise Beauftragun** – Stadt Pfaffenhofen an der Ilm · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/300433)
+- **Modellvorhaben Weiterentwicklung Städtebauförderung Saarbrücken-CongressCultureCity 2.0, TP 14 Deklarationsanalyse** – Landeshauptstadt Saarbrücken (LHS) · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YECM1BY/documents)
+- **Turnhalle Limbach** – VGV Asbach ZVS · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E91247374)
+- **BÜB OB/KIB inkl. Abfallmanagement + ltd. Bauüberwacher der Gesamtmaßnahme und SÜ** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/c3a707cd-3c81-4617-9918-85f8493eab17)
+- **Planung zum Moorschutzvorhaben Polder Barnin** – Wasser- und Bodenverband "Obere Warnow" · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E57788737)
+- **Prüfung elektrischer Betriebsmittel gem. DGUV V4** – Immobilien Bremen - Eigenbetrieb der Stadtgemeinde Bremen · Frist s. Unterlagen · [Unterlagen](https://vergabe.bremen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-19fc66630bf-38867fa1589ee10b)
+- **Modernisierung der Oberschule Uchte - Fachplanungsleistungen Wärmeschutz und Energiebilanzierung** – Landkreis Nienburg/Weser, vertreten durch die Samtgemeinde Uchte · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/b1b3229d-e6bc-48c7-92b7-cd55e4ef1aab)
+- **Delft-FEWS Konfiguration 2026-2030** – Bundesanstalt für Gewässerkunde · Frist s. Unterlagen · [Unterlagen](https://evergabe.bundesverkehrsverwaltung.de/VMPSatellite/notice/CXWSYYFDYH3UU2JP/documents)
+- **Umbau und Modernisierung der Grundschule Hattstedt - Gebäudeplanung** – Amt Nordsee-Treene · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYYPYT8R1GRBC/documents)
+- **Gemeinde Kloster Veßra - Planungsleistung "Goldener Löwe"** – Verwaltungsgemeinschaft Feldstein · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=899252)
+- **Planungsleistungen Tragwerksplanung zum Bau eines Wohngebäudes** – WGT Wohnungsbaugesellschaft Teltow mbH (WGT) · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/784d6b19-8e66-4d1e-84bb-13b95d71b6b3)
+- **Generalplanungsleistung Forschungsbau "SEED"** – Universität Duisburg-Essen · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS0YEQDY6GUXNK2/documents)
+- **Fachplanung ELT** – Staatliches Bauamt Traunstein · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/304772)
+- **Institut für Hygiene und Umwelt (HU) der FHH - Leistungen nach der Baustellenverordnung Sicherheits- und Gesundheitskoor** – Sprinkenhof GmbH · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/e5ca06dd-dfa7-4b3e-9eaf-7325fbb9142e)
+- **Objektplanungsleistung - Gebäude und Freianlagen Stefanschule Schmelz** – Gemeinde Schmelz · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYRRDYH3USMFK/documents)
+- **Fachplanung HLS** – Staatliches Bauamt Traunstein · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/304342)
+- **Bauvorhaben "Neubau Adolf-Tannert-Schule Neustadt/Sachsen"** – Landkreis Sächsische Schweiz-Osterzgebirge · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/01a0f1ce-abce-4fa8-90c5-f7f3bbbaf2e8/zustellweg-auswaehlen)
+- **Planungsleistung Neubau eines 4-zügigen Gymnasiums mit Drei-Feld-Sporthalle - Küchenplanung** – Landkreis Havelland - Der Landrat - · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXSYYYDDYHRY93BU/documents)
+- **Neubau Multifunktionsgebäude am Schützenplatz Jerxheim – Fachplanungsleistungen TGA/ELT und Tragwerk** – Samtgemeinde Heeseberg · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/1b9bccdc-63ac-4182-a345-b31b19bbc000)
+- **Quartiersmanagement "Lebendige Zentren - Kernbereich Groß Ilsede"** – Gemeinde Ilsede · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/7e058dcf-d242-4b2c-baff-f1fb2ac08ca6)
+- **DGH Klein Bademeusel - Los 9 Freianlagenplanung** – Stadt Forst (Lausitz), Die Bürgermeisterin, Fachbereich Bauverwaltung · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXVHYH1DYHU6VYZ2)
+- **Sachverständigenprüfungen von elektrischen Anlagen (BMA, RWA, SiBe)** – Stadt Castrop-Rauxel · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXPSYDGD70N)
+- **DGH Klein Bademeusel - Los 8  Wärmeschutzplanung** – Stadt Forst (Lausitz), Die Bürgermeisterin, Fachbereich Bauverwaltung · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXVHYH1DYHU64CM2)
+- **Sanierung der Fassade Schloss Meyenburg | Planungsleistungen** – Amt Meyenburg · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YMNH32T)
+- **DGH Klein Bademeusel - Los 7 Brandschutzplanung** – Stadt Forst (Lausitz), Die Bürgermeisterin, Fachbereich Bauverwaltung · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXVHYH1DYHUDJHZU)
+- **DGH Klein Bademeusel - Los 6 Schadstoffanalyse** – Stadt Forst (Lausitz), Die Bürgermeisterin, Fachbereich Bauverwaltung · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXVHYH1DYHUYPMRB)
+- **DGH Klein Bademeusel - Los 5 Baugrund** – Stadt Forst (Lausitz), Die Bürgermeisterin, Fachbereich Bauverwaltung · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXVHYH1DYH31XUAV)
+- **BLB NRW BI / Bielefeld / Rahmenvertrag Dacheignung Photovoltaiksprüfung** – Bau- und Liegenschaftsbetrieb NRW Bielefeld · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYH6TTH5J)
+- **Vermessung Bushaltestellen** – Stadt Bernau bei Berlin · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YHVH32K)
+- **Ing. Vertrag - Grundhafte Erneuerung der K 35 mit Neubau eines RG in der Stadt Büren - Ortsteil Barkhausen** – Kreisverwaltung Paderborn · Frist s. Unterlagen · [Unterlagen](https://www.vergabe-westfalen.de/VMPSatellite/notice/CXWBYY6DYHNVP6MC)
+- **Klinikum der Technischen Universität München - SER - Projektsteuerung** – Klinikum der Technischen Universität München (TUM Klinikum) · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/3e3f5a9d-937e-4349-8cfc-49e12d7e7774)
+- **Objektplanung Freianlagen  § 39 HOAI  Rhabanus-Maurus-Gymnasium St. Ottilien** – Schulwerk der Diözese Augsburg (kirchliche Stiftung d.Ö.R.) · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/c2e89772-5ca8-4069-98d3-202a6fb467bb)
+- **Neubau KiTa Wipshausen - Planungsleistungen gem. HOAI §§ 34, 39, 51, 55 und Anl. 1/1.2.3, LPH 1-9** – Gemeinde Edemissen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y4VM22J/documents)
+- **GS Willi-Graf Neuendorf_TGA-Planung** – Stadt Koblenz · Frist s. Unterlagen · [Unterlagen](https://rlp.vergabekommunal.de/Satellite/notice/CXP6YYHYCHN/documents)
+- **Rahmenvereinbarung Baugrund/-kontrolle** – Stadtverwaltung Kaiserslautern - Stabstelle IV.1 Zentrale Vergabestell · Frist s. Unterlagen · [Unterlagen](https://rlp.vergabekommunal.de/Satellite/notice/CXU7YYDYTV3LW56S/documents)
+- **Umbau Lagerlogistik** – Medizinische Universität Lausitz - Carl Thiem KdöR · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXVHY67YTQFFRDUG/documents)
+- **Sanierung Hallenbad Nord, Tübingen - Generalplanerleistungen BA 1** – Stadtwerke Tübingen GmbH · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/158227)
+- **FFH-Monitoring Wildkatze Berichtsperiode 2025-2030** – Landesamt für Umwelt · Frist s. Unterlagen · [Unterlagen](https://landesverwaltung.vergabe.rlp.de/VMPSatellite/notice/CXPDYYHYS67/documents)
+- **Planung Ersatzneubau der Fuß- und Radwegbrücke "Padang-Brücke" HOAI-Leistungen: Teil 3, Abschn. 3 Ingenieurbauwerke und ** – Stadt Hildesheim · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YYPRS2C/documents)
+- **Planung zum Umbau des Sozialgebäudes KW Mettmann** – Bergisch-Rheinischer Wasserverband · Frist s. Unterlagen · [Unterlagen](https://vergabe.brw-haan.de)
+- **Planungsleistungen Stadt Karlsruhe Tiefbauamt, Sanierung Tropfkörperpumpwerk 1: Los 1 – Planung Mittelspannungsversorgun** – Stadt Karlsruhe Tiefbauamt · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E43858786)
+- **2026-0413, SGP - Wiederkehrende Prüfungen und Hygieneinspektionen an raumlufttechnischen Anlagen im Stadtgebiet für 3 Ja** – Stadt Leverkusen - Fachbereich Recht und Vergabe · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXVHYYRDY659Y3QJ/documents)
+- **TNW_ARCH_Antoniushaus gGmbH_Erweiterung Peter-Josef-Briefs Schule_aktualisiert** – Antoniushaus gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHYM142/documents)
+- **Sanierung und Erweiterung Kindertagesstätte „Haus der Kinder“ - Technische Gebäudeausrüstung nach Teil 4, Abschn. 2, §§ ** – Gemeinde Engelthal · Frist s. Unterlagen · [Unterlagen](https://www.staatsanzeiger-eservices.de/aJs/EFormsBekVuUrl?z_param=331244)
+- **Sanierung und Erweiterung Kindertagesstätte „Haus der Kinder“ -  Tragwerksplanung gem. Teil 4 Abschnitt 1, §§ 49 ff nach** – Gemeinde Engelthal · Frist s. Unterlagen · [Unterlagen](https://www.staatsanzeiger-eservices.de/aJs/EFormsBekVuUrl?z_param=331250)
+- **Sanierung und Erweiterung Kindertagesstätte „Haus der Kinder“ - Technische Gebäudeausrüstung nach Teil 4, Abschn. 2, §§ ** – Gemeinde Engelthal · Frist s. Unterlagen · [Unterlagen](https://www.staatsanzeiger-eservices.de/aJs/EFormsBekVuUrl?z_param=331246)
+- **26 E 05 1015 / 26 E 04 1012 PTB - Neubau Zeitzentrum (Scheibe-Bau) - TA MA und ELEKTRO (2 Lose) - TNW** – Bundesrepublik Deutschland vertreten durch das Staatliche Baumanagemen · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YY5RSG4/documents)
+- **_Arbeitssicherheitstechnische Betreuung (Verantwortliche SiFa) der terranets bw GmbH** – terranets bw GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YCAM29P/documents)
+- **Neubau der A 14, VKE 1154, Bauüberwachung / Umweltbaubegleitung CEF-Maßnahmen MP3** – DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabe.deges.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a158b6752b-35ea76783ca2c901)
+- **BOL und Bue** – Staatliches Bauamt Schweinfurt · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/303590)
+- **SiGeKo ENB BW Ruhrbrücke** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a080d0f619-11c59afd95b796ea)
+- **A42, Umweltbaubegeleitung** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a15e15efa7-16c67264adad05ec)
+- **Fachplanung HLS** – Staatliches Bauamt Traunstein · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/304342)
+- **Generalplanungsleistung zur Erneuerung der Hauptleitung 1/10** – Zweckverband Bodensee-Wasserversorgung · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/cf8c47b9-c8d8-4101-b3b4-a3a5205c2f0e)
+- **Umgestaltung des Marktplatzes/ Planungsleistungen** – Stadt Heinsberg · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXS0Y49DYHAN6Y72/documents)
+- **A4, VKE 3612, Objektplanung Verkehrsanlagen LPh 1 und 2** – DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabe.deges.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1628d1771-183a09e1a5d590ed)
+- **Bauliche Neustrukturierung Westallgäu-Klinikum Wangen, Fachplanung technische Ausrüstung, Anlagengruppen 4, 5 und 6 (Ele** – Landkreis Ravensburg, Eigenbetrieb IKP · Frist s. Unterlagen · [Unterlagen](https://www.vergabe24.de/vergabeunterlagen/54321-Tender-1a163b71525-3fc47d5dc0e78ddb)
+- **Vergabe der Planungsleistungen zur Aufstockung einer Grundschule** – Landkreis Hildesheim · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXS0YHADYHF1PDHW/documents)
+- **Stadtteil- und Citymanagement** – Schloss-Stadt Hückeswagen · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXT2YY5YTGQ8L9KQ/documents)
+- **Dienstleistungen i.R. des Mobilitätsmanagements für Schulen in Berlin** – Land Berlin, Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und  · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211352)
+- **Brandschutztechnische Sanierung des NTK in Landau / Planungsleistungen der LPh 5-8** – Bürgerstiftung Landau in der Pfalz · Frist s. Unterlagen · [Unterlagen](https://vergabe.vmstart.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1638eb4cb-41bbf5b24327da2c)
+- **Umbau und Modernisierung der Grundschule Hattstedt - Gebäudeplanung** – Amt Nordsee-Treene · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYYPYT8R1GRBC/documents)
+- **Freiberufliche Leistungen für die Sanierung, den Neubau und die Sporthallensanierung an der BBS Varel** – Landkreis Friesland · Frist s. Unterlagen · [Unterlagen](https://bi-medien.de/ausschreibungsdienste/ausschreibungen/D462854142)
+- **Fachplanung ELT** – Staatliches Bauamt Traunstein · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/304772)
+- **Neubau Kita "Rappelkiste" in 53547 Dattenberg** – Ortsgemeinde Dattenberg über die Verbandsgemeinde Linz am Rhein · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E31683771)
+- **Umbau und Erweiterung der Grund- und Mittelschule Bad Kötzting - Planungsleistungen nach § 34 Gebäude und Innenräume HOA** – Stadt Bad Kötzting · Frist s. Unterlagen · [Unterlagen](https://plattform.aumass.de/Veroeffentlichung/av28e467-eu)
+- **Neubau Kita "Rappelkiste" in 53547 Dattenberg** – Ortsgemeinde Dattenberg über die Verbandsgemeinde Linz am Rhein · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E22732237)
+- **Neubau eines Feuerwehrgerätehauses - Technische Aurüstung** – Gemeinde Bohmstedt · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/7/tenderId/121016868)
+- **Umwelt-Bauüberwachung Generalsanierung Lübeck - Hamburg Strecke 1120** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/d8cbdfe1-20a3-4b5a-ad97-d3874d30f182)
+- **Prüfung ortsfester elektrischer Anlagen - Technischer Service** – Berliner Wasserbetriebe · Frist s. Unterlagen · [Unterlagen](https://vergabekooperation.berlin/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a15f321aa9-43d80a080e09c464)
+- **Untersuchung von Abwasser- und Gewässerproben RPGI** – Land Hessen, vertreten durch das Hessische Competence Center -Beschaff · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0e89c2d3d-39eda11c252fb35)
+- **Planungsleistungen HLS** – Stadt Wildeshausen · Frist s. Unterlagen · [Unterlagen](https://bi-medien.de/ausschreibungsdienste/ausschreibungen/D463244622)
+- **Brandschutztechnische Sanierung des NTK Königstraße 18; Planungsleistungen Brandmeldeanlage und Elektrotechnik** – Bürgerstiftung Landau in der Pfalz · Frist s. Unterlagen · [Unterlagen](https://vergabe.vmstart.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1681acb89-4b8a56aa0584c312)
+- **Technische Ausrüstung HLS 20560** – Vergabestelle Landeshauptstadt Stuttgart · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/4/tenderId/40400)
+- **Modernisierung Bergbahn - Bauwerke 6 - 10, BOL, BÜ, ZTV-ING-Koordinator** – Stadtwerke Heidelberg GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0YRLDYHL6TYGH/documents)
+- **Beratungsleistungen für die Koordinierungsstelle Digitalisierung der Schiene im Bereich strategische Beratung zur techni** – PD - Berater der öffentlichen Hand GmbH · Frist s. Unterlagen · [Unterlagen](https://bieterportal.pd-g.de/?tid=520eef3913bb5f31a4b1307e66402cf2)
+- **TGA-Planungsleistungen Anlagegruppen 410-430,470,480 Leistungsphasen 1-8, § 55 HOAI zum Neubau einer Notarztwache** – Knappschaft Kliniken Gelsenkirchen-Buer GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0Y6RDY6S1L1YB/documents)
+- **6012-0650-26-02 Umbau und Sanierung Sporthalle GS Comeniusstraße - Fachplanung TGA Lph. 4-9 (ND_NB)** – Stadt Braunschweig Fachbereich Bauordnung und Zentrale Vergabestelle · Frist s. Unterlagen · [Unterlagen](http://www.deutsche-evergabe.de/dashboards/dashboard_off/04ca49a8-41ae-4c97-bf8e-a071b46b9dc0)
+- **planungsbegleitende Vermessungsleistung SOW Km 14,5-33,2** – Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen, III B - Geodä · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/209254)
+- **Objekt- und Tragwerksplanung ** – Die Autobahn GmbH des Bundes - NL Nordbayern · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a13ebfcc5f-26d4053b5b5374fd)
+- **Ersatzneubau 110kV Kabel von UW21 nach UW800** – Stadtwerke Augsburg Holding GmbH, Bau-Einkauf · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E97576592)
+- **Stadtwerke Riesa GmbH: Neubau Wärmepumpenanlage am Standort „Kühlturm Stahlwerk“ - Vergabe der Planungsleistungen der Le** – Stadtwerke Riesa GmbH · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/01a1629d-c017-444e-b751-2c6d3efcca45/zustellweg-auswaehlen)
+- **Objektplanungsleistungen Freianlagen und Verkehrsanlagen zur Bauausführung der Neustadtgestaltung Burghausen** – Stadt Burghausen · Frist s. Unterlagen · [Unterlagen](https://plattform.aumass.de/Veroeffentlichung/av28e436-eu)
+- **Analytik von Abwasser- und Gewässerproben RPDA** – Land Hessen, vertreten durch das Hessische Competence Center -Beschaff · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a09fe4bfef-8d93aec715a6095)
+- **Planung der Entkernung und Beräumung der Alten Realschule - Schulzentrum Hackenbroich-Dormagen** – Stadt Dormagen, vertreten durch den Eigenbetrieb Dormagen · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E38778514)
+- **BLB NRW Köln / Neubau JVA Köln / Sachverständigen-Prüfung lufttechnischer Anlagen nach PrüfVO NRW** – Bau- und Liegenschaftsbetrieb NRW Köln · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYHA9LR6H/documents)
+- **Erweiterung Grundschule Langenzenn – Fachplanung Tragwerksplanung** – Stadt Langenzenn · Frist s. Unterlagen · [Unterlagen](https://www.staatsanzeiger-eservices.de/aJs/EFormsBekVuUrl?z_param=331253)
+- **Geotechni. BÜW VE7531f NeM17 2. Stammstrecke München** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/1ab51421-bc7b-49e4-9654-d0d6d108c678)
+- **Planungsleistungen Neubau DES und RWL** – Trinkwasserversorgung Magdeburg GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YWLM1HT/documents)
+- **Leistungen der Generalplanung** – WBM Wohnungsbaugesellschaft Berlin-Mitte mbH · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211616)
+- **Sanierung Nordbad Neuss | Objektplanung (Leistungsbild Gebäude und Innenräume) nach § 34 HOAI** – Neusser Bäder und Eissporthalle GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YBTMW0Q/documents)
+- **Naturschutzrechtliche Fachbeiträge ENB BW 5912637** – Die Autobahn GmbH des Bundes - NL West · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a11a84b6e5-43abf57ba98fda33&PublicationType=0)
+- **Naturschutzrechtliche Fachbeiträge ENB BW 5711603** – Die Autobahn GmbH des Bundes - NL West · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a11a7c68ee-519c643634fdcec8&PublicationType=0)
+- **Naturschutzrechtliche Fachbeiträge ENB BW 5711602** – Die Autobahn GmbH des Bundes - NL West · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a11a7a1b01-618683d26e9c5d2d&PublicationType=0)
+- **Naturschutzrechtliche Fachbeiträge ENB BW 5711598** – Die Autobahn GmbH des Bundes - NL West · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a11a78a911-3530e7c1074e0f70&PublicationType=0)
+- **RV Elektro-Prüfungen Sfb** – Studierendenwerk Ost: Brandenburg · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YMTH37N)
+- **RV Elektro-Prüfungen Cbs** – Studierendenwerk Ost: Brandenburg · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YMTH370)
+- **RV Elektro-Prüfungen Ebw** – Studierendenwerk Ost: Brandenburg · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YMTH37R)
+- **RV Elektro-Prüfungen Ffo** – Studierendenwerk Ost: Brandenburg · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YMTH3QB)
+- **Interessenbekundungsverfahren; Planung, Finanzierung, Installation und Inbetriebnahme eines Teilabschnittes des Ableiter** – Zweckverband Industriepark Schwarze Pumpe (ZV ISP) vertreten durch ASG · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YEZH3Q5)
+- **Interessenbekundungsverfahren; Planung, Finanzierung, Errichtung und Inbetriebnahme eines Hydrolyse-/Pufferbe-hälters au** – Zweckverband Industriepark Schwarze Pumpe (ZV ISP) vertreten durch ASG · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YEZH3GW)
+- **Kommunale Wärmeplanung** – Stadt Eberswalde · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YYHH3ZH)
+- **Erstellung eines freiraumplanerischen Konzepts für den Kurpark** – Stadt Borkum · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YHBRSVQ)
+- **Wartung und Instandsetzung KNX Haustechnik** – Stiftung Berliner Mauer · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYYBDY6JN2CLD)
+- **A4, VKE 3602, Objektplanung Verkehrsanlagen Lph. 1- 2** – DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabe.deges.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1445be211-2973e6536a131204)
+- **AZV - Neubau der Kläranlage Untere Ahr in Remagen: Vermessungsleistungen** – AZV Abwasserzweckverband Untere Ahr · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YK7M1ER/documents)
+- **Stadt Braunsbedra - Strand Neumark - Gebäude- und Innenraumplanung** – Stadt Braunsbedra · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/01a163c5-0a46-433e-9234-7863735e76a0/zustellweg-auswaehlen)
+- **Umbau und Sanierung Ev. Gemeindehaus - Objektplanung Gebäude- und Innenräume** – Gemeinde Plankstadt · Frist s. Unterlagen · [Unterlagen](https://vergabe.vmstart.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0f6a8ea91-4f14f9c51dac0018)
+- **Generalplanungsleistung für Bestandswohnimmobilien OSWO, SDWO, WEWO (Vergabenummer VOEK 394-26)** – Bundesanstalt für Immobilienaufgaben · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=899550)
+- **Objektplanung, Tragwerksplanung und Geotechnik** – Landeshauptstadt München, Baureferat · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/301983)
+- **Stadt Braunsbedra - Strand Neumark - Freianlagenplanung** – Stadt Braunsbedra · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/01a163e9-8569-462f-a918-8d7c22b2283e/zustellweg-auswaehlen)
+- **Bauliche Neustrukturierung Westallgäu-Klinikum Wangen, Fachplanung Technische Ausrüstung, Anlagengruppen 1, 2, 3, 7 und ** – Landkreis Ravensburg, Eigenbetrieb IKP · Frist s. Unterlagen · [Unterlagen](https://www.vergabe24.de/vergabeunterlagen/54321-Tender-1a1591ad6df-8457662b2e78852)
+- **Prüfungen ortsfester elektrischer Anlagen - Klärwerke** – Berliner Wasserbetriebe · Frist s. Unterlagen · [Unterlagen](https://vergabekooperation.berlin/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a13afbf294-19587d7a465d6eb3)
+- **IHK-Campus Zukunft Fachplanung AV-Technik (Los 5)** – IHK Mittlerer Niederrhein · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YW6M2E0/documents)
+- **0039 Rottal-Inn Kliniken KU, Eggenfelden – Neubau OP-/Intensiv-Abteilung: Technische Ausrüstung HLSK** – Rottal-Inn Kliniken KU · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/141f1a66-d2f9-45de-8a3d-9f2955985717)
+- **Geotechnik, BIM** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1630de3c7-3d7cec5585e6a3df)
+- **Stadtwerke Essen AG: EU-weites Vergabeverfahren "Planung der Energiezentrale" (Los 3)** – Stadtwerke Essen AG (SWE) · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D6VM1CB/documents)
+- **Stadtwerke Essen AG: EU-weites Vergabeverfahren "Planung des Wärmenetzes" (Los 4)** – Stadtwerke Essen AG · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D6VM1B8/documents)
+- **A57,AS KR-Oppum-KR-Zentrum,6streif. Ausbau, Projektsteuerung** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a11ac9e202-481a98dcfed5033)
+- **A7 | 6 str. Ausbau -südlich der AS Hildesheim bis nördlich der Wöhlertalbrücke | Faunistische Leistungen** – Die Autobahn GmbH des Bundes - NL Nordwest · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a157cd9e47-2ed15e077393d3b5)
+- **Bauüberwachung Korridorsanierung Köln - Remagen (Linker Rhein)** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/83ee672b-e29a-4b12-a6d0-0e58bf3a836c)
+- **Tragwerksplanung** – Gemeinde Zetel · Frist s. Unterlagen · [Unterlagen](https://bi-medien.de/ausschreibungsdienste/ausschreibungen/D463174560)
+- **Rahmenvereinbarung Planungsleistungen Leit- und Sicherungstechnik bis 250TEUR je Einzelabruf** – DB Global Business Services (Bukr 1S) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/b5f22a9d-b2f6-4222-8022-a7e440aefd10)
+- **Neubau eines Radweges zwischen Frankenförde und Frankenfelde an der L 80, Objektplanung Verkehrsanlagen der Leistungspha** – Landesbetrieb Straßenwesen Brandenburg Betriebssitz Hoppegarten · Frist s. Unterlagen · [Unterlagen](https://www.ausschreibungen.ls.brandenburg.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a047b294c9-7745a6be17b80f17)
+- **01.01.427/428 IngVergabe Pumpwerk Hummelsheim PW und Druckleitung** – Stadt Bergisch Gladbach - Abwasserwerk · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDFDGN1/documents)
+- **70-00251-2260-R Sachverständigenleistung RLT - PR1320626-2260-B** – Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V. - · Frist s. Unterlagen · [Unterlagen](https://vergabe.fraunhofer.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a16209a964-51bd702bf627b30d)
+- **B 187 0020 ENB Brücke über das Schweinitzer Fließ in Schweinitz** – Landesstraßenbaubehörde Sachsen-Anhalt RB Ost · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=901149)
+- **Neubau Wohnhochhaus im Dragoner Areal - Baufeld Mitte** – WBM Wohnungsbaugesellschaft Berlin-Mitte mbH · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211560)
+- **26D710006 - Landesschule für Hörgeschädigte Leipzig, Brandschutz- u. sicherheitstechn. Ertüchtigung** – Staatsbetrieb Sächsisches Immobilien- und Baumanagement, Zentrale,  Ze · Frist s. Unterlagen · [Unterlagen](https://www.sachsen-vergabe.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a15e6118a1-24cb6a9a64152748)
+- **A8 Albaufstieg - Bodenbaubegleitung (BBB)** – Die Autobahn GmbH des Bundes - NL Südwest · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0b33eae96-7c0961abcc638efb)
+- **Sachverständigenleistung Löschanlagen 70-00251-2260-S - PR1320808-2260-B** – Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V. - · Frist s. Unterlagen · [Unterlagen](https://vergabe.fraunhofer.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1621c8721-79ad16d8bdbb7784)
+- **A8 Albaufstieg - Umweltbaubegleitung (UBB)** – Die Autobahn GmbH des Bundes - NL Südwest · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a09f40aecc-af704733db6b7f7)
+- **Neubau Azubiwohnheim - Objektplanung Gebäude** – Hamburger Hochbahn AG · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YE3M8LG/documents)
+- **Sanierung der Sporthalle der staatlichen Grundschule "Am Rehberg", Wutha-Farnroda - Objektplanung Gebäude** – Landratsamt Wartburgkreis · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y9UMWFW/documents)
+- **Technische Ausrüstung (§ 53 bis § 56 HOAI, Anlage 15 zur HOAI)** – Landratsamt Landkreis Leipzig · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/54321-Tender-1a11a2bd8f8-7eecc22dc360dee7)
+- **Gebäude 20.16:		        Sanierung Setzungsschäden
+Gebäude 20.16 - 20.18:	Brandschutzsanierung
+(Gebäude 20.16 - 20.18:	De** – Forschungszentrum Jülich GmbH -Team Bau- · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E96268324)
+- **Beprobung kontaminierter Böden 2027 / 2028** – REWAG Regensburger Energie- und Wasserversorgung AG & Co KG · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DB0MWQX/documents)
+- **Generalplaner Erweiterung Feuerwehr Rosdorf** – Gemeinde Rosdorf · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YBCM1MJ/documents)
+- **Sanierung Sanitäranlagen TGA-Planung** – Flughafen Hamburg GmbH · Frist s. Unterlagen · [Unterlagen](https://fham-vp-prod.ai-hosting.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a03473eaa0-1cfdaa22a2bb6e85)
+- **Rahmenvertrag Generalplanungsleistungen und Ingenieurleistungen im Hochbau, Los 2** – Flughafen Berlin Brandenburg GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabekooperation.berlin/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1536db6a5-1e2ffb7c9fbc83dc)
+- **Rahmenvertrag Generalplanerleistungen und Ingenieurleistungen im Hochbau, Los 1** – Flughafen Berlin Brandenburg GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabekooperation.berlin/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a15d72e758-4bccecc40196a209)
+- **Leistungen gemäß HOAI Stand 2021 § 51 i.V.m. Anlage 14 im Leistungsbild Tragwerksplanung ergänzt um den Regelprozess BIM** – Landkreis Ostalbkreis, vertreten durch den Eigenbetrieb Immobilien Kli · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y9PMVKM/documents)
+- **Feuerwehr Frankenthal - Aufstockung und Umbau - Fachplanung Gebäudeautomation** – Stadtverwaltung Frankenthal (Pfalz) · Frist s. Unterlagen · [Unterlagen](https://rlp.vergabekommunal.de/Satellite/notice/CXS0Y5UDYHDP8T5P/documents)
+- **Sanierung der Sporthalle der staatlichen Grundschule "Am Rehberg", Wutha-Farnroda - Fachplanung Technische Ausrüstung EL** – Landratsamt Wartburgkreis · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y9UMWA0/documents)
+- **BLB NRW / NL DO / RUB Bochum (WE2188) / Geb. IBN / Ern.NSHV /  Planung und Bauüberwachung / 010-26-00323** – Bau- und Liegenschaftsbetrieb NRW Dortmund · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYHEMRWZZ/documents)
+- **Barsinghausen FFW-GM - TNW** – Stadt Barsinghausen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y4WM85D/documents)
+- **Hochwasserschutz Klosterbach/Varreler Bäke im Bereich der Gemeinde Stuhr** – Ochtumverband · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E56699354)
+- **Auswertung VDM** – Landesbaudirektion Bayern · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/301445)
+- **Bio Freianlagen** – Vermögen und Bau Baden-Württemberg, Amt Tübingen · Frist s. Unterlagen · [Unterlagen](https://vergabe.landbw.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-19ffa642e75-47e23e8478c3e351)
+- **Sanierung der Sporthalle der staatlichen Grundschule "Am Rehberg", Wutha-Farnroda - Fachplanung Technische Ausrüstung HL** – Landratsamt Wartburgkreis · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y9UMWAM/documents)
+- **Sanierung HRB Warthstraße Ingenieurleistungen LPH 1-4** – Aggerverband -  - KöR · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E96136725)
+- **Haus der Vereine, Wiesbaden; Fachplanung Technische Ausrüstung ALG 1-3, LPH 4 - 9** – Landeshauptstadt Wiesbaden - Der Magistrat - Hauptamt · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a03ce8758c-23c104fe365f742b)
+- **Feuerwehr Frankenthal - Aufstockung und Umbau - Tragwerksplanung** – Stadtverwaltung Frankenthal (Pfalz) · Frist s. Unterlagen · [Unterlagen](https://rlp.vergabekommunal.de/Satellite/notice/CXS0Y5UDYHDW2E94/documents)
+- **79759 Objektplanungs- mit Fachplanungsleistungen, Dienstgebäude Würzburg, Erweiterungsbau** – DRV Bund Einkaufsmanagement Bauleistungen · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-rentenversicherung-bund.de/einkaufskoordination/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a085dad187-45401c99c6dcf0ee&PublicationType=0)
+- **Machbarkeitsstudie zur Installation einer kommerziellen DT-Neutronenquelle** – Forschungszentrum Jülich GmbH -Team Bau- · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E56325626)
+- **Prüfung elektrischer Betriebsmittel gem. DGUV V4** – Immobilien Bremen - Eigenbetrieb der Stadtgemeinde Bremen · Frist s. Unterlagen · [Unterlagen](https://vergabe.bremen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-19fc66630bf-38867fa1589ee10b)
+- **Schadstoffuntersuchungen (Rahmenvereinbarung/Jahresabrufauftrag) - Verschiedene Objekte in 5 Stadtbezirken, 45875 Gelsen** – Stadt Gelsenkirchen · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0Y6SDYHE91SCG/documents)
+- **Konzepterstellung Modernisierung der Energieversorgung** – Deutsche Rentenversicherung Westfalen - Baureferat - · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-rentenversicherung-bund.de/einkaufskoordination/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1628f263e-70ff1ced5090ed33)
+- **Vergabe der Planungsleistungen zur Aufstockung einer Grundschule** – Landkreis Hildesheim · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXS0YHADYHF1PDHW/documents)
+- **Siehe Angaben in der Aufgabenbeschreibung** – Vermögen und Bau Baden-Württemberg, Amt Ulm · Frist s. Unterlagen · [Unterlagen](https://vergabe.landbw.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a03e21d42b-678d49bc5afacdde)
+- **Ingenieurleistungen der Technischen Gebäudeausrüstung zur energetischen Sanierung der Valentin-Ostertag-Schule Bad Dürkh** – Stadt Bad Dürkheim · Frist s. Unterlagen · [Unterlagen](https://rlp.vergabekommunal.de/Satellite/notice/CXVHYRBDY6J89NKA/documents)
+- **Tragwerkplanung zur energetischen Sanierung der Valentin-Ostertag-Schule Bad Dürkheim** – Stadt Bad Dürkheim · Frist s. Unterlagen · [Unterlagen](https://rlp.vergabekommunal.de/Satellite/notice/CXVHYRBDY6NPFEL2/documents)
+- **Leistungen der Verkehrsanlagen und Ingenieurbauwerke für das Baugebiet Köllsche Gärten, Projektabschnitt 2 in Stockstadt** – Gemeinde Stockstadt am Rhein · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1626472e6-762347121616820b)
+- **Inbetriebnahmemanagement Tech Monitoring** – Staatl. Bauamt München 1 · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/301533)
+- **JVA Dieburg, Brandschutzertüchtigung: Beseitigung Brandschutzmängel nach aktuellem Brandschutzkonzept** – Land Hessen, vertreten durch den Landesbetrieb Bau und Immobilien Hess · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0f22240fe-2cfbb3012ef9025)
+- **Externe BÜ ENB BW Ruhrbrücke** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-19ffb649fc3-6a368ecbfa6fd362)
+- **SV-MSI-261021-003 - Tram Münchner Norden, Bauüberwachung Entsorgung und Beprobung Brücke 2027** – Stadtwerke München GmbH · Frist s. Unterlagen · [Unterlagen](https://www.swm.de/einkauf/bekanntmachungen)
+- **Planungsleistungen: Neubau eines Verwaltungsgebäudes in der Osdorfer Straße (Teltow)** – Fernwärme Teltow GmbH · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/f3595605-eaea-4631-947b-0624e29c948a)
+- **Alte Hansestadt Lemgo - VgV-Ausschreibung Projektsteuerungsleistungen - ISEK-Maßnahmen (Aufwertung Lippegarten, Aufwertu** – Alte Hansestadt Lemgo · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YUMM1M0/documents)
+- **Objektplanung brandschutztechnische Ertüchtigung von sieben U-Bahnhöfen im Bestand** – Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht, Ver · Frist s. Unterlagen · [Unterlagen](https://vergabe.duesseldorf.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1118fadf9-129aa7a87b8ae06a)
+- **Ingenieurplanungsleistungen nach Paragraph 41 HOAI inklusive Technischer Ausrüstung nach Paragraph 53 HOAI und Tragwerks** – Gemeinde Halblech · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/300858)
+- **Modernisierung der Stadtteilbibliothek Süchteln** – Stadt Viersen · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/S-VIERSEN-2026-0088)
+- **Rahmenvertrag über Energieberatungs- und Sachverständigenleistungen von Energie-Effizienz-Experten** – HOWOGE Wohnungsbaugesellschaft mbH · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/209774)
+- **Ermittlung von Gerinnegeometrien und Wasserspiegellagen für das Projekt Grundwassermodell Lausitz** – Landesamt für Umwelt, Landwirtschaft und Geologie · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.sachsen.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a1638d86f4-295c14670672a371&PublicationType=0)
+- **Stadt Königs Wusterhausen, Planungsleistung zur Dachsanierung Sporthalle Mehrzweckgebäude Grundschule Zeesen** – Stadt Königs Wusterhausen, Dezernat Bildung und digitale Verwaltung, A · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YHWH3PC)
+- **Ermittlung von Hochwassergefahrenkarten für den Pützer Bach** – Bezirksregierung Köln · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS7YDCDYH0JMLSJ)
+- **Erstellung von Bauwerksbüchern** – Die Autobahn GmbH des Bundes - NL Nordwest · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a13fc65cd4-3d00c079e3d287ab&PublicationType=0)
+- **Erstmalige endgültige Herstellung Boschring Wirges - Planung** – Verbandsgemeindeverwaltung Wirges · Frist s. Unterlagen · [Unterlagen](https://rlp.vergabekommunal.de/Satellite/notice/CXS0YBFDYHAYRFP1)
+- **26D058012: BU BImA Flugplatz Wunstorf - Geb. 36 San. Asbestaußenwände - Technische Gebäudeausrüstung** – Staatliches Baumanagement Weser-Leine · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YY5RSVA)
+- **Baugrunduntersuchung K 7315 OD Trampe** – Landkreis Uckermark, Rechtsamt · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YH1H3UC)
+- **Erneuerung der Haltestellentechnik R068 Friedelsheim ? Planungsleistungen LPH 5-8** – Rhein-Neckar-Verkehr GmbH · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/a3ff90dd-c271-451c-a2a1-2a80ff97203e)
+- **Vermessungsleistungen K 7315 OD Trampe** – Landkreis Uckermark, Rechtsamt · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YH1H3UE)
+- **Sanierungskonzept Fußgängerbrücke Kreiensen** – Stadt Einbeck · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DE7M1Y8)
+- **Fachplanung TGA Bf. Schauspielhaus** – Stadt Bochum, Referat Zentrale Vergabestelle · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXUQYYDDY6S7YJWZ)
+- **Starkregenrisikomanagement** – Magistrat der Stadt Wetzlar · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/157742)
+- **Umsetzung eines 4ÜNB-Projektes für den deutschen Kapazitätsmarkt - PMO** – TenneT TSO GmbH · Frist s. Unterlagen · [Unterlagen](https://s2c.mercell.com/today/239257)
+- **Erweiterungsbau und Umbau Grundschule Bernhardswald für Ganztagsbetreuung - Leistungsbild Tragwerksplanung** – Gemeinde Bernhardswald · Frist s. Unterlagen · [Unterlagen](https://plattform.aumass.de/Veroeffentlichung/av288c3d-eu)
+- **251501_KS_DstLg Marbachshöhe_Neubau Betreuungseinrichtung_Fachplanung Technische Ausrüstung 1-8** – Bundesanstalt für Immobilienaufgaben, vertreten durch den Landesbetrie · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0c3c062df-674ca5e2713584ba)
+- **Wasseruntersuchungen im Verbandsgebiet des Trinkwasserverbandes Verden 2027/2028** – Trinkwasserverband Verden · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/8906d61d-e0ae-4806-b843-0fe69de86c9c)
+- **26DE Restauratorische Fachbauleitung** – Staatliches Bauamt Bayreuth · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/304641)
+- **Gewerbegebiet Wakendorf, Preetz, Ausschreibung Ingenieurleistungen L.ph. 4-9** – Stadt Preetz · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/78573eea-c09f-4e6d-971e-51176cff6a10)
+- **Bio_Innenarchitekt** – Vermögen und Bau Baden-Württemberg, Amt Tübingen · Frist s. Unterlagen · [Unterlagen](https://vergabe.landbw.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-19c28a8af65-1d56223495bd1e)
+- **Blomberg - Planungsleistungen für das Projekt “Grundschulcampus, Bauabschnitt 2 Umbau und Sanierung von Bestandsgebäuden** – Stadt Blomberg · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E69518884)
+- **Fachplanung Technische Ausrüstung ELT + Aufzug, Teilprojekt 2 Zentralisierung Ver- und Entsorgung** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2C1/documents)
+- **Fachplanung Technische Ausrüstung HLSK + GA, Teilprojekt 2 Zentralisierung Ver- und Entsorgung** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2CW/documents)
+- **Fachplanung Technische Ausrüstung Medizintechnik, Teilprojekt 1.4 Zentralisierung Endoskopie** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2CP/documents)
+- **Dienstleistungen im Bereich Netz und Vertrieb** – N-ERGIE Aktiengesellschaft · Frist s. Unterlagen
+- **Neubau Rettungswache Süd am Johannes Wesling Klinikum in Minden - Tragwerksplanung** – Stadt Minden über Kreis Minden-Lübbecke · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/ccdb4641-e74b-4f3d-acd7-23999d79a020)
+- **Projekt KoMoNa "DenkMalNach(haltig" - Stadtpark Falkenberg/E., Fachplanung techn. Ausrüstung, LPH 1-9 gemäß § 55 HOAI** – Verbandsgemeinde Liebenwerda · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YJJH3QP/documents)
+- **Feuerwehr Frankenthal - Aufstockung und Umbau - Fachplanung HLS** – Stadtverwaltung Frankenthal (Pfalz) · Frist s. Unterlagen · [Unterlagen](https://rlp.vergabekommunal.de/Satellite/notice/CXS0Y5UDY65Z9F0P/documents)
+- **Planungsleistungen für den Neubau der Verbundschule am Tuniberg Freiburg mit 3-fach Sporthalle, Schulhof und Sport- und ** – Stadt Freiburg i. Br. - Vergabemanagement · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/bd00bb59-72a5-423b-9a27-eed19810e4ea)
+- **Feuerwehr Frankenthal - Aufstockung und Umbau - Fachplanung Elektrotechnik** – Stadtverwaltung Frankenthal (Pfalz) · Frist s. Unterlagen · [Unterlagen](https://rlp.vergabekommunal.de/Satellite/notice/CXS0Y5UDY64B9U0J/documents)
+- **Stickstoff-/Argon-Untersuchungen an Grundwassermessstellen - Untersuchungen in 2027 sowie optional in 2028 und 2029** – Landesbetrieb für Hochwasserschutz und Wasserwirtschaft Sachsen-Anhalt · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=860381)
+- **Ingenieurleistungen nach Teil 4 Abschnitt 2 HOAI (Technische Ausrüstung)** – Vermögen und Bau Baden-Württemberg, Amt Mannheim und Heidelberg Dienst · Frist s. Unterlagen · [Unterlagen](https://vergabe.landbw.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a0d33cb191-5dced55db0790d20)
+- **VG Bernkastel-Kues - Sanierung des Bürger- und Feuerwehrgerätehauses: Los 1 - Leistungen der Objektplanung Gebäude und F** – Verbandsgemeinde Bernkastel-Kues · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YK7M1DC/documents)
+- **Rahmenvereinbarung für ext. Bauüberwachung ** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a13b18eeb5-7c5e80c525f29fae)
+- **Matthias-Claudius-Schule Tragwerk und Bauphysik** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGF9/documents)
+- **Baulogistik - MBG, Neubau Martin-Behaim-Gymnasium** – WBG KOMMUNAL GmbH   · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/95e759ba-718f-4cae-8626-dbb7c4c00eaa)
+- **Planungsleistung - Erneuerung Kinderbereich Freibad Gemeinde Schwalbach** – Gemeinde Schwalbach · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYRRDYH06A6XM/documents)
+- **Neubau Hallenschießanlage Artillerieschule der Bundeswehr, Idar-Oberstein und Kaserne Auf der Ell, Merzig_Koordinierende** – Bundesrepublik Deutschland, vertreten durch das Bundesministerium der  · Frist s. Unterlagen · [Unterlagen](https://lbb.vergabe.rlp.de/VMPSatellite/notice/CXPLYYDYN9S/documents)
+- **Neubau kommunaler Wohnungsbau in Kumhausen - Architekt** – Gemeinde Kumhausen · Frist s. Unterlagen · [Unterlagen](https://www.staatsanzeiger-eservices.de/aJs/EFormsBekVuUrl?z_param=331127)
+- **Matthias-Claudius-Schule Projektsteuerung** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDG67/documents)
+- **Städtebauliche Entwicklungsmaßnahme Wiesbaden-Ostfeld; Leistungen zur Erstellung eines Umweltberichts für die verbindlic** – SEG Stadtentwicklungsgesellschaft Wiesbaden mbH · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0f662e6e1-5d40aa8df3dd0cf7)
+- **Vermessungstechnische Straßenbefahrung 2027** – Kommunalreferat, Recht und Verwaltung, Zentrale Dienste, Submissionsbü · Frist s. Unterlagen · [Unterlagen](https://vergabe.muenchen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-19f88cd76ab-33ebe3c7f6e355a6)
+- **VG Bernkastel-Kues - Sanierung des Bürger- und Feuerwehrgerätehauses: Los 2 - Planungsleistungen der Technischen Ausrüst** – Verbandsgemeinde Bernkastel-Kues · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YK7M1DT/documents)
+- **Instandsetzung der Schule "Rügenwind" in Patzig** – Stadt Bergen auf Rügen · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E26449166)
+- **Neubau Rettungswache Süd am Johannes Wesling Klinikum in Minden - Objektplanung Freianlagen** – Stadt Minden über Kreis Minden-Lübbecke · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/8f6e66f9-41f7-4a3f-8928-b6c50bb9ecbc)
+- **Gde. Holdorf: Sanierung und Umbau des Sportzentrums Holdorf (inkl. Hallenbad) - Technische Ausrüstung (ALG 1-5)** – Landkreis Vechta · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/K-LKV-2026-0217)
+- **Matthias-Claudius-Schule TGA** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGFE/documents)
+- **2026-01 VGV Architektur Bürgerzentrum** – Markt Randersacker · Frist s. Unterlagen · [Unterlagen](https://www.staatsanzeiger-eservices.de/aJs/EFormsBekVuUrl?z_param=331202)
+- **GGS Vorst Tragwerksplaung und Bauphysik** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGK2/documents)
+- **VG Bernkastel-Kues - Sanierung des Bürger- und Feuerwehrgerätehauses: Los 3 - Leistungen der Tragwerksplanung** – Verbandsgemeinde Bernkastel-Kues · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YK7M1RD/documents)
+- **GGS Vorst TGA** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGKU/documents)
+- **Brückenschlag für Hamburg - Qualitätssicherung** – Behörde für Verkehr und Mobilitätswende vertreten durch ReGe Hamburg P · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y6GM1DK/documents)
+- **Neuaufstellung des Flächennutzungsplans der Stadt Marl** – Stadt Marl - Amt für Klimaschutz und Nachhaltigkeit - Zentrale Vergabe · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YY9DYHEJHGTX/documents)
+- **Neubau Rettungswache Süd am Johannes Wesling Klinikum in Minden - Fachplanung Technische Ausrüstung** – Stadt Minden über Kreis Minden-Lübbecke · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/2e76cd4a-3162-4bd8-b789-ddb7f97e5203)
+- **Matthias-Claudius-Schule Objektplanung** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDG6Q/documents)
+- **Neubau Bildungscampus Eslohe - Brandschutz** – Innungsverband des Dachdeckerhandwerks Westfalen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y43MW56/documents)
+- **GGS Vorst Objektplanung** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGBH/documents)
+- **Kurzexpertisen 2026 Kleinstadt Akademie** – Stadt Wittenberge · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXVHYHSDYHL3AREH)
+- **BLB NRW DU / Duisburg / Land- und Amtsgericht / Umbau & Erweiterung / Prüfsachverständigen-Leistung Elektro (020-26-0034** – Bau- und Liegenschaftsbetrieb NRW Duisburg · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYH0SPW9E)
+- **Planung - Nutzungsänderung Bungalow mit Lagerraum zu einem Bistro (Ganzjahres-Gastro) im EG Kiebitz (LPH 5-8)** – Verbandsgemeinde Liebenwerda · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YJJH38C)
+- **Jobcenter Herford - Erstellung ärztlicher, psychiatrischer und psychologischer Gutachten** – Kreis Herford im Auftrag des Jobcenters Herford · Frist s. Unterlagen · [Unterlagen](https://www.vergabe-westfalen.de/VMPSatellite/notice/CXWBYYDDYHEFPKC0)
+- **Plattenbasierte Einzelzell RNA Sequenzierung von 3.840 humanen T Zellen** – Technische Universität Berlin · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0YEADYH05ZGJM)
+- **Planung - Neubau eingeschossiges Schwimmlager inkl. Nebenräume+Veranstaltungsraum (LPH 5-8) im EG Kiebitz** – Verbandsgemeinde Liebenwerda · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YJJH38M)
+- **Innenstadtsanierung - Gestaltungshandbuch Wunstorf** – Stadt Wunstorf · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXS0YMTDYHLAHRWD)
+- **Neugestaltung Volksgarten Wusterhausen/Dosse** – Gemeinde Wusterhausen/Dosse · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YE7H37D)
+- **Altablagerungsstelle Dörnberg, ehem. Industrieabfalldeponie Laurenburg; Tagesbruch** – Struktur- und Genehmigungsdirektion Nord · Frist s. Unterlagen · [Unterlagen](https://landesverwaltung.vergabe.rlp.de/VMPSatellite/notice/CXS2YYCDYHYH7G7R)
+- **Überwachungsmaßnahmen an vier Deponiestandorten im Kreis Euskirchen** – Kreis Euskirchen · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXQ1YYRY1BP)
+- **Kleinstadt-Labore Jüterbog: &quot;Stadtvoll statt leer&quot; Integriertes Leerstandshandlungskonzept zur Wohnraumaktivie** – Stadt Jüterbog · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9Y41H379)
+- **Planungsleistungen Ertüchtigung der Schießstätte Talbecke II** – Kreisjägerschaft Oberberg e.V. · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YKRM16U)
+- **Einzelfallstudie Artenreicher Ackerrandstreifen 2027** – Landesamt für Umwelt, Landwirtschaft und Geologie · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.sachsen.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a15d525fca-e1f4af1df30afe8&PublicationType=0)
+- **Öffentliche Aufforderung  zur Interessenbekundung** – SECURVITA BKK · Frist s. Unterlagen · [Unterlagen](www.securvita.de)
+- **Neubau 2-gruppige KiTa mit Vereinsräumen IG Waid, Weinheim - Elektroplanung** – Stadt Weinheim · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E82376285)
+- **Neubau Labor- und Bürogebäude für die Universität Oldenburg Fachplanung Labor (ALG 7)** – Land Niedersachen vertreten durch das Staatliche Baumanagement Nieders · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YY5RK12/documents)
+- **Ersatzneubau THK CD Geb. D / Prüfstatik** – Bau- und Liegenschaftsbetrieb NRW Köln · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYH6VXD5A/documents)
+- **Naturnaher Gewässerausbau des Gagzower Grabens – Entschlammung Dorfteich** – WBV Wallensteingraben-Küste · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E23437373)
+- **Quartiersversorgung 2** – EGC Entwicklungsgesellschaft Cottbus mbH · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YJ6H357/documents)
+- **BEW-Transformationsplan Wärmenetz Templin Süd** – FWG Fernwärmegesellschaft mit beschränkter Haftung Templin · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YQRH3UG/documents)
+- **VgV Aufdimensionierung Hauptsammler Alte Rheinstraße/Eisenbahnstraße** – Stadt Lahr · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/e5ed7147-f6e1-4e25-b26a-73f0d150c360)
+- **Umweltbaubegleitung ENB BW Ruhrbrücke** – Die Autobahn GmbH des Bundes - NL Rheinland · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a080e0c52c-22df1fe443196a74)
+- **BLB NRW DU / Abteilung Immobilienmanagement 06 Finanzen / Sonstige Liegenschaften / Projektsteuerungsleistungen für fünf** – Bau- und Liegenschaftsbetrieb NRW Duisburg · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYH63HSPH/documents)
+- **BG Klinikum Hamburg - Neubau Bergedorf - Allianzpartner 7 - BEWEGER | Logistik, Medizintechnik, Fördertechnik, digitale ** – BG Klinikum Hamburg gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHHM214/documents)
+- **Neubau 2-gruppige KiTa mit Vereinsräumen IG Waid, Weinheim - HLS-Planung** – Stadt Weinheim · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E65168576)
+- **Gemeinde Karlsbad | Sanierung Sporthallen Technische Gesamtplanung** – Gemeinde Karlsbad · Frist s. Unterlagen · [Unterlagen](https://www.tender24.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a13ad1992c-6652a12787784602)
+- **Leistungen der Tragwerksplanung für den Rückbau und Neubau der Kinder- und Jugendfreizeiteinrichtung Wilde Rübe, Wildenb** – Bezirksamt Neukölln von Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/publications)
+- **Infrastrukturmaßnahme Dorferneuerung Arnshausen in 97688 Bad Kissingen** – Stadt Bad Kissingen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D4TMW31/documents)
+- **Neubau 2-gruppige KiTa mit Vereinsräumen IG Waid, Weinheim - Tragwerksplanung** – Stadt Weinheim · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E92465684)
+- **Wärmenetz Rottweil** – ENRW Energieversorgung Rottweil GmbH & Co. KG · Frist s. Unterlagen · [Unterlagen](https://www.tender24.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a11f6e76df-453030e80c55cc19)
+- **Zweiphasiger städtebaulich-freiraumplanerischer Wettbewerb nach RPW 2013 - Produktives Quartier Gutleut-West** – Stadt Frankfurt am Main – Der Magistrat –  vertreten durch das  Stadtp · Frist s. Unterlagen · [Unterlagen](https://bieterportal.pd-g.e-va.eu/?tid=8413eea2f66ab3385f5da9feb8f8344e)
+- **Umbau und Sanierung der Kindertagesstätte „Spatzennest“** – Stadt Klötze · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=885357)
+- **Neubau eines Feuerwehrgerätehauses in Waurichen - Objektplanung** – Stadt Geilenkirchen - Der Bürgermeister - · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXS0YR1DYHY4EB3S/documents)
+- **Energieträgerumstellung ETU - TGA Planung für Los 1 und 2** – WBM Wohnungsbaugesellschaft Berlin-Mitte mbH · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211400)
+- **Königsgarten Sanierung /Neubau Wohnhaus mit Nebengebäuden und Sanierung Scheune mit Technikzentrale** – Gemeinde Schönewörde · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E26738711)
+- **2026-72_K164_ENB_Objektplanung_Verkehrsanlagen_besondere_Leistungen** – Niedersächsische Landesbehörde für Straßenbau und Verkehr - Geschäftsb · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YY6RS7T/documents)
+- **Naturschutzfachkartierung im Landkreis Weilheim-Schongau** – Bayerisches Landesamt für Umwelt · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.bayern.de/evergabe.bieter/api/supplier/external/deeplink/subproject/91da5f1a-edcf-423b-8b48-2e85bc31c093)
+- **Bauüberwachungsleistungen_Invest-Container 2027 (B48 & B49) Duisburg Hbf - Essen Hbf** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/c2ae6d45-7f45-4a00-b17b-2c20a12d8f64)
+- **AEMP und Endoskopieaufbereitung Objektplanung** – Berufsgenossenschaftliches Universitätsklinikum Bergmannsheil gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHHM2B6/documents)
+- **Erweiterung Ganztagesgrundschule in Appenweier/Urloffen - Objektplanung** – Gemeinde Appenweier · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E52941286)
+- **Planungsleistungen zur Verbesserung der Energieeffizienz des beruflichen Schulzentrums Riesa mit Teilsanierung Sporthall** – Landkreis Meißen · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/01a0c927-caae-415b-8b70-a9bde65657f4/zustellweg-auswaehlen)
+- **Quartiersversorgung 1** – EGC Entwicklungsgesellschaft Cottbus mbH · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YJ6H35Q/documents)
+- **A1, Kontrollprüfungen NEB** – DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabe.deges.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1535d6564-751e066c68700d04)
+- **Objektplanung, Tragwerksplanung und Geotechnik** – Landeshauptstadt München, Baureferat · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/302744)
+- **BIM-Planungsleistung - ZKB 2030 - Friedrichshafen Flughafen und Meckenbeuren** – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe (Bukr 11) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/c5537aaa-3955-41ad-ab7b-280d4e1c71eb)
+- **Planung der Modernisierung von Aufzügen nach GBU, Paket 6** – GESOBAU AG · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210145)
+- **Errichtung eines Gigabitnetzes der nächsten Generation in den unterversorgten Teilen der Gemeinde Nümbrecht unter Gewähr** – Gemeinde Nümbrecht · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YBC50G1/documents)
+- **Tragwerksplanung LP 1-6 ** – Landratsamt Landkreis Leipzig · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/54321-Tender-1a1104679db-6398cc74911de528)
+- **Ermittlung von Überflutungsflächen im Zusammenhang mit der Umsetzung der EG-HWRM-RL - Dhünn und Mutzbach** – Bezirksregierung Köln · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS7YDCDYH0DH40B/documents)
+- **Objektplanung Brandschutzsanierung BA 5, Achalmbad Reutlingen** – Stadtwerke Reutlingen GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabeportal-bw.de/Satellite/notice/CXRAY69YMRP/documents)
+- **Erschließung des Gewerbeparks Bokhorst - Projektsteuerungs- und Projektmanagementleistungen** – Stadt Elmshorn - Der Oberbürgermeister - · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0YMKDYHEUC4K8/documents)
+- **Bauüberwachung Fassadensanierung Opernfoyer** – Vergabe und Beschaffungszentrum Dortmund · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXPSYYFD76M/documents)
+- **Rahmenvertrag Wirtschaftsflächenentwicklung** – Zukunftsagentur Rheinisches Revier GmbH · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/01a0a95b-995b-43b8-9ba1-b38ca91fb101/zustellweg-auswaehlen)
+- **MPAL VE 3.33 Bauüberwachung HKLS** – DB Regio AG (Bukr 12) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/a1635bbe-7bf2-4ecc-afbe-b59e89dc578d)
+- **Planung Umbau Baumschulenstraße zwischen Köpenicker Landstraße und Südostalle - Sonnenallee** – Land Berlin, vertreten durch das Bezirksamt Treptow-Köpenick von Berli · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210879)
+- **Kindergartenzweckverband Bogel - Neubau Kita Bogel: Los 2 - Fachplanungsleistungen Technische Ausrüstung Elektro** – Kindergartenzweckverband Bogel · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YK7M1Y0/documents)
+- **Erweiterung Klassenräume und Ganztag und Teilsanierung Keltenbau an der Limesschule Altenstadt - Generalplanerleistungen** – Wetteraukreis · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a158939566-82c36f563566812)
+- **Kindergartenzweckverband Bogel - Neubau Kita Bogel: Los 3 - Tragwerksplanungsleistungen** – Kindergartenzweckverband Bogel · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YK7M1YS/documents)
+- **U5 Verlängerung Frankfurter Berg - Umlegung entwässerungstechnischer Anlagen - Ingenieurbauwerke** – Stadtwerke Verkehrsgesellschaft Frankfurt am Main mbH (VGF) · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/8793a4ad-d08b-4a4c-aee7-e41a0da131f0)
+- **2026-0572 Modellvorhaben Stark im Norden - TP04 - Objektplanung Freianlagen, Neubau Familienzentrum Julius-Birck-Str., 4** – Stadt Duisburg, Sondervermögen-Immobilien Duisburg (SVI), vertreten du · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YRTDYRFGA4B6/documents)
+- **Neubau GS Mulsum-Kutenholz - Tragwerksplanung** – Samtgemeinde Fredenbeck · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D4HM7TE/documents)
+- **Erstellung eines hydrologischen Einzugsgebietsmodells für die EZG von Dosse und Jäglitz-Phase III: Erarbeitung von Bewir** – Wasser- und Bodenverband "Dosse-Jäglitz" · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9Y0BH3LY/documents)
+- **Kindergartenzweckverband Bogel - Neubau Kita Bogel: Los 1 - Fachplanungsleistungen Technische Ausrüstung HLS** – Kindergartenzweckverband Bogel · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YK7M1YD/documents)
+- **Objekt- und Tragwerksplanung Felshangsicherung, Strecke 5100, km 78,500 bei Himmelkron** – DB InfraGO AG ? Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/22deb657-bebd-4359-995f-9fc830c7eedf)
+- **Bodenaufschlüsse FW Heinersdorfer Straße** – Stadtwerke Bernau GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YNRH3U7)
+- **Bestandsvermessung Radschnellverbindung München-Markt Schwaben** – Landeshauptstadt München, Mobilitätsreferat · Frist s. Unterlagen · [Unterlagen](https://vergabe.muenchen.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a158c132d0-2ef2261ecd82e516&PublicationType=0)
+- **LPH 6 und 8 OP VA für B70 - Grunderneuerung OU Lingen Laxten - Damaschke** – Niedersächsische Landesbehörde für Straßenbau und Verkehr - Geschäftsb · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YY6RS8J)
+- **Planungsleistungen für die Maßnahme &quot;Straßenraumaufwertung / Umgestaltung Westfälische Straße zwischen Heinestraße ** – Stadt Oberhausen Stabsstelle 2-0-10 Zentrale Vergabe · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YR9DYH05NXWQ)
+- **Erwin-Strittmatter-Gymnasium Spremberg, Planungsleistungen für den Neubau eines Chemiekabinetts - Los 3 Fachplanung Auss** – Landkreis Spree-Neiße · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXS0YDDDYH6FBFC1)
+- **BLB NRW / NL DO / TU-DO (WE2037) CN Chemie 1+2 Prüfmängelbeseitigung Austausch NSHV+NSHV-Labornetz / HOAI Leistung TA, E** – Bau- und Liegenschaftsbetrieb NRW Dortmund · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYHDQK4QR)
+- **Abbruch- und Entsorgungskonzept (ehem. Heizhaus und Schornstein)** – Stadt Nauen - Fachbereich 60 (Bau) · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXVHYRCDYHR6M2U4)
+- **Aufbereitung von Strukturdaten fuer die Verkehrsplanung** – Senatsverwaltung fuer Mobilitaet, Verkehr, Klimaschutz und Umwelt · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211164)
+- **Bestands-, Planfall- und Wirkungsanalyse Westraum** – Senatsverwaltung fuer Mobilitaet, Verkehr, Klimaschutz und Umwelt · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/211249)
+- **Innovative Wanderstützpunkte im Biosphärenreservat Karstlandschaft Südharz** – Biosphärenreservatsverwaltung Karstlandschaft Südharz · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdetails.html?id=900562)
+- **Fachplanung Technische Ausrüstung Medizintechnik, Teilprojekt 3 Erweiterung ZOP und Errichtung von 16 IMC-Betten** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20H/documents)
+- **Ersatzneubau Bäkebrücke – Bauvertragliche Unterstützung** – Wasserstraßen-Neubauamt Berlin · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=898568)
+- **Verkehrsuntersuchung und Vorplanung Freiheitstraße** – Stadt Remscheid, Fachdienst Recht und Vergabe, Abteilung Zentrale Verg · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXS0YY3DY6TWVA7N/documents)
+- **79760 Techn. Ausrüstung Erweiterungsbau, Dienstgebäude Würzburg** – DRV Bund Einkaufsmanagement Bauleistungen · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-rentenversicherung-bund.de/einkaufskoordination/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a0a47845f8-536904e14c463431&PublicationType=0)
+- **Rahmenvereinbarung über die Durchführung der betriebsärztlichen und sicherheitstechnischen Betreuung - Fachkraft für Arb** – Landesbetrieb Mess- und Eichwesen Nordrhein-Westfalen · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXPNY4AD2U7/documents)
+- **Planungsleistungen zur Überleitung des gemeindlichen Abwassers von der Kläranlage Künzing zum Pumpwerk "Röhr" der Stadtw** – Gemeinde Künzing · Frist s. Unterlagen · [Unterlagen](https://www.staatsanzeiger-eservices.de/aJs/EFormsBekVuUrl?z_param=331160)
+- **Neubau eines Parkhauses in Adenau (Wimbachstraße), Los 2 - Leistungen der Technischen Ausrüstung HLS** – Stadt Adenau, vertreten durch die Verbandsgemeindeverwaltung Adenau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YK7MWVF/documents)
+- **Kuhlache Ost – Freianlagenplanung Leistungsphasen 3 bis 8
+im Rahmen der Vorbereitung der Landesgartenschau Lutherstadt W** – Lutherstadt Wittenberg · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=889707)
+- **2026-09-schiffweiler-freibad-leistungen-objektplanung-freianlagen** – Gemeinde Schiffweiler · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YC1MWC7/documents)
+- **Dezentraler LKW Vorstau - Objektplanung Verkehrsanlagen** – Behörde für Wirtschaft, Arbeit und Innovation c/o  ReGe Hamburg Projek · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y6GM28M/documents)
+- **A8 Albaufstieg - Bodenbaubegleitung (BBB)** – Die Autobahn GmbH des Bundes - NL Südwest · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0b33eae96-7c0961abcc638efb)
+- **Generalsanierung Ulrich-von-Dürrmenz-Schule Mühlacker, ELT** – Stadt Mühlacker · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y78MPK9/documents)
+- **RV Baubegleitendens Qualitätscontrolling** – Berlinovo Immobilien Gesellschaft mbH · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210642)
+- **Ersatzneubau SBA A10-Süd und NBA inkl. UZ_RE-Entwurf** – Die Autobahn GmbH des Bundes - NL Nordost · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a13943b6bd-4d02a87390740903)
+- **Fachplanung Technische Ausrüstung Medizintechnik, Teilprojekt 4 Sanierung Stationen und Erweiterung Intensivstation** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20C/documents)
+- **Objektplanung Gebäude, Teilprojekt 3 Erweiterung ZOP und Errichtung von 16 IMC-Betten** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20Y/documents)
+- **Vogt-Kölln-Straße - Objektplanung Freianlage gem. HOAI** – Bezirksamt Hamburg-Mitte · Frist s. Unterlagen · [Unterlagen](https://fbhh-evergabe.web.hamburg.de/evergabe.bieter/api/supplier/external/deeplink/subproject/65552350-7d49-482a-a47e-af9657a86407)
+- **Umbau im Schienennetz-Zweig Am Schinnergraben** – MVG - Mainzer Verkehrsgesellschaft mbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYHXDYH6SW11G/documents)
+- **B191 Dömitz- Knoten B5-B191, OPL Verkehrsanlage Lph. 3 und 4** – Straßenbauamt Schwerin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/158125)
+- **Generalplanungsleistungen zur Sanierung und Modernisierung der Breiten Str. 58,16225 Eberswalde, Deutschland** – WHG Wohnungsbau- und Hausverwaltungs GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YALH3AC/documents)
+- **Tunnel Bochum Grumme Nachrüstung LED Beleuchtung** – Die Autobahn GmbH des Bundes - NL Westfalen · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a110d25136-25e6068bd197b479)
+- **Konzepterstellung Schwimmbad und Personalwohnhaus Moltkestr. 15, Klinik Norderney, Kaiserstr. 26, 26548 Norderney** – Deutsche Rentenversicherung Westfalen - Baureferat - · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-rentenversicherung-bund.de/einkaufskoordination/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a152f96b2a-74dd1971fe222768)
+- **Coburg - Amt 65 - Staatliche Realschule Coburg 1 - Sanierung Gebäude A - Objektplanung Gebäude u. Freianlagen (LPH 5-8 H** – Stadt Coburg - Hochbauamt · Frist s. Unterlagen · [Unterlagen](https://www.tender24.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a10fec3df6-1892f490debc71f7)
+- **26FEI88522 Bauüberwachungsleistungen Bf. Guben und Wellmitz** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/1d3bbc54-afde-4009-bb28-a7e5e72818ee)
+- **Generalsanierung Ulrich-von-Dürrmenz-Schule Mühlacker, TWP** – Stadt Mühlacker · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y78MPNA/documents)
+- **Neubau Wasseraufbereitung Wasserwerk Hage - Gesamtvergabe Objektplanung sowie Fachplanungen Techn. Ausrüstung und Tragwe** – Wirtschaftsbetriebe der Stadt Norden GmbH · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/01a153c9-8128-4c5b-b4cd-0f63f5234d03/zustellweg-auswaehlen)
+- **Umbau und Sanierung Museumserweiterung Schloss Rochsburg - Fachplanung Technische Ausrüstung HLS - Anlagengruppe 1 - 3, ** – Landratsamt Mittelsachsen · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/158183)
+- **Modernisierung und Sanierung des Freizeitbades / Hallenbades "La Ola" in Landau, Los 1 - Objektplanung Gebäude und Freia** – Stadtholding Landau in der Pfalz GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YK7MW2M/documents)
+- **Objektplanungsleistungen für den Rückbau und Neubau der Kinder- und Jugendfreizeiteinrichtung Wilde Rübe in Berlin-Neukö** – Bezirksamt Neukölln von Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/209896)
+- **Neubau eines Parkhauses in Adenau (Wimbachstraße), Los 4 - Leistungen der Technischen Ausrüstung Elektro** – Stadt Adenau, vertreten durch die Verbandsgemeindeverwaltung Adenau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YK7MWVJ/documents)
+- **2026-69_E233_PA_8_Bauablaufkonzept** – Niedersächsische Landesbehörde für Straßenbau und Verkehr - Geschäftsb · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YY6RS34/documents)
+- **Generalplaner Projekt Autarkie Würgassen** – BGZ Gesellschaft für Zwischenlagerung mbH · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E16222477)
+- **Beprobung kontaminierter Böden 2027 / 2028** – REWAG Regensburger Energie- und Wasserversorgung AG & Co KG · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DB0MWQX/documents)
+- **017f2c. Landschaftspflegerischer Begleitplan (LBP), faunistische und floristische Kartierung, artenschutzrechtlicher Fac** – Hessen Mobil, Straßen- und Verkehrsmanagement, Zentrale · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a11b6356df-5cd6a4680cb3940c)
+- **Gestellung Spezialfachkraft MSS zur Überwachung der HSG-Bearbeitung** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/0a4bda9e-f138-42a6-95ed-59234c9dba8d)
+- **Teilsanierung, Teilneubau Grundschule Bönebüttel, Tragwerksplanung** – Gemeinde Bönebüttel über Amt Bokhorst-Wankendorf · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y9CMW9W/documents)
+- **Arbeitssicherheit und Arbeitsmedizin** – Stiftung Oper in Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/209922)
+- **Dietrich-Bonhoeffer-Gymnasium-Oberasbach – Neubau Mehrfachsporthalle** – Landkreis Fürth · Frist s. Unterlagen · [Unterlagen](https://plattform.aumass.de/Veroeffentlichung/av2868b5-eu)
+- **Matthias-Claudius-Schule Tragwerk und Bauphysik** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGF9/documents)
+- **TGA-Planungsleistungen Anlagegruppen 440, 450, Leistungsphasen 1-8, § 55 HOAI zum Neubau einer Notarztwache** – Knappschaft Kliniken Gelsenkirchen-Buer GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0Y6RDY6ZH1X0E/documents)
+- **Sanierung Tiefgarage Am Stadtmuseum - Vergabe von Generalplanungsleistungen nach HOAI und BaustellV** – Stadt Oldenburg (Oldb) · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/2bdc8e28-dfa5-44a3-83c8-e77ffd807a5c)
+- **Stadtwerke Konstanz GmbH - Generalplanung Neubau Umspannwerk** – Stadtwerke Konstanz GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YMZMWLB/documents)
+- **DGUV V4 Prüfung ortsveränderliche elektrische Betriebsmittel** – Vivantes - Netzwerk für Gesundheit GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXVHYH4DY66AST6F/documents)
+- **GGS Vorst TGA** – Stadt Kaarst - Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXPTYDJDGKU/documents)
+- **Abwasserüberleitung der Kläranlagen Altheim, Eubigheim-Hohenstadt und  Schillingstadt** – Abwasserzweckverband Kläranlage Kirnautal · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E42162787)
+- **Rahmenvereinbarung über Abnahmen von Sportbooten und Wassermotorrädern nach der See-Sportbootverordnung für 2027 im Osts** – Wasserstraßen- und Schifffahrtsamt Ostsee · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdetails.html?id=900208)
+- **Strukturverbesserung der Malxe im Stadtgebiet Peitz, LP 3-4** – Gewässerverband Spree-Neiße · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9Y06H3UK)
+- **Erstellung einer Machbarkeitsstudie zur zukünftigen Büro- und Standortstruktur des WVZ Maifeld-Eifel** – Wasserversorgungs-Zweckverband Maifeld-Eifel · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YK7MWJD)
+- **Stadtteilmanagement in Schwedt/Oder 2027-2030 inkl. Erstellung eines Abschlussberichtes für das Programmgebiet &quot;Soz** – Stadt Schwedt/Oder · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YD8H3XW)
+- **BLB NRW Köln / Oberlandesgericht Köln / Teilfassadensanierung / Projektsteuerung** – Bau- und Liegenschaftsbetrieb NRW Köln · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYHEFFAPD)
+- **Sanierungsmanagement Heven-Ost/Crengeldanz** – Stadt Witten, Zentrales Vergabeamt · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YMUDY633R7VL)
+- **Freianlagenplanung Maastrichter Straße** – Stadt Oldenburg (Oldb) · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/9dfa607b-7150-498f-bc96-efa22c425b9f)
+- **L 342 - Ersatzneubau Brücke - Leistungen Baugrundgutachter** – Niedersächsische Landesbehörde für Straßenbau und Verkehr - Geschäftsb · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YY6RS7R)
+- **Barrierefreie Bushaltestellen im Stadtgebiet FFB 2026** – Große Kreisstadt Fürstenfeldbruck · Frist s. Unterlagen · [Unterlagen](https://ffb.healyhudson.biz/evergabe.bieter/api/supplier/external/deeplink/subproject/263915f0-0b7d-47de-9302-41d200bd34a6)
+- **Ing.-Leistungen SiGeKo** – Stadtwerke Wesel · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/X-SWWESEL-2026-0012)
+- **BLB NRW D/ Düsseldorf (WE2358) D-Neubau 2. Standort RSH/BNB Koordinator/065-26-00325** – Bau- und Liegenschaftsbetrieb NRW Düsseldorf · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYH6Q61UC)
+- **Instandhaltungsarbeiten Elektroanlagen im Zeitvertrag** – Karlsruher Institut für Technologie · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y03MW3S)
+- **Ing.Leistungen Sanierung Brücke Erste Mühle und modulares Materialkonzept Fußgängerbrücken** – Hansestadt Wipperfürth · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXT2YY6DYDTNWBY3)
+- **Ingenieurleistungen Ersatzneubau Durchlass Jörgensmühle** – Hansestadt Wipperfürth · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXT2YY6DYDB3TSZ0)
+- **Beauftragung des Brandschutzbeauftragten für das Spindelbauwerk Kö-Bogen 01-2027 bis 12-2030** – Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht, Ver · Frist s. Unterlagen · [Unterlagen](https://vergabe.duesseldorf.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a152aa35fc-7088c905179b5b44&PublicationType=0)
+- **Bauvorbereitende Untersuchungen 2027 im GB Stade** – Niedersächsische Landesbehörde für Straßenbau und Verkehr - Geschäftsb · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YY6RSU9)
+- **Rahmenvertrag für Schadstofferkundungen im Ratinger Stadtgebiet für das Jahr 2027** – Stadt Ratingen, Der Bürgermeister, Rechtsamt, Zentrale Vergabestelle · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXW4YYDYTT8R150E)
+- **Prüfung der ortsveränderlichen elektrischen Betriebsmittel** – Stadt Ratingen, Der Bürgermeister, Rechtsamt, Zentrale Vergabestelle · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXW4YYDDYHYMLVPV)
+- **Brandschutz- und sicherheitstechnische Ertüchtigung Saal und Küche des BSZ - Julius Weisbach - in Freiberg - Elektroplan** – Landratsamt Mittelsachsen · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/158210)
+- **Brandschutz- und sicherheitstechnische Ertüchtigung Saal und Küche des BSZ - Julius Weisbach - in Freiberg - Planung Hau** – Landratsamt Mittelsachsen · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/158221)
+- **Generalplanungsleistung für Bestandswohnimmobilien OSWO, SDWO, WEWO (Vergabenummer VOEK 394-26)** – Bundesanstalt für Immobilienaufgaben · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=899550)
+- **Wiederkehrende Prüfung der lüftungstechnischen Anlagen gemäß Prüfverordnung -PrüfVO vom 01.01.2026 - in allgemeinbildend** – Schulbau Hamburg & Gebäudemanagement Hamburg GmbH · Frist s. Unterlagen · [Unterlagen](https://fbhh-evergabe.web.hamburg.de/evergabe.bieter/api/supplier/external/deeplink/subproject/e260cab3-d673-4147-8ae8-f691fc4a020d)
+- **Wiederkehrende Prüfung der elektrotechnischen Anlagen gemäß
+Prüfverordnung - PrüfVO vom 01.01.2026 -
+in allgemeinbildend** – SBH | Schulbau Hamburg · Frist s. Unterlagen · [Unterlagen](https://fbhh-evergabe.web.hamburg.de/evergabe.bieter/api/supplier/external/deeplink/subproject/376a24c3-8e41-4df6-9164-f8d91ca8f4fe)
+- **Zentrum für regionale Erzeugnisse Lübbenau (Gurkenwelt) Ingenieurleistungen für Abbruchplanung inkl. BÜ + SiGeKo** – Spreewelten GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXVHYM6DY63QD4YJ/documents)
+- **Planungsleistungen inkl. OSA für die Überführungsbrücke Wilhelm-Nieswandt-Allee - Stadt Essen** – Stadt Essen - Amt für Straßen und Verkehr · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YYZDYDX13ZT9/documents)
+- **Umgestaltung Obstmarkt 
+Archäologische Baubegleitung** – Stadt Nürnberg - Servicebetrieb Öffentlicher Raum · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/56ee0f3a-ea6c-4c30-abc4-ebb36c445215)
+- **Rahmenvertrag Ladeinfrastruktur** – Dataport AöR · Frist s. Unterlagen · [Unterlagen](https://fbhh-evergabe.web.hamburg.de/evergabe.bieter/api/supplier/external/deeplink/subproject/cc379a8d-3299-46fe-9453-ee26d65ef572)
+- **Schleuse Mühlendamm- Planung zur baulichen Sicherung des Mitteldammes** – Wasserstraßen- und Schifffahrtsamt Spree- Havel · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=899500)
+- **Sicherheitsmessung Kompaktbauwerk und BW 52.1 Störmthaler Kanal** – Lausitzer und Mitteldeutsche Bergbau-Verwaltungsgesellschaft mbH - Ein · Frist s. Unterlagen · [Unterlagen](https://xvergabe.de/awardProcedure/01a13a54-431a-4cf6-8825-1519b3394158)
+- **Rahmenvertrag baubegleitende Vermessung Neubau KALE** – Wupperverband · Frist s. Unterlagen · [Unterlagen](https://vergabe.brw-haan.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1160494d7-25fc853687ad976e)
+- **Grundschule Auf dem Loh, Gesamtsanierung und Erweiterung, Fachplanung der Technischen Gebäudeausrüstung** – Landeshauptstadt Hannover - Fachbereich Gebäudemanagement · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/101/tenderId/25864)
+- **"Nährstoffuntersuchungen in niedersächsischen Oberflächengewässern (3. Zyklus)"** – Niedersächsischer Landesbetrieb für Wasserwirtschaft, Küsten- und Natu · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXQ6YYHRSGV/documents)
+- **Denkmalgerechte Sanierung der Löwenapotheke - Generalplanung** – Gemeinnützige Gesellschaft zum Erhalt der historischen Altstadt von Ha · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y4VMWAS/documents)
+- **Neugestaltung Südermarkt, Flensburg, Verkehrsanlagenplanung** – IHR Sanierungsträger, Flensburger Gesellschaft für Stadterneuerung mbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHBMWZB/documents)
+- **Universitätsklinikum Münster - 1012 Sanierung und Erweiterung AWT - Abfallzentrale - P30 Planung der technischen Ausrüst** – UKM Infrastruktur Management GmbH · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS0Y6XDY606Z11R/documents)
+- **VDE 8.1 Güterzugstrecke Bauüberwachungsleistung für das VP4 EÜ AS Steinach** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/cb329675-953d-4fa0-851c-9dfa09655317)
+- **Planungsleistungen: Neubau eines Verwaltungsgebäudes in der Osdorfer Straße (Teltow)** – Fernwärme Teltow GmbH · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/f3595605-eaea-4631-947b-0624e29c948a)
+- **Fachplanung Monitoring** – Landeshauptstadt München, Baureferat · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/303459)
+- **Grundinstandsetzung Überbauung Schlangenbader Straße  - Tunnel ÜBS Bauoberleitung und besondere Leistungen I** – Land Berlin, Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und  · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210588)
+- **Projektsteuerung Modernisierung Realschule Am Oberen Schloss** – Universitätsstadt Siegen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YKRM242/documents)
+- **PL 0045 SiGeKo** – VAG Verkehrs-Aktiengesellschaft · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/b2b44b15-cb75-4f7b-a815-58a3919f0f9a)
+- **Neubau Stadtteilzentrum Nordend Planungsleistung Elektrotechnik** – Vergabestelle der Stadt Fulda · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1432bdb01-79ac6dd259f90ddf)
+- **Tragwerksplanung für Ersatzneubau mit Erweiterung Maurerstraße 38 in Jena** – Studierendenwerk Thüringen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y8UM7Q3/documents)
+- **Objektplanung Gebaeude** – Staatliches Bauamt Schweinfurt · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/304523)
+- **Freianlagenplanung / Ingenieurbauwerke - Sanierung der Eissporthalle Rostock** – Eigenbetrieb Kommunale Objektbewirtschaftung und -entwicklung der Hans · Frist s. Unterlagen · [Unterlagen](https://www.subreport-elvis.de/E93754361)
+- **Fachplanung Monitoring** – Landeshauptstadt München, Baureferat · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/303461)
+- **Ausbau Knotenpunkt B56 / L83 / Bundesgrenzschutzstraße** – NRW.URBAN · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS0YM3DYR2HMVU5/documents)
+- **SV-MSI-261015-007 - Planungsabschnitt U29 N. U9 Entlastungsspange, Objektpl.** – Landeshauptstadt München Baureferat · Frist s. Unterlagen · [Unterlagen](https://www.swm.de/einkauf/bekanntmachungen)
+- **Erweiterungsbau OGTS u. Mensa St. Jürgen-Schule - Technische Ausrüstung ALG 1-3,7-8** – Stadt Schleswig · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/7/tenderId/121016832)
+- **DLR Braunschweig – Geb. 888, Sanierung Starkstromanlagen, Mittelspannungs- und Niederspannungsschaltanlagen - Planung de** – Deutsches Zentrum für Luft-und Raumfahrt e. V. | TI-ZVM · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E78848336)
+- **Neubau eines Feuerwehrgerätehauses in Waurichen - Objektplanung** – Stadt Geilenkirchen - Der Bürgermeister - · Frist s. Unterlagen · [Unterlagen](https://www.vergaben-wirtschaftsregion-aachen.de/VMPSatellite/notice/CXS0YR1DYHY4EB3S/documents)
+- **FPH_Instandsetzung der Elektroinstallation Geb. 1 - TA - Gebäudeautomation gem. § 53 HOAI** – Brandenburgischer Landesbetrieb für Liegenschaften und Bauen · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YYEH3K5/documents)
+- **Erweiterungsbau OGTS u. Mensa St. Jürgen-Schule - Technische Ausrüstung ALG 4+5** – Stadt Schleswig · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/7/tenderId/121016846)
+- **Gemeinde Stralendorf - Neubau der Kindertagesstätte "Regenbogen"** – Gemeinde Stralendorf über Amt Stralendorf · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E88775989)
+- **Uhlandschule Tragwerksplanung** – Stadt Offenbach am Main · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a1437416e7-517bb5e9850ba6ef)
+- **1/ZIII4/GH997_Wiederholungsprüfung DGUV V4 ortsfester elektr. Anlagen** – Bundesministerium der Verteidigung · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=890623)
+- **Vorsorgemonitoring - Detektion von Veränderungen an Bauwerken** – Die Autobahn GmbH des Bundes · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a01a736b72-4715215cf99fbbd1)
+- **Planungs-, Beratungs- und Koordinationsleistungen zu Sanierung des Rathauses Unterföhring für die Ingenieurleistungen Te** – Gemeinde Unterföhring · Frist s. Unterlagen · [Unterlagen](https://plattform.aumass.de/Veroeffentlichung/av288c43-eu)
+- **VgV Regenklärbecken Gewerbegebiet Langenwinkel** – Stadt Lahr · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/afa96002-2ae8-4f04-99cc-a664c291012b)
+- **Institut für Hygiene und Umwelt (HU) der FHH - Leistungen nach der Baustellenverordnung Sicherheits- und Gesundheitskoor** – Sprinkenhof GmbH · Frist s. Unterlagen · [Unterlagen](https://bieterzugang.deutsche-evergabe.de/evergabe.bieter/api/supplier/external/deeplink/subproject/2fda970f-a215-4616-a899-d953b0e4d052)
+- **FPH_Instandsetzung der Elektroinstallation Geb. 1 - TA - Sanitär- und Heizungsinstallation gem. § 53 HOAI** – Brandenburgischer Landesbetrieb für Liegenschaften und Bauen · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YYEH3K6/documents)
+- **BLB NRW / NL Do / TU Dortmund (WE2037) / Rahmenzeitvertrag SiGeKo / 010-26-00290** – Bau- und Liegenschaftsbetrieb NRW Dortmund · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYDGYGF6P/documents)
+- **HWSB Elbdeich rechts MD-Cracau km 40,4 - 42,1
+Fremdüberwachung Vermessung** – Landesbetrieb für Hochwasserschutz und Wasserwirtschaft Sachsen-Anhalt · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=899813)
+- **Projektsteuerung für die Generalsanierung mit energetischer Maßnahme und Tiefgaragensanierung des Rathauses Unterföhring** – Gemeinde Unterföhring · Frist s. Unterlagen · [Unterlagen](https://plattform.aumass.de/Veroeffentlichung/av288c46-eu)
+- **FPH_Instandsetzung der Elektroinstallation Geb. 1 -  Gebäude und Innenräume gem. § 34 HOAI** – Brandenburgischer Landesbetrieb für Liegenschaften und Bauen · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YYEH3KH/documents)
+- **Ersatzneubau Ellerholzbrücken - Örtliche Bauüberwachung** – Hamburg Port Authority AöR · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/157655)
+- **Planung GDRMA-HR Mittelhausen, Erfurt** – SWE Netz GmbH · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E77771131)
+- **Neubau Kindergarten Stetten - Planerauswahlverfahren Objektplanung mit Freianlagenplanung** – Stadt Hechingen · Frist s. Unterlagen · [Unterlagen](https://www.tender24.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a114bf790d-82219788504a163)
+- **HWSB Elbdeich rechts MD-Cracau km 40,4 - 42,1
+Fremdüberwachung Baustoffe** – Landesbetrieb für Hochwasserschutz und Wasserwirtschaft Sachsen-Anhalt · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=899834)
+- **Hansestadt Stralsund Neubau Sporthalle Frankenhof (Frankenhalle) - HLS** – Stadterneuerungsgesellschaft Stralsund mbH · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E29594291)
+- **Neubau 2-gruppige KiTa mit Vereinsräumen IG Waid, Weinheim - Objektplanung** – Stadt Weinheim · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E35462654)
+- **Fachplanung technische Gebäudeausrichtung - ELT** – Studierendenwerk Thüringen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y8UMW7P/documents)
+- **Bildflugprogramm 2027** – Land Hessen, vertreten durch das Hessische Competence Center -Beschaff · Frist s. Unterlagen · [Unterlagen](https://vergabe.hessen.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a10b1c59fd-7a5cb64f80910b0f)
+- **Fachplanung technische Gebäudeausrichtung - HLS** – Studierendenwerk Thüringen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y8UMW78/documents)
+- **Tragwerksplanung einer Aussichtsplattform bei der Else-Kienle-Staffel in Stuttgart-Stöckach** – Amt für Stadtplanung und Wohnen Stuttgart - Beschaffung · Frist s. Unterlagen
+- **Beschaffung für Generalplanerleistungen (GP) für das Projekt I02B2602 Modernisierung Hörsäle + Kurslabore der Medizinisc** – Medizinische Hochschule Hannover · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DBTMV75/documents)
+- **Sanierung und Modernisierung Schwimmhalle West, Hans-Driesch-Straße 52A, 04179 Leipzig - Vergabe der Gesamtplanungsleist** – Sportbäder Leipzig GmbH · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/01a11f75-a830-479e-9631-1521fb62c9a7/zustellweg-auswaehlen)
+- **Erweiterung Janusz Korczak - Gesamtschule, Neubau eines Schulgebäudes Vergabeverfahren Objektplanung Gebäude und Innenrä** – Stadt Gütersloh · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y59MWNE/documents)
+- **Brandschutzfachplanung** – Studierendenwerk Thüringen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y8UMW7V/documents)
+- **Entwicklung Gewerbegebiet" Nördlich Balthasar-Goldstein-Straße** – Landeshauptstadt Saarbrücken (LHS) · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YECMWRY/documents)
+- **Blumenthal-Entwicklungsgesellschaft Herne mbH & Co. KG (BEG); Los 2: Erstellung einer Machbarkeitsstudie zur Neunutzung ** – Blumenthal-Entwicklungsgesellschaft Herne mbH & Co. KG · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D6VMWPC/documents)
+- **MHH - Ersatzneubau der Außenstelle des Instituts für Rechtsmedizin - Freianlagen** – Medizinische Hochschule Hannover · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/0517f15d-6b05-4609-b6d2-68d6349cc66f)
+- **Leistungen in der Verkehrskoordination (Kooperationsprojekt Wellingsbüttler Weg)** – Vergabemanagement · Frist s. Unterlagen · [Unterlagen](https://vergabe.hamburgwasser.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a14445104c-7a12d020d448de37)
+- **Sanierung der Festhalle Stöckwiese in Bietigheim, Freianlagenplanung** – Gemeindeverwaltung Bietigheim · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E97632863)
+- **Funktionale Ausschreibung zur Beauftragung eines strategischen Optimierungskonzeptes für das städt. WLS-Bad** – Hansestadt Wipperfürth · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXT2YY6YTUYBXBNT/documents)
+- **MHH - Ersatzneubau der Außenstelle des Instituts für Rechtsmedizin - Technische Ausrüstung HLSK** – Medizinische Hochschule Hannover · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/dbf8abb1-acdb-4451-a2d4-93415251b6fe)
+- **HSM; Europaschule Herne - Objektplanung Gebäude und Innenräume** – HSM Herner Schulmodernisierungsgesellschaft mbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4D6VMW7C/documents)
+- **BIM-Planung Peitz Guben (Spree-Neiße), ESTW, Vst, OLA, LST, TK, Whz, übertr. Lph 1-2, opt. Lph 3-7** – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/e1aeba45-d147-4454-8f15-238ac2de6443)
+- **Erneuerung von Grundwassermessstellen an der Talsperre Spremberg, Ingenieurleistung Leistungsphase 5-8 gem. HOAI § 43 so** – Landesamt für Umwelt · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YY4H33S)
+- **Grugaturm - Projektsteurer** – Grün und Gruga · Frist s. Unterlagen · [Unterlagen](https://www.vergabe.metropoleruhr.de/VMPSatellite/notice/CXS0YYZDYR3G7K4V)
+- **Planungsleistung - Gleissanierung Berliner Platz Süd** – Cottbusverkehr GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YF5H3SR)
+- **Planungsleistung Gleissanierung Brandenburger Platz** – Cottbusverkehr GmbH · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YF5H3K8)
+- **Planungsleistungen zur Erstellung des Bebauungsplanes für das Naherholungsgebiet am Gräbendorfer See nahe Wüstenhain** – Stadt Vetschau/Spreewald · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9Y55H330)
+- **Planungsleistung - Neubau Kunstrasenplatz als Trainingsfläche für das Waldstadion Alt Ruppin** – Stadtverwaltung der Fontanestadt Neuruppin · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YH5H33D)
+- **DGUV V4 Prüfung** – Polizeipräsidium Duisburg · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS7YRUDY62Z0NS0)
+- **BLB NRW D/Ratingen/D-JVA Ratingen/Düsseldorf: Planung Austausch BHKW&apos;s, Zählerkonzept, GLT energetische Optimierung** – Bau- und Liegenschaftsbetrieb NRW Düsseldorf · Frist s. Unterlagen · [Unterlagen](https://evergabe.blb.nrw.de/Vergabe/notice/CXS7YYXDYH6KM6ND)
+- **Planungsleistungen ESG Elsterwerda** – Landkreis Elbe-Elster · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YR9H3ZT)
+- **RV Probenahme und Analyse von Kraftstoffproben** – Landesamt für Natur, Umwelt und Klima NRW · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS7YY7DY62X4F76)
+- **Erstellung kommunaler Wärmeplan Samtgemeinde Jesteburg** – Landkreis Harburg - Zentrale Vergabestelle für die Samtgemeinde Jesteb · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXTMYYDDYHDV06J3)
+- **Baugrunduntersuchung Anbindung IG Pinnow K7304** – Landkreis Uckermark, Rechtsamt · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YH1H3ZQ)
+- **Planungsbegleitende Vermessung Anbindung IG Pinnow K7304** – Landkreis Uckermark, Rechtsamt · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YH1H3ZJ)
+- **Freiflaechen- und Nachverdichtungskonzept** – Stadt Fuerth -Rf. V- Zentrale Vergabestelle · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/289627)
+- **Prüfstand für Schweißrauchabscheider inkl. Schweißraucherzeugungseinheit** – Deutsche Gesetzliche Unfallversicherung e.V. · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y6CMWLE/documents)
+- **Erbringung von Unterstützungsleistungen zur Definition und Weiterentwicklung sowie Erstellung des Leistungsverzeichnisse** – CISPA - Helmholtz-Zentrum für Informationssicherheit gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0YHKDYRGHYL5P/documents)
+- **HWSB Elbdeich rechts MD-Cracau km 40,4 - 42,1
+Umweltbaubegleitung** – Landesbetrieb für Hochwasserschutz und Wasserwirtschaft Sachsen-Anhalt · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=899563)
+- **BFI TP2 Generalplanung  Grundinstandsetzung und Weiterentwicklung der Reparaturhalle (Gebäude F) LPH3-9** – Berliner Verkehrsbetriebe, Bereich Einkauf/ Materialwirtschaft · Frist s. Unterlagen · [Unterlagen](https://vergabekooperation.berlin/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a08a1338d6-2572f8f5777cc150)
+- **Gde. Holdorf: Sanierung und Umbau des Sportzentrums Holdorf (inkl. Hallenbad) - Objektplanung Gebäude und Brandschutz** – Landkreis Vechta · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/K-LKV-2026-0216)
+- **Gde. Holdorf: Sanierung und Umbau des Sportzentrums Holdorf (inkl. Hallenbad) - Technische Ausrüstung (ALG 1-5)** – Landkreis Vechta · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/K-LKV-2026-0217)
+- **3D Technik, Vermessung, Rahmenvertrag für die Vermessung von Innen und Außenflächen** – Land Berlin – Sondervermögen Immobilien des Landes Berlin (SILB) c/o B · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210643)
+- **Planungsleistungen Technische Gebäudeausrüstung (TGA) zum Bau eines Verwaltungsgebäudes** – WGT Wohnungsbaugesellschaft Teltow mbH (WGT) · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/45e7081c-7372-41a2-bb55-67b926176df4)
+- **Objektplanung Gebäude, Teilprojekt 2 Zentralisierung Ver- und Entsorgung** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2CV/documents)
+- **Fachplanung Technische Ausrüstung HLSK + GA, Teilprojekt 2 Zentralisierung Ver- und Entsorgung** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2CW/documents)
+- **Überprüfung der ortsveränderlichen elektrischen Betriebsmittel an schulischen Einrichtungen im BLK** – Burgenlandkreis · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=898534)
+- **Planungsleistungen Tragwerksplanung zum Bau eines Verwaltungsgebäudes** – WGT Wohnungsbaugesellschaft Teltow mbH (WGT) · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/24ef74ff-8a18-446d-9b6a-d347ae6193d1)
+- **Fachplanung Technische Ausrüstung ELT + Aufzug, Teilprojekt 2 Zentralisierung Ver- und Entsorgung** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2C1/documents)
+- **Fachplanung Technische Ausrüstung HLSK + GA, Teilprojekt 3 Erweiterung ZOP und Errichtung von 16 IMC-Betten** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20D/documents)
+- **Fachplanung Technische Ausrüstung ELT + Aufzug, Teilprojekt 3 Erweiterung ZOP und Errichtung von 16 IMC-Betten** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM206/documents)
+- **Objektplanung Gebäude, Teilprojekt 4 Sanierung Stationen und Erweiterung Intensivstation** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM204/documents)
+- **Fachplanung Technische Ausrüstung HLSK + GA, Teilprojekt 4 Sanierung Stationen und Erweiterung Intensivstation** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20B/documents)
+- **Fachplanung Technische Ausrüstung ELT, Teilprojekt 4 Sanierung Stationen und Erweiterung Intensivstation** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20E/documents)
+- **TGA-Planungsleistungen Anlagegruppen 410 - 450, 470, 480, LP 1-8, § 55 HOAI zum Umbau einer Kinderklinik** – Knappschaft Kliniken Gelsenkirchen-Buer GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXS0Y6RDY6TQWT4T/documents)
+- **Dezentraler LKW Vorstau - Objektplanung Verkehrsanlagen** – Behörde für Wirtschaft, Arbeit und Innovation c/o  ReGe Hamburg Projek · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y6GM28M/documents)
+- **Beobachtungsstation ZNA - Objektplanung Gebäude** – BG Kliniken Ludwigshafen und Tübingen gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHHMAK9/documents)
+- **Beobachtungsstation ZNA - Fachplanung TA HLSK** – BG Kliniken Ludwigshafen und Tübingen gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHHMAKL/documents)
+- **Beobachtungsstation ZNA - Fachplanung TA ELT** – BG Kliniken Ludwigshafen und Tübingen gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHHMAKF/documents)
+- **Klärwerk Köhlbrandhöft, Neubau Faulbehälter, Generalplanung (IA-23/01-100-001)** – Hamburger Stadtentwässerung AöR, Vergabemanagement · Frist s. Unterlagen · [Unterlagen](https://vergabe.hamburgwasser.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0e7bd92a2-2991719ccb88e938)
+- **Kreis Bergstraße - Schul- und Bildungszentrum Ost, Viernheim: INFRA II** – Kreis Bergstraße, Eigenbetrieb Schule + Gebäudewirtschaft · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YNDMWEH/documents)
+- **A1, Örtliche Bauüberwachung für Straßen- und Brückenbau** – Die Autobahn GmbH des Bundes | NL Westfalen | AS Osnabrück · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a12f8c44c1-1f34092eb5d5b18c)
+- **Neubau Bildungscampus Eslohe - Brandschutz** – Innungsverband des Dachdeckerhandwerks Westfalen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y43MW56/documents)
+- **Erweiterungsbau und Umbau Grundschule Bernhardswald für Ganztagsbetreuung - Leistungsbild Gebäudeplanung** – Gemeinde Bernhardswald · Frist s. Unterlagen · [Unterlagen](https://plattform.aumass.de/Veroeffentlichung/av286a1f-eu)
+- **BÜW - Bf Engen Ern. Mittelbahnsteig und barrierefreier Ausbau - G.011603149** – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe (Bukr 11) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/617d3c48-d5e4-42e0-b7ec-2665dd5c113b)
+- **Bundesstadt Bonn: Multiprojektsteuerung für die Feuerwachen I und III** – Bundesstadt Bonn - Referat Vergabedienste · Frist s. Unterlagen · [Unterlagen](https://www.vmp-rheinland.de/VMPSatellite/notice/CXTSYYDYTT3DFVK6/documents)
+- **Rahmenvertrag Ladeinfrastruktur** – Dataport AöR · Frist s. Unterlagen · [Unterlagen](https://fbhh-evergabe.web.hamburg.de/evergabe.bieter/api/supplier/external/deeplink/subproject/bc87648b-eaff-4d4a-a0bf-0752cd992f55)
+- **Planungsleistungen Umbau Wertstoffhof Nord** – Stadt Bielefeld - Amt für Zentrale Leistungen · Frist s. Unterlagen · [Unterlagen](https://www.vergabe-westfalen.de/VMPSatellite/notice/CXX0YYDDYDSNWNP2/documents)
+- **Sachverständigenleistung RLT und Löschanlagen 70-00251-2260-P - PR1295167-2260-B** – Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V. - · Frist s. Unterlagen · [Unterlagen](https://vergabe.fraunhofer.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0aaf579e4-1ede66e6565f521c)
+- **AeroPark 2 und 3 Würselen Merzbrück – Energiekonzept** – Aachener Kreuz Merzbrück GmbH & Co. KG · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/cc22f5e8-342f-4773-a9c1-c7f60ab9b9f3)
+- **Objektplanung Gebäude, Teilprojekt 3 Erweiterung ZOP und Errichtung von 16 IMC-Betten** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM20Y/documents)
+- **Energetische Sanierung Gebäude AB - Objektplanung** – Hochschule Osnabrück · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXS0Y4FDYRGNRE73/documents)
+- **RV_D_2027_46000_alle Objekte national** – Bayerische Versorgungskammer · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y4KMVL9/documents)
+- **Fachplanung Technische Ausrüstung Medizintechnik, Teilprojekt 1.5 Zentralisierung Angiographie** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2CJ/documents)
+- **Revitalisierung des Hafenstandortes "Feuerwache See" zu einer multifunktionalen, wirtschaftsnahen maritimen Infrastruktu** – Hanse- und Universitätsstadt Rostock, Hafen-und Seemannsamt · Frist s. Unterlagen · [Unterlagen](https://evergabe-mv.de/Satellite/notice/CXRBYYQY6A6/documents)
+- **MHH - Ersatzneubau der Außenstelle des Instituts für Rechtsmedizin - Tragwerksplanung und Bauphysik** – Medizinische Hochschule Hannover · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/5bee311d-b699-494b-b7e0-8e9b9abc5ae8)
+- **Fachplanung Technische Ausrüstung Medizintechnik, Teilprojekt 1.4 Zentralisierung Endoskopie** – Deutsches Rotes Kreuz Schwesternschaft Berlin Gemeinnützige Krankenhau · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4DLSM2CP/documents)
+- **Ersatzbau einer Seebrücke in Pelzerhaken, Fachplanung Tragwerksplanung** – Stadt Neustadt in Holstein, Amt 5: Tourismus - Service · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/7/tenderId/121016844)
+- **Sanierung der Sporthalle am Kulturmarktplatz Goslar** – Zentrale Vergabestelle - Stadt Goslar Goslarer Gebäude Management - Ei · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E92628481)
+- **IHK-Campus Zukunft Projektsteuerung** – IHK Mittlerer Niederrhein · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YW6M8PT/documents)
+- **Erstellung von Baulärmgutachten und - monitoring für zwei Neubauprojekte zu ministeriellen Zwecken auf dem Postblockarea** – Bundesanstalt für Immobilienaufgaben · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=898400)
+- **Ausbau der L 318 zwischen Großholbach und Montabaur** – LBM Diez · Frist s. Unterlagen · [Unterlagen](https://lbm.vergabe.rlp.de/VMPSatellite/notice/CXS2YYRDY6TUGQWP/documents)
+- **Steinbergkirche-Bürgerzentrum-Technische Ausrüstung** – BIG Städtebau GmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y93MW3L/documents)
+- **Rathaus Brebach Saarbrücken -TGA-Leistung** – Gebäudemanagementbetrieb der Landeshauptstadt Saarbrücken - GMS · Frist s. Unterlagen · [Unterlagen](https://saarvpsl.vmstart.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a139379029-5a79f8b75123ed38)
+- **Objekt- und TGA-Planung nach HOAI für die Sanierung der GS am Hollerbusch** – Bezirksamt Marzahn-Hellersdorf von Berlin · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/210250)
+- **Objektplanung Ingenieurbauwerke und Tragwerksplanung** – Landeshauptstadt München, Baureferat · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/300010)
+- **ES 13 Energetische Sanierung von 13 Standorten RV Planung HLS + MSR** – Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht, Ver · Frist s. Unterlagen · [Unterlagen](https://vergabe.duesseldorf.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a13e04b17a-aa3c14b9c473f2a)
+- **TGA-Planung - Sanierung der Eissporthalle Rostock** – Eigenbetrieb Kommunale Objektbewirtschaftung und -entwicklung der Hans · Frist s. Unterlagen · [Unterlagen](https://www.subreport-elvis.de/E82625886)
+- **Objekt u. Tragwerksplanung für Bauwerke 6, 7, 8 der B299 Ortsumfahrung Weihmichl** – Staatliches Bauamt Landshut · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/304940)
+- **Erweiterungsbau und Umbau Grundschule Bernhardswald für Ganztagsbetreuung - Leistungsbild Technische Ausrüstung Anlageng** – Gemeinde Bernhardswald · Frist s. Unterlagen · [Unterlagen](https://plattform.aumass.de/Veroeffentlichung/av288c25-eu)
+- **Gymnasium im Schloss - Neubau Entlastungsbau II - Freiraumplanung Schulhof** – Stadt Wolfenbüttel · Frist s. Unterlagen · [Unterlagen](https://www.deutsche-evergabe.de/dashboards/dashboard_off/851bf0bc-e9d5-4974-ac82-7ab93a783b47)
+- **PV auf kommunalen Liegenschaften** – Region Hannover · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.de/unterlagen/54321-Tender-1a02329ae75-32a1859803de8048)
+- **Barsinghausen FFW-GM - TNW** – Stadt Barsinghausen · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4Y4WM85D/documents)
+- **Modernisierungskonvoi 2026-2028** – Wissenschaftsstadt Darmstadt, Rechtsamt - Sachgebiet Vergabe · Frist s. Unterlagen · [Unterlagen](https://www.had.de/NetServer/TenderingProcedureDetails?function=_Details&TenderOID=54321-Tender-1a0805afa42-20392ac2107e46f5)
+- **DGM-W Niederrhein - bALS-Befliegung mit Klassifizierung** – Wasserstraßen- und Schifffahrtsamt Mittellandkanal / Elbe-Seitenkanal · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=887447)
+- **Energetische Sanierung Gebäude AB - TGA-Planungsleistungen Gebäudeautomation** – Hochschule Osnabrück · Frist s. Unterlagen · [Unterlagen](https://vergabe.niedersachsen.de/Satellite/notice/CXS0Y4FDYRGULGKR/documents)
+- **Aufstockung der Achtalschule Baienfurt
+Vergabe von Leistungen nach HOAI 2021, Teil 3 Objektplanung, Abschnitt 1, § 34 Le** – Gemeinde Baienfurt · Frist s. Unterlagen · [Unterlagen](https://www.subreport.de/E85537157)
+- **Erweiterungsbau und Umbau Grundschule Bernhardswald für Ganztagsbetreuung - Leistungsbild Technische Ausrüstung Anlageng** – Gemeinde Bernhardswald · Frist s. Unterlagen · [Unterlagen](https://plattform.aumass.de/Veroeffentlichung/av288c23-eu)
+- **2. S-Bahn-Stammstrecke München, Terminsteuerung Querschnitt, VE1411** – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe (Bukr 11) · Frist s. Unterlagen · [Unterlagen](https://bieterportal.noncd.db.de/evergabe.bieter/api/supplier/external/deeplink/subproject/be574ed6-da50-4975-ae44-cc1612538ee8)
+- **Messdienstleistungen für die Kanalnetz-Messkampagne 2027 und 2028 bzw. 2029 im Stadtgebiet Kassel** – Magistrat der Stadt Kassel · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/3/tenderId/156285)
+- **TNW_HLS_KJF der Diözese Regensburg e.V._Ersatzneubau HPZ Rottal-Inn in Eggenfelden** – Katholische Jugendfürsorge der Diözese Regensburg e. V. · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHYMPE9/documents)
+- **Freianlagenplanung / Ingenieurbauwerke - Sanierung der Eissporthalle Rostock** – Eigenbetrieb Kommunale Objektbewirtschaftung und -entwicklung der Hans · Frist s. Unterlagen · [Unterlagen](https://www.subreport-elvis.de/E79491717)
+- **2026-01 VGV Architektur Bürgerzentrum** – Markt Randersacker · Frist s. Unterlagen · [Unterlagen](https://www.staatsanzeiger-eservices.de/aJs/EFormsBekVuUrl?z_param=330392)
+- **BG Klinik Tübingen, Sanierung Brandschutz, Generalplaner** – BG Kliniken Ludwigshafen und Tübingen gGmbH · Frist s. Unterlagen · [Unterlagen](https://www.dtvp.de/Satellite/notice/CXP4YHHMWC1/documents)
+- **Objekt- und Tragwerksplanung des Ersatzneubaus - Brücke über die Zeppelinstraße** – Stadt Würzburg · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/304711)
+- **Fachplanung Technische Ausruestung BT** – Staatliches Bauamt Augsburg · Frist s. Unterlagen · [Unterlagen](https://www.meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/1/tenderId/302140)
+- **Planungs-, Beratungs- und Koordinationsleistungen sowie Bauleitung zur Sanierung des Rathauses Unterföhring für die Obje** – Gemeinde Unterföhring · Frist s. Unterlagen · [Unterlagen](https://plattform.aumass.de/Veroeffentlichung/av286bb0-eu)
+- **HWSB Elbdeich rechts MD-Cracau km 40,4 - 42,1
+Örtliche Bauüberwachung** – Landesbetrieb für Hochwasserschutz und Wasserwirtschaft Sachsen-Anhalt · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=899543)
+- **HWSB Elbdeich rechts MD-Cracau km 40,4 - 42,1
+icherheits- und Gesundheitsschutzkoordination (SiGeKo)** – Landesbetrieb für Hochwasserschutz und Wasserwirtschaft Sachsen-Anhalt · Frist s. Unterlagen · [Unterlagen](https://www.evergabe-online.de/tenderdocuments.html?id=899556)
+- **Neubau eines Geh- und Radweg zwischen  Holthof und Grimmen an der NVP 12 - Ingenieurleistungen Verkehrswegebau** – Gemeinde Splietsdorf über Amt Franzburg-Richtenberg · Frist s. Unterlagen · [Unterlagen](https://evergabe-mv.de/Satellite/notice/CXRBYDKY6AH)
+- **Planungsleistung Fortschreibung Nahverkehrsplan** – Landkreis Vorpommern-Greifswald - Der Landrat · Frist s. Unterlagen · [Unterlagen](https://evergabe-mv.de/Satellite/notice/CXVHYDBDY6GZNXPB)
+- **WWH - Karl-Ludwig-Str. 5 Hohen Neuendorf - Planung Heizungserneuerung** – Stadtverwaltung Hohen Neuendorf · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXW0YYDDYHDUDA92)
+- **Ing. AE_Starkregengefahrenkarten_Steglitz-Zehlendorf** – Berliner Wasserbetriebe · Frist s. Unterlagen · [Unterlagen](https://vergabekooperation.berlin/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a06b6fe844-2c990725fb589d2f&PublicationType=0)
+- **DFOS-Monitoring TB-Welkers A7 ASB5524535** – Die Autobahn GmbH des Bundes - NL Nordwest · Frist s. Unterlagen · [Unterlagen](https://vergabe.autobahn.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a07bdd2dc2-45c53da53e618e4b&PublicationType=0)
+- **Schalltechnisches Gutachten im Zusammenhang mit dem Bebauungsplanverfahren B-Plan Nr. 23 &quot;Alte Hölle&quot;** – Gemeinde Wiesenburg/Mark Der Bürgermeister · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YC3H3Z2)
+- **Ingenieurleistungen** – Stadt Frankfurt am Main, Amt für Straßenbau und Erschließung · Frist s. Unterlagen · [Unterlagen](http://www.vergabe.stadt-frankfurt.de/NetServer/PublicationControllerServlet?function=Detail&TWOID=54321-Tender-1a0c876ab03-1da87acc6561b0ff&PublicationType=0)
+- **Projektmanagement Gelege- und Kükenschutz 2027** – Landkreis Cloppenburg · Frist s. Unterlagen · [Unterlagen](https://www.deutsches-ausschreibungsblatt.de/VN/K-CLP-70-2026-0011)
+- **Probenahme und Analyse Kraft- und Brennstoffe 2027 im Land Brandenburg** – Landesamt für Ländliche Entwicklung, Landwirtschaft und Flurneuordnung · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YRNH3S1)
+- **Erbringen von Planungsleistung für einen grundhaften Straßenausbau** – Stadt Mittenwalde · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9Y04H3AJ)
+- **Planung und Vergabebegleitung einer Waagesoftware Wertstoffhöfe LK HVL** – Abfallbehandlungsgesellschaft Havelland mbH · Frist s. Unterlagen · [Unterlagen](https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YC0HX7F)
+- **Altlastenunters. Baumaßnahmen Bund und Land 2027** – Landesbetrieb Straßenbau NRW - Regionalniederlassung Sauerland-Hochsti · Frist s. Unterlagen · [Unterlagen](https://www.evergabe.nrw.de/VMPSatellite/notice/CXS7Y51DY61HSWNL)
+- **K26K146304 - Südharzmonitoring 2027-2030, optional 2031-2032** – LMBV mbH - Einkauf Kali- Spat-Erz, Am Petersenschacht 9, 99706 Sonders · Frist s. Unterlagen · [Unterlagen](einkauf.lmbv.de)
+
+## Zuschläge (Gewinner, Wert falls veröffentlicht)
+- Rader Hochbrücke, VKE A031, H1-Brückenprüfung A-Bauwerke und Verkehrszeichenbrücken – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → ZETCON Ingenieure GmbH
+- Kommunalunternehmen Stadtwerke Schrobenhausen
+Vergabe von Planungsleistungen zur Erweiterung der 
+Wä – Stadtwerke Schrobenhausen KU → ALTMANN Ingenieurbüro GmbH & Co. KG
+- Gesamtkonzeption und Teilneubau Betriebshof Goethestraße - Vergabeverfahren Objektplanung Verkehrsan – Stadt Gütersloh → PlusPlan Ingenieure GmbH · 137,649 €
+- Ingenieurleistungen – Stadt Frankfurt am Main, Amt für Straßenbau und Er → k. A.
+- ISEK Planungsleistungen – Stadt Tönisvorst → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- 26DE Objektplanung Gebaeude – Staatliches Bauamt Bayreuth → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Projektsteuerungsleistung - Planmanagement ESTW Bonn-Bad Godesberg – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → THOST Projektmanagement GmbH
+- BIM (Manager und Gesamtkoordinator) zu Flehe Lph 3-4 – Die Autobahn GmbH des Bundes - NL Rheinland → Konstruktionsgruppe Bauen AG
+- Gesamtsanierung BG Klinikum Duisburg - Fachplanung Technische Ausstattung ELT – BG Klinikum Duisburg gGmbH → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 1,773,249 €
+- Neubau 20 Wohnungen in Modulbauweise,, Leistungen der Technischen Ausrüstung gem. §§ 53 ff. HOAI, An – Magistrat der Stadt Bad Vilbel → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Ingenieur- und Fachplanerleistungen für elektrotechnische Anlagen – Ökumenisches Hainich Klinikum gGmbH Mühlhausen → INP Ingenieure GmbH
+- Planungsleistung Bauhof - Technische Gebäude Ausstattung – Stadt Schleiden → OTTAWA Ingenieure GmbH
+- Bauüberwachung: ABS Lübeck Schwerin BÜW Strecke 1122 km 32,2 - 2,2 – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → k. A.
+- Gesamtsanierung BG Klinikum Duisburg - Projektsteuerung – BG Klinikum Duisburg gGmbH → Stein und Partner Projektmanagement GmbH · 1,850,161 €
+- 26DE Objektplanung Strecke Brueckenbau – Staatliches Bauamt Bayreuth → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Rahmenvertrag Breitbandnetzausbau – Kolpingstadt Kerpen → Theis Consult GmbH
+- FFW Dudweiler - Neubau Feuerwehrgerätehaus - Artenschutzgutachten – Gebäudemanagementbetrieb der Landeshauptstadt Saar → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Planung der EMSR-Technik – Magistrat der Stadt Kassel → HOLINGER Ingenieure GmbH
+- Neubau Stadtteilzentrum Nordend  – Vergabestelle der Stadt Fulda → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- 10016508-Appui à la transition énergétique au Sénégal (PED III) – Deutsche Gesellschaft für Internationale Zusammena → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 2,044,527 €
+- Leistungen der Tragwerksplanung, Bad Vilbel, Neubau 20 Wohnungen in Modulbauweise – Magistrat der Stadt Bad Vilbel → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Bert-Brecht-Haus, Fassadensanierung - Objektplanung stufenweise LP 2-3, 4-5, 6-8 – SBO Servicebetriebe Oberhausen - Eigenbetrieb der  → Dr. Schramm Michael GmbH · 392,126 €
+- Monitoring Lausitzer Neiße - Polnische Seite – Lausitzer und Mitteldeutsche Bergbau-Verwaltungsge → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Gesamtsanierung BG Klinikum Duisburg - Fachplanung Technische Ausstattung HLSK – BG Klinikum Duisburg gGmbH → IBH-Ingenieurgesellschaft · 3,276,425 €
+- 10019362-Appui à l'adaptation de la chaîne d'approvisionnement de cacao en Côte d'Ivoire aux défis d – Deutsche Gesellschaft für Internationale Zusammena → GFA Consulting Group GmbH · 448,612 €
+- OGS-Erweiterung Viktoriaschule - Architektenleistung – Zentrale Gebäudebewirtschaftung Lünen → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Leistungen der Technischen Ausrüstung, Anl.-Gr. 4+5, Bad Vilbel, Neubau 20 Wohnungen in Modulbauweis – Magistrat der Stadt Bad Vilbel → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Fachplanungsleistungen für die Technische Ausrüstung ELT für die Errichtung einer Photovoltaikanlage – Landratsamt Bodenseekreis → Conplaning GmbH
+- Sicherheitskoordination 1. BA TIII – Kreis Steinburg → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Verhandlungsverfahren ohne Teilnahmewettbewerb zur Vergabe von Planungsleistungen für die Medienauss – Bundesanstalt für Immobilienaufgaben → Arcers GmbH architects + engineers
+- Neubau Kindertagesstätte in Markt Grafengehaig - Objektplanung Gebäude gem. § 33 HOAI, LPh 1 - 9 – Verwaltungsgemeinschaft Marktleugast → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Zweckverband Regional-Stadtbahn Neckar-Alb Projektgesellschaft mbH - Vergabe von Leistungen zur Erst – Regional-Stadtbahn Neckar-Alb Projektgesellschaft  → VWI Stuttgart GmbH
+- HMWEVL, FBT BA 9-11 + Sprinkler , HKLS ALG 1-3 und 7-8  – Land Hessen, vertreten durch den Landesbetrieb Bau → Petschow & Thiel GmbH
+- FiDT Technologie- und Gründerzentrum Kassel, Sanierung und Aufstockung Gebäude 8 - Leistungen der Ge – FiDT Fördergesellschaft für innovative Dienstleist → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Gymnasium Stein – Mehrfachsporthalle; Planungsleistungen Freianlagen nach §§ 38 ff. HOAI in Verbindu – Landkreis Fürth → k. A.
+- PlngsLstg Heizung Stadthalle HOL – Landkreis Holzminden für die Stadt Holzminden → EBE Engineering and Consulting GmbH & Co. KG · 414,041 €
+- Ertüchtigung der Eingangsbereiche - Haufwerksbeprobungen und Kontrollprüfungen – Land Berlin, vertreten durch das Bezirksamt Trepto → GEOTOP GbR Grube + Grote
+- Starkregenkonzept für 6 Kommunen im LK-Holzminden – Landkreis Holzminden für 6 Kommunen im LK-Holzmind → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 379,324 €
+- LWL - Klinik Marsberg; Neubau Kinder- Jugend-Psychiatrie; DGNB; 26-082 TV – LWL - Bau- und Liegenschaftsbetrieb (LWL-BLB) → Hitzler Ingenieure GmbH & Co. KG · 134,900 €
+- 159 - Planung Umsetzung PME-Polyole – RWTH Aachen University → k. A.
+- BV &quot;Erneuerung Mecklenburgstraße&quot;: hier Beauftragung Sicherheitskoordinator für die Landes – Landeshauptstadt Schwerin → k. A.
+- Rysumer Nacken, Emden / Gastvogelkartierung (eP) – Stadt Emden → k. A.
+- 252619_TGA-Planer – Landesbetrieb Bau und Immobilien Hessen, Niederlas → k. A.
+- ÜSTRA Kundenzentrum - Planungsleistungen ARC-Objektplaner – ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellsc → GUDER HOFFEND Architekten GbR · 590,402 €
+- ASG/05/272 Ingenieurleistungen 01/2027-12/2029 zzgl. Option bis 12/2030 – HIM GmbH, Bereich Altlastensanierung - HIM-ASG - → HYDRODATA GmbH
+- Sanierung und Erweiterung Gasthof „Zum Goldenen Kreuz“ in Röthlein, OT Heidenfeld ● Objektplanung Ge – Gemeinde Röthlein → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- A11, km 19,43-41,85, Aufschluß-, Laborarbeiten und Baugrundgutachten für BW16, 20, 21, 21a – Die Autobahn GmbH des Bundes - NL Nordost → GICON Resources GmbH
+- TGA Planung für die denkmalgerechte Sanierung – Land Berlin, vertreten durch das Bezirksamt Trepto → Brendel Ingenieure GmbH
+- BImA - Generalzolldirektion (GZD) Dresden, Neubau Dienstgebäude – Staatsbetrieb Sächsisches Immobilien- und Baumanag → ZBP Zimmermann und Becker GmbH
+- Sanierung Hochwasserentlastungsanlagen und Dammbauwerke – Wupperverband → k. A.
+- Holsteiner Straße 2a - Freianlagenplanung – Stadt Nürnberg - Servicebetrieb Öffentlicher Raum → kübertlandschaftsarchitektur PartG mbB
+- Sanierung und Erweiterung des 3.+ 4. BA an der Klinik Eichstätt   – Leistungen der Tragwerksplanung  – Kliniken im Naturpark Altmühltal AdöR  → Leonhardt, Andrä und Partner Beratende Ingenieure VBI AG
+- Objektplanung Ingenieurbauwerke und Fachplanung Tragwerksplanung, Örtliche Bauüberwachung und Verkeh – Landeshauptstadt München, Baureferat → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Sicherheitsüberprüfung ortsveränderlicher elektr. Geräte (RIM Düsseldorf) – Bundesagentur für Arbeit (BA), vertreten durch den → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Sanierung und Erweiterung des 3.+ 4. BA an der Klinik Eichstätt   – Leistungen der Technischen Ausrü – Kliniken im Naturpark Altmühltal AdöR  → MTM-Plan GmbH
+- Richtsberg Gesamtschule Marburg | Neustrukturierung Untergeschoss nach Entkernung – Magistrat der Universitätsstadt Marburg → ArchitekteBSH, J. Schander - C. Schander - GbR · 150,644 €
+- BÜW Oberbau für GE Gablingen – Meitingen,  km 11,774 - 19,917 inkl. Leitende Bauüberwachung – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → ZETCON Ingenieure GmbH
+- A6 Ost, 6-streifige Ausbau, AS Öhringen-AS Kupferzell (A6-3), erg. faunistische Kartierungen – Die Autobahn GmbH des Bundes - NL Südwest → DB Engineering & Consulting GmbH
+- Landschaftsplanerische Fachbeitraege – Staatliches Bauamt Traunstein → Dr. Schober GmbH
+- Richtsberg Gesamtschule Marburg | Neustrukturierung Untergeschoss nach Entkernung – Magistrat der Universitätsstadt Marburg → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 75,009 €
+- Airborne Laserscanning 2026 – Bezirksregierung Köln → Einzelbieter (Name aus Datenschutzgründen ausgeblendet), MILAN Geoservice GmbH, Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 585,907 €
+- Architektenleistungen der LPH 1-9, in 4 Stufen zu vergeben – Landratsamt Miesbach - Vergabestelle- → H+Architektur GmbH
+- Fortschreibung des Landschaftsrahmenplans der Stadt Hameln – Stadt Hameln - Abt. 51 "Umwelt" - → Planungsgruppe Umwelt GbR
+- A 2, Richtungsfahrbahn Hannover, km 68+877 bis 79+462 - grundhafte Erneuerung, Los: öBÜ/BOL, Lph. 8  – Die Autobahn GmbH des Bundes - NL Ost → QBIC Ingenieure GmbH
+- Gesamtprojektleitung Bauvorhaben ZRE – Stadtreinigung Hamburg AöR → Ludwig Heuse GmbH interim-management.de
+- Neubau Faulungsanlage KA Müllekoven - Los 03 Tragwerksplanung – Abwasserbetrieb Troisdorf, AöR → k. A.
+- Sanierung und Erweiterung des 3.+ 4. BA an der Klinik Eichstätt   – Leistungen der Objektplanung Geb – Kliniken im Naturpark Altmühltal AdöR  → Bietergemeinschaft 
+Eckl Architektur + Klinikplanung PartmbB / Wenzel Architekten + beratender Ingenieur Part mbB
+- B236 Nachrodt, Brückenneubau Umweltbaubegleitung – Landesbetrieb Straßenbau NRW - Regionalniederlassu → ZETCON Ingenieure GmbH · 175,419 €
+- Planungsbegleitende Vermessung für grundhafte Erneuerung – Die Autobahn GmbH des Bundes - NL Nordwest → GIS-Gruppe-Nord GmbH
+- ELT -Planungsleistungen – Landratsamt Miesbach -Vergabestelle - → EtroPlan GmbH
+- Labordienstleistungen in der Abwasserbeseitigung – Abwasserbetrieb TEO AöR → AGROLAB Labor GmbH · 124,124 €
+- Gesamtsanierung BG Klinikum Duisburg - Bauphysik – BG Klinikum Duisburg gGmbH → Krämer-Evers Bauphysik GmbH & Co. KG · 145,852 €
+- Fachplanung Technische Ausrüstung ELT, Teilprojekt 5 Erneuerung der Gebäudeleittechnik und Modernisi – Deutsches Rotes Kreuz Schwesternschaft Berlin Geme → k. A.
+- Neubau einer Fahrzeughalle und einer Geräte- und Lagerhalle – Landkreis Bamberg → k. A.
+- Neubau A 20, 1. Abschnitt (A 28 bei Westerstede bis zur A 29 bei Jaderberg): 3022: BOL_ÖBÜ_SiGeKo 5  – Die Autobahn GmbH des Bundes - NL Nordwest → LEUCHTMANN Ingenieurgesellschaft mbH
+- Objektplanung Gebäude und Innenräume § 33ff HOAI 2021, Lph 1-9 mit Objektplanung Freianlagen § 38ff  – Stadt Weißenburg → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Fachplanung Tragwerksplanung gemäß § 49 ff. HOAI 2021, Leistungsphasen 1 – 6 und Ingenieurtechnische – Stadt Weißenburg → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Planung Poststraße Los 1 Verkehrsanlage u. Los 2 Ingenieurbauwerke – Stadt Eberswalde → ibe Ingenieurbüro für Bauplanung GmbH Eberswalde, ibe Ingenieurbüro für Bauplanung GmbH Eberswalde
+- Straßenbahn-Neubaustrecke „Neues Uniklinikum Würzburg“ - Ökologische Baubegleitung – Würzburger Straßenbahn GmbH  → arc.grün | landschaftsarchitekten.stadtplaner gmbh
+- HLS-Planungsleistungen der LPH 1-3, 5-9, in 4 Stufen zu vergeben
+ – Landratsamt Miesbach - Vergabestelle- → Ingenieurbüro PFG Mayer GmbH
+- K54 DB-Brücke Buchholz - Ökologische Baubegleitung – Landkreis Harburg - Zentrale Vergabestelle → Daber und Kriege Halle GmbH · 72,093 €
+- Sanierung und Erweiterung des 3.+ 4. BA an der Klinik Eichstätt   –  Leistungen der Technischen Ausr – Kliniken im Naturpark Altmühltal AdöR  → FC-LifeScience GmbH
+- Planungsleistungen Neubau des Aviation Innovation Centers (AIC) - Los 3 – Technische Ausrüstung – Aachener Kreuz Merzbrück GmbH & Co. KG → Carpus+Partner AG
+- Fachplanung Technische Ausrüstung gemäß §53 ff. HOAI 2021, Anlagengruppen 1, 2, 3 und 8 der Leistung – Stadt Weißenburg → Ingenieurgesellschaft Frey-Donabauer-Wich mbH
+- Fachplanung Technische Ausrüstung gemäß §53 ff. HOAI 2021, Anlagengruppen 4, 5 und 6 der Leistungsph – Stadt Weißenburg → Ingenieurgesellschaft Frey-Donabauer-Wich mbH
+- Schulzentrum Galgenberg BA 2 - 3, Freiraumplanung – Stadtverwaltung Aalen- Grünflächenamt - → Dreigrün Gross + Partner Landschaftsarchitekten mbB
+- Sanierung und Erweiterung des 3.+ 4. BA an der Klinik Eichstätt   –  Leistungen der Technischen Ausr – Kliniken im Naturpark Altmühltal AdöR  → Hubert + Freihart Ingenieure GmbH
+- Planungsleistungen für die Entwicklung eines Neubaugebiets "Auf"m Gleichen" in der Ortsgemeinde Stra – Verbandsgemeindewerke Rengsdorf-Waldbreitbach → FISCHER TEAMPLAN Ingenieurbüro GmbH
+- Bundespolizeiabteilung Blumberg - Neubau Geb. 16N_Fachplanung Tragwerksplanung gem. § 49 HOAI – Brandenburgischer Landesbetrieb für Liegenschaften → ICL Ingenieur Consult GmbH
+- Gesamtsanierung BG Klinikum Duisburg - Objektplanung Gebäude – BG Klinikum Duisburg gGmbH → PL Architekten GmbH · 3,540,499 €
+- Gesamtsanierung BG Klinikum Duisburg - Tragwerksplanung – BG Klinikum Duisburg gGmbH → Schüßler-Plan Ingenieurgesellschaft mbH · 461,996 €
+- Bausubstanzuntersuchungen Kollektoren – Medizinische Universität Lausitz - Carl Thiem KdöR → k. A.
+- 2026_AM_96001_Bredowstr. 4_Heizungserneuerung Halle A+C_Planung TGA – Sprinkenhof GmbH → k. A.
+- Prüfung ortsfeste elektrische Anlagen – Universität Stuttgart → k. A.
+- Entwicklung eines Raumkonzeptes inkl Beteiligungsveranstaltungen zur Modernisierung des Stadtteilhau – Stadt Mönchengladbach → k. A.
+- 2026-018924-21370-IngV_K 45 - Instandsetzung UF DB bei Rhina / Leistungen Bauüberwacher Bahn – Hessen Mobil Fulda → k. A.
+- Nachtragsmanagement für Infrastrukturmaßnahmen der DB AG Paket 8 – DB Global Business Services (Bukr 1S) → k. A.
+- Nachtragsmanagement für Infrastrukturmaßnahmen der DB AG Paket 7 – DB Global Business Services (Bukr 1S) → k. A.
+- Nachtragsmanagement für Infrastrukturmaßnahmen der DB AG Paket 6 – DB Global Business Services (Bukr 1S) → k. A.
+- Nachtragsmanagement für Infrastrukturmaßnahmen der DB AG Paket 5 – DB Global Business Services (Bukr 1S) → k. A.
+- Nachtragsmanagement für Infrastrukturmaßnahmen der DB AG Paket 4 – DB Global Business Services (Bukr 1S) → k. A.
+- 0185be_Einsatzdatenerfassung im Straßenbetriebsdienst - Nordhessen_Fachliche Begleitung des Vergabev – Hessen Mobil Zentrale → k. A.
+- BLB NRW BB, BI, GFMRK, BU 2026, Sanierung Geb. 207 - ELT – Bau- und Liegenschaftbetrieb NRW Bundesbau → k. A.
+- Ingenieurleistungen nach Teil 4 Abschnitt 2 HOAI – Staatl. Hochbauamt Heidelberg → Halter Ingenieurbüro für Gebäudetechnik GmbH
+- Anschluss der Clemens-Brentano-Europa-Schule an ein bestehendes oder neu zu errichtendes Fernwärmene – Landkreis Gießen - Der Kreisausschuss - → Stadtwerke Gießen AG
+- Gelände- und Sensorpflege an der Wetterstation Schwerin und der Winterdienst am Radar-Standort Türkh – Deutscher Wetterdienst → Einzelbieter (Name aus Datenschutzgründen ausgeblendet), Green and Clean Service GmbH
+- HWGK-F GF 15550 Oberer Neckar – Landesbetrieb Gewässer beim Regierungspräsidium St → Lindschulte Ingenieurgesellschaft mbH Baden-Baden · 749,850 €
+- Ingenieurleistungen nach Teil 4 Abschnitt 2 HOAI (Technische Ausrüstung) – Vermögen und Bau Baden-Württemberg, Amt Ludwigsbur → Zeeb + Frisch GmbH
+- 7141, Geotechnische Fachbauüberwachung Vorgriff – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → IGB Ingenieurgesellschaft mbH
+- Ermittlung von Entschädigung für Außen- und Innenwohnbereich für baubedingte Schallimmissionen – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Stadt Babenhausen-Durchgängigkeitsmaßnahmen an der Gersprenz Bereich: StadtmühleBabenhausen – Magistrat der Stadt Babenhausen, Fachbereich IV –  → Weber Ingenieure GmbH
+- Planungsleistung Technische Ausrüstung - Elektroplanung für die Sanierung des denkmalgeschützten Goe – Freies Deutsches Hochstift / Frankfurter Goethe-Mu → Elektroplanung Will GmbH
+- Bodengutachten mehrerer Bauwerke – Landesbetrieb Straßenbau NRW - Regionalniederlassu → DB Engineering & Consulting GmbH - Region West · 322,213 €
+- LPI Suhl, Neubau Wärmeversorgung 2025 IEE 0005, Fachplanung TA – Thüringer Landesamt für Bau und Verkehr (TLBV) → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Fachplanung Technische Gebäudeausrüstung – Klinikum Dahme-Spreewald GmbH → Genius Ingenieurbüro IT GmbH · 2,069,648 €
+- PL Paul-Dohrmann-Schule Neugestaltung Schulhof – Stadt Bochum, Referat Zentrale Vergabestelle → Planungsbüro DTP Landschaftsarchitekten GmbH
+- Neubau einer 4-zügigen Grundschule am Standort Weidenbaumsweg  in Hamburg - Objektplanung gem. § 33  – SBH | Schulbau Hamburg → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 1,102,460 €
+- Umweltbaubegleitung  – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → GICON Ecosystems GmbH
+- Rahmenvereinbarung Vermessungsleistungen – Stadt Altena (Westf.) → Bertels Ingenieure GmbH
+- Generalplanung "Innovationszentrum" – TPG TechnologieParkPaderborn GmbH → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Ingenieurvertrag Tragwerksplanung SM Rohrbach – Landesbetrieb für Straßenbau → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Planungsleistungen Brandschutzmaßnahmen U35 Bf. Waldring – Stadt Bochum, Referat Zentrale Vergabestelle → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 83,453 €
+- Förderschule Homberg, Erweiterungsbau – Kreisausschuss des Schwalm-Eder-Kreises → k. A.
+- Hallenneubau Kläranlage - Planungsbegleitung und Bauüberwachung – Stadtverwaltung Worms, Abt. 6.4 Zentrale Ausschrei → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- A11, km 19,43-41,85 - Baugrund BW 9, 10, 11, 12 – Die Autobahn GmbH des Bundes - NL Nordost → k. A.
+- Änderung vom Mischsystem zum Trennsystem in Bad Kösen/ Neustadt – Abwasserzweckverband Naumburg → Ingenieurbüro Klemm & Hensen GmbH
+- Planungsleistungen Technische Ausrüstung (ELT) für Sanierung und energetische Ertüchtigung der Sport – Gemeinde Reiskirchen → Planungsteam Bock & Partner GmbH
+- Gutachter- und Ingenieurleistungen Baureifmachung Glasmacherviertel – Landeshauptstadt Düsseldorf, Der Oberbürgermeister → HPC AG - NL Duisburg
+- Objektplanung Albert-Schweitzer-Gymnasium (Energetische Sanierung) – Stadt Hürth → Beyss Architekten GmbH
+- Rahmenvertrag Bauphysik – Bundesamt für Auswärtige Angelegenheiten → Müller-BBM Building Solutions GmbH, Einzelbieter (Name aus Datenschutzgründen ausgeblendet), Ingenieurbüro Alkofer - beraten und planen GmbH
+-  PW Tönisheide - Planung eines Abwasserpumpwerks mit Druckleitung und Freispiegelkanal – Bergisch-Rheinischer Wasserverband → ATD GmbH
+- Neubau einer 3-fach Sporthalle inklusive Kita, Abriss der Bestandshalle am Herler Ring 2, 51067 Köln – Amt für Recht, Vergabe und Versicherungen → k. A.
+- Arheilger Straße - Straßenbahnabstellanlage, Verkehrsanlagenplanung Lph 1-7 – HEAG mobilo GmbH → Mailänder Consult GmbH
+- Vermessungsleistungen auf der Blocklanddeponie – Die Bremer Stadtreinigung AöR → Kirchner Infrastrukturplanung GmbH
+- Architektonische Neugestaltung des NS-Dokumentationszentrums Köln (Umbau + Innenräume + Treppenhaus) – Amt für Recht, Vergabe und Versicherungen → Wandel Lorch Götze Wach GmbH
+- Neubau einer 3-fach Sporthalle inkl. Kita, Abriss Bestandhalle am Herler Ring 2, 51067 Köln  – Amt für Recht, Vergabe und Versicherungen → k. A.
+- Planungsleistungen Elektro – Gemeinde Steinmauern → Elektroplanung Will GmbH
+- Fachplanung Versorgungsküche Mensa – Landratsamt Fürstenfeldbruck - Kreiseigener Hochba → k. A.
+- Folgeauftrag juristische Beratung Energiebeschaffung – Fraunhofer-Gesellschaft - Einkauf B12 → k. A.
+- Entwässerungskonzept Südlich Oberlöricker Straße in Düsseldorf – Landeshauptstadt Düsseldorf, Der Oberbürgermeister → k. A.
+- 70-00301-3180-I1 Geotechnik – Fraunhofer-Gesellschaft zur Förderung der angewand → k. A.
+- ZFW_0027_Naturbasierter_Klimaschutz – Hochschule Weihenstephan-Triesdorf → k. A.
+- Neugestaltung Pikopark in der Werdervorstadt in Schwerin für den SDS - Stadtwirtschaftliche Dienstle – SDS - Stadtwirtschaftliche Dienstleistungen Schwer → k. A.
+- Planungsleistungen Neubau des Aviation Innovation Centers (AIC) - Los 2 – Tragwerksplanung – Aachener Kreuz Merzbrück GmbH & Co. KG → CSZ Ingenieurconsult Gmbh & Co. KG
+- Planungsleistungen Neubau des Aviation Innovation Centers (AIC) - Objektplanung Los 1 – Aachener Kreuz Merzbrück GmbH & Co. KG → Krause Kempen Ingenieure GmbH
+- Neubau einer überdachten Busabstellung mit Lademöglichkeit für die OK.go MobilitätsAG am  Standort E – OK.go MobilitätsAG → k. A.
+- 2026-53_B248_Grabow_Lüchow_Saaße_OP_VA_planungsbegl_Vermessung_ex-post – Niedersächsische Landesbehörde für Straßenbau und  → Plan N GmbH · 423,191 €
+- Bauüberwachung, ESTW-A Wernberg, Strecke 5860, Bf Wernberg – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → DB Engineering & Consulting GmbH
+- Ersterschließungsmaßnahme Heiterblick-Süd - Verkehrsanlagenplanung + Medienplanung – LESG Gesellschaft der Stadt Leipzig zur Erschließu → k. A.
+- BvA_ELT_KJF der Diözese Regensburg e.V._Schulbaumaßnahme Umbau, Neubau und Erweiterung, Sanierung, M – Katholische Jugendfürsorge der Diözese Regensburg  → sbi schicho ingenieure GmbH & Co. KG
+- Planungsleistungen Verkehrsanlagen und Freianlagen für die barrierefreie Umgestaltung des Bahnhofsum – Wallfahrtsstadt Werl → Hellweg-Ingenieure GmbH
+- BLB NRW Köln / Neuentwicklung Viktoriabad/VIKA Universität Bonn, Gebäudeautomation – Bau- und Liegenschaftsbetrieb NRW Köln → SOCOTEC Building Solutions GmbH · 487,389 €
+- Umbaumaßnahmen für eine Stadtteilschule am Standort Julius-Ludowieg-Str. in Hamburg - Projektsteueru – GMH | Gebäudemanagement Hamburg GmbH → XPM Immobilienprojektmanagement GmbH · 437,431 €
+- Planungsleistung Technische Ausrüstung / Starkstromanlagen, Fernmelde- und informationstechnische An – Stadt Hoyerswerda → Steinigeweg Planungs GmbH & Co. KG
+- Planungsleistungen im Leistungsbild Objektplanung, Gebäude und Innenräume der Leistungsphasen 3-8 fü – Gemeinde Reiskirchen → Kreativ-Architekten Golkaramnay&Horstmann PartG mbB
+- Sanierung, Umbau und Erweiterung Grundschule  Schelmengraben, Wiesbaden; Objektplanung Freianlagen / – Landeshauptstadt Wiesbaden - Der Magistrat - Hochb → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Potentialanalyse Grünflächen  für die Landeshauptstadt Wiesbaden; Konzeptionelle, inhaltliche und fa – Landeshauptstadt Wiesbaden, Der Magistrat, Grünflä → Freiraum für alle GmbH
+- Bauüberwachung Fehmarnbeltquerung (FBQ) PFA 4, PFA 5.1 & PFA 5.2 - Los 1 - 8 – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → ZETCON Ingenieure GmbH, MapTerra GmbH, Krämer-Evers Bauphysik GmbH & Co. K
+- Studierendenwerk Rostock-Wismar: Gebäudeplanung mit Fachplanung einer Großküche und Brandschutzplanu – Studierendenwerk Rostock-Wismar → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Projektsteuerungsleistung Generalsanierung Hagen-Hamm – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → JKM consult GmbH
+- Zubau einer Zweifeldhalle am Standort Heidacker 13 in Hamburg 
+- Projektsteuerungsleistungen in Anle – SBH | Schulbau Hamburg → tandem.pm GbR · 155,713 €
+- Ersatzneubau Sportheim in Börßum - Planungsleistung Technische Gebäudeausrüstung – Landkreis Wolfenbüttel für die Samtgemeinde Oderwa → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Zentrale Bauüberwachungs-Leistungen Invest-Container C-05, Strecke 4120, Programm Bauen im Takt – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Umbau der Schule am Lämmermarkt für die HAW Hamburg, Wallstraße 2 in Hamburg
+- Objektplanung gem. §§ – GMH | Gebäudemanagement Hamburg GmbH → abj Architekten:innen GmbH · 922,160 €
+- GeoHardt - Bohrplanung Tiefe Geothermie – GeoHardt GmbH → BESTEC GmbH
+- Generalplanerleistungen - 715400005 Bauverwaltungsleistungen  -ID26118Ge – Senatsverwaltung für Stadtentwicklung, Bauen und W → Drees & Sommer SE
+- Arbeitssicherheitstechnische Betreuung und Consultingleistungen und Beratungen im Rahmen von Bau- un – Technische Universität Darmstadt → medical airport service GmbH · 225,036 €
+- Städtebauliche Maßnahmen in der Gemeinde Wankendorf_Sanierungsträger – Gemeinde Wankendorf → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Jahnstadion (energetische Sanierung Eingangsgebäude), Objektplanung Ingenieurbauwerke – Stadt Hamm, Immobilienmanagement → k. A.
+- BPol Blumberg – Brandenburgischer Landesbetrieb für Liegenschaften → k. A.
+- Ingenieurleistungen Lph 1-4: Ökologische Umgestaltung der Ems - Greven, Guntruper Berge – Bezirksregierung Münster → k. A.
+- BPol – Brandenburgischer Landesbetrieb für Liegenschaften → k. A.
+- Detailuntersuchung ehemaliger Baubetriebshof Paulinenstraße 16, Schorndorf – Stadtverwaltung Schorndorf - Fachbereich Wirtschaf → k. A.
+- ÜSTRA Kundenzentrum - Planungsleistungen Tragwerkplanung (§51 HOAI) – ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellsc → k. A.
+- Objektplanung – Der Gemeindevorstand des Gemeinde Münster → herzig I architekten und ingenieure gmbh
+- C38-A5/A66/A648 Westkreuz bis Nordwestkreuz Frankfurt C383 Nordwestkreuz Frankfurt u C382(teilweise) – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → TRIGIS GeoServices GmbH
+- Zweckverband Gewerbepark Hunsrück-Mosel - Planungsleistungen für die Erschließung des Gewerbegebiets – Zweckverband Gewerbepark Hunsrück-Mosel → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- BvA_HLS_KJF der Diözese Regensburg e.V._Schulbaumaßnahme Umbau, Neubau und Erweiterung, Sanierung, M – Katholische Jugendfürsorge der Diözese Regensburg  → IB SCHOLZ GmbH & Co.KG
+- Gesamtsanierung Oberwaldschule Grebenhain, 3. BA, Planungsleistungen nach HOAI 2021, Fachplanung Tec – Kreisausschuss des Vogelsbergkreises → elektroplan-schneider GmbH
+- Stadt Lahnstein - Machbarkeitsstudie für das Hallenbad Lahnstein – Stadt Lahnstein → Krieger Architekten | Ingenieure GmbH
+- Leistungen der Objektplanung – Gemeindevorstand der Gemeinde Otzberg → MOHA+ GmbH & Co. KG
+- Gesamtsanierung Oberwaldschule Grebenhain, 3. BA, Planungsleistungen nach HOAI 2021, Fachplanung Tec – Kreisausschuss des Vogelsbergkreises → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Stadt Bacharach - Sanierung der Stadtmauer Bacharach: Planungsleistungen für Ingenieurbauwerke sowie – Stadt Bacharach → Schenck und Ehl Ingenieurgesellschaft mbH
+- Geotechnische Fachbaubegleitung (GFBB) A143  – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- VGV_Fachlosübergreifende Planungsleistungen Objektplanung Teil 3, Abschn. 1+2  HOAI, TGA. Teil 4, Ab – Vermögen und Bau Baden-Württemberg, Amt Ulm → ERNST² ARCHITEKTEN AG
+- Durchführung einer hochauflösenden seismischen Akquisitionskampagne – Technische Universität Dresden, Dezernat Finanzen  → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Z.MART.A.000002.PJS.VgV.2920 – Max-Planck-Gesellschaft, GV, Stabsreferat EK → Hitzler Ingenieure GmbH & Co. KG
+- BLB NRW / NL DO / JZ Bochum (WE2757) / DO, M2100,  Aust LED + Betriebsoptimierung, Planungsleistunge – Bau- und Liegenschaftsbetrieb NRW Dortmund → Ingenieurbüro Krefft GmbH & Co. KG · 488,161 €
+- Reha TWL / San. MWL Zschochersche Straße Leipzig, LP 5+6, 8, ÖBÜ – Kommunale Wasserwerke Leipzig GmbH → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Ausschreibung von Generalplanungsleistungen für den Neubau eines Klimaparks mit Naturbad in der Stad – Stadt Brake (Unterweser) → Bietergemeinschaft: HAHN HERTLING VON HANTELMANN Landschaftsarchitekten GmbH, Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Erschließung Speicherstadt - Objektplanung Verkehrsanlagen und Ingenieurbauwerke (Straßenentwässerun – Freie und Hansestadt Hamburg, Landesbetrieb Immobi → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- B 13  Ausbau Gabel Friedrichshofen – Staatliches Bauamt Ingolstadt → Hyna + Weiß Bauingenieure GmbH
+- Erstellung von 21 Schulwegsicherungskonzepten inkl. Schulwegplänen in der Region Hannover – Region Hannover → PGV-Alrutz GbR, Planungsgemeinschaft Verkehr
+- Fachplanerleistungen Sanierung der Meister-Eckehart-Schule – Stadt Buchen (Odw.) → Schulz Ingenieure GmbH
+- Ortsmitte Wasbek – Gemeinde Wasbek → Einzelbieter (Name aus Datenschutzgründen ausgeblendet), Urban Thiesen Architekten GmbH
+- Hirschbergschule - Architekten- und Planungsleistungen – Stadt Villingen-Schwenningen - RefBM, Zentrale Ver → Planungsbüro Westhauser GmbH & Co KG, plus-energie GmbH, Isenmann Ingenieur GmbH
+- 26D Generalplanerleistung – Staatliches Bauamt Regensburg → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- VKE C241; A 44 VKE C241, Sontra Ost (m) bis Wommener Dreieck (m) - Umwelttechn. Gutachten Rückbau B4 – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → k. A.
+- Strategisches Baumanagement – Universitätsklinikum Essen Anstalt des öffentliche → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Technische Beratungsleistungen für ein europaweites ÖPP-Vergabeverfahren sowie zur Begleitung der Pl – PD - Berater der öffentlichen Hand GmbH → hpm Henkel Projektmanagement GmbH
+- Erweiterung des Historischen Museums der Pfalz, Speyer, Los 2 - Fachplanung für Technische Ausrüstun – Stiftung Historisches Museum der Pfalz → enerventis GmbH & Co. KG
+- Planungsleistungen Ersatzneubau Marienhaus Klinikum Hetzelstift Los 3 Heizung, Lüftung, Sanitär u.a. – Marienhaus Kliniken GmbH → Potthoff GmbH
+- Freianlagenplanung für Ersatzneubau Kindergarten Marktsteft – Stadt Marktsteft → arc.grün landschaftsarchitekten.stadtplaner GmbH
+- Entwicklung Areal Sietas - Entwicklungs- und Erschließungskonzept – Freie und Hansestadt Hamburg, Landesbetrieb Immobi → Fichtner Water & Transportation GmbH
+- Erweiterung des Historischen Museums der Pfalz, Speyer, Los 1: Fachplanung für Tragwerksplanung – Stiftung Historisches Museum der Pfalz → wh-p GmbH Beratende Ingenieure
+- Entwicklung Areal Sietas - Planung Baufeldfreimachung – Freie und Hansestadt Hamburg, Landesbetrieb Immobi → Bietergemeinschaft PMK Baufeldfreimachung Sietas Areal c/o Ingenieure Infrastruktur Gmbh & Co. KG
+- VKE 5564;Umfahrung Gotha -  Kartierung OU Gotha B7 Siebleben Kartierung: Avifauna, Haselmäuse, Flede – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → Emch+Berger GmbH Ingenieure und Planer Weimar
+- Neubau Betriebsdienstgebäude; Tragwerksplanung – Landeshauptstadt Kiel - Der Oberbürgermeister → Horn + Horn Ingenieure Part mbB
+- Brückenschlag für Hamburg - Projektkostencontrolling – Freie und Hansestadt Hamburg - Behörde für Verkehr → Drees & Sonmer SE
+- BIM-Planung Bahnsteigverlängerung Neubrandenburg IOH, Lst, OLA, EEA (50 Hz), Lph 1 bis 4, 5 bis 7 op – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe  → Rail Expert Consult GmbH, DB Engineering & Consulting GmbH, Werner & Balci GmbH
+- Anmietung Blasenschleier-Schallschutzsystem- QC 048 – Bundeswehr-Dienstleistungszentrum Kiel → Hydrotechnik Offshore GmbH
+- Erweiterung des Historischen Museums der Pfalz, Speyer, Los 3 - Fachplanung für Technische Ausrüstun – Stiftung Historisches Museum der Pfalz → enerventis GmbH & Co. KG
+- VgV Neubau Rathaus in Molbergen – Gemeinde Molbergen - Der Bürgermeister → NPC Naumann Petersen Conrad Architekten mbB
+- Projektsteuerungsleistungen Ersatzneubau Funktionsgebäude Linne-Kampfbahn – Hamburger Sport-Verein e.V. → KVL Bauconsult Hamburg GmbH
+- Ingenieurbauwerke und Objektplanung Verkehrsanlagen (LPH 1-9) – Gemeinde Wölfersheim → JHI Bauingenieure GmbH
+- Kanalumlegung Abtsdorfer Gasse, Neumarkt i.d.OPf. - Kanalplanung Lph 5-9 – Stadt Neumarkt i.d.OPf. → Steinbauer Consult Ingenieurbüro GbR
+- Ernst-Abbe-Gymnasium, Photovoltaikanlage: Planungsleistungen – Kommunale Immobilien Jena - Bereich Baumanagement → k. A.
+- Erstellung hydrogeologischer Gutachten – EWN Entsorgungswerk für Nuklearanlagen GmbH → k. A.
+- Düster Holz - Bodenuntersuchung – Verband der Teilnehmergemeinschaften Sulingen → k. A.
+- Qualifizierungsverfahren Fischbeker Reethen – IBA Hamburg GmbH → k. A.
+- Ausschreibung Leadagentur für Planung und Errichtung eines Messestandes auf der IHM 2027 in München. – Handwerkskammer für München und Oberbayern → k. A.
+- Integriertes Klimaschutzkonzept und Klimaschutzmanagement  für die Stadt Bützow und das Amt Bützow-L – Stadt Bützow → k. A.
+- 80801 - Schadstoffuntersuchung AZN – DRV Bund Einkaufsmanagement Bauleistungen → Arcadis Germany B.V. & Co. KG
+- Projektmanagementleistungen für eine Östliche Umfahrung Buchholz i. d. N. (Neubau einer Kreisstraße  – Landkreis Harburg - Zentrale Vergabestelle → SSF Ingenieure AG · 904,355 €
+- A40, E2, Externes Projektmanagement – Die Autobahn GmbH des Bundes - NL Rheinland → Drees & Sommer SE
+- Erweiterung und Umbau der Zentralen Notaufnahme zum Integrierten Notfallzentrum (INZ) Elisabeth Klin – Elisabeth Klinikum Schmalkalden GmbH → SGP3 - Dr. Scholz Gesamtplan GmbH
+- Erstellung eines Umweltverträglichkeitsprüfungs- Berichts (UVP- Bericht) – Stadt Oldenburg (Oldb) → FERCHAU GmbH · 74,520 €
+- Generalsanierung Volkspark Bamberg – Objektplanung Freianlagen – Stadt Bamberg / Zentrale Beschaffungs- und Vergabe → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Energetische Sanierung HDJ Tegelsbarg - Objektplanung – FHH Bezirksamt Wandsbek/ Interner Service - vertre → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Erweiterung und Umbau der Zentralen Notaufnahme zum Integrierten Notfallzentrum (INZ) Elisabeth Klin – Elisabeth Klinikum Schmalkalden GmbH → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Leistungen der Tragwerksplanung, Leistungsphasen 3 bis 6, für den Ersatzneubau und die Umstrukturier – Stadt Bad Wörishofen → Mathes Beratende Ingenieure GmbH · 225,295 €
+- Wiederaufbau Neutorturm in Arnstadt - Objektplanung – Stadt Arnstadt → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Wiederaufbau Neutorturm in Arnstadt - Tragwerksplanung – Stadt Arnstadt → Ingenieurbüro Dr. Krämer GmbH
+- Erweiterung Grundschule Minfeld - Planung Techn. Gebäudeausstattung Einarbeitung LP 3 und Erbringung – Verbandsgemeinde Kandel → THIELE³ ARCHITEKTEN UND INGENIEURE GmbH 
+Engesserstr. 4A 
+79108 Freiburg
+- Freianlagenplanung und Planung Ingenieurbauwerke gem. HOAI §§ 38 - 44, Neubau Bevölkerungsschutzzent – Kreis Plön, Der Landrat, Zentrale Vergabestelle → tBL Landschaftsarchitekten   ter Balk Laudan PartG mbB
+- Barrierefreier Ausbau Seefeld-Hechendorf: Generalplanung – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe  → Schüßler-Plan Ingenieurgesellschaft
+- Leistungen der Sicherheits- und Gesundheitskoordination (SiGeKo) für die Baumaßnahmen in Stadtgebiet – Stadt Bad Neuenahr-Ahrweiler → Kocks Consult GmbH
+- Leistungen der Sicherheits- und Gesundheitskoordination (SiGeKo) für die Baumaßnahmen in Stadtgebiet – Stadt Bad Neuenahr-Ahrweiler → Kocks Consult GmbH
+- Erweiterung und Umbau der Zentralen Notaufnahme zum Integrierten Notfallzentrum (INZ) Elisabeth Klin – Elisabeth Klinikum Schmalkalden GmbH → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Kläranlage Markkleeberg - Errichtung einer anaeroben Schlammstabilisierung mit Vorklärung und Klärga – Kommunale Wasserwerke Leipzig GmbH, Bereich Bescha → aqua consult Ingenieur GmbH
+- Oberleitserneuerung Iphofen-Rottendorf Strecke 5910 km62,1 bis km86,6 Bauüberwachungsleistungen – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → KMS IG AG, DB Engineering & Consulting GmbH
+- Bauüberwachung KIB/OB - Strecke 2013, km 2,61 Aufweitung EÜ Münster-Mauritz – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → KOMB Ingenieure GmbH
+- Leistungen der Sicherheits- und Gesundheitskoordination (SiGeKo) für die Baumaßnahmen in Stadtgebiet – Stadt Bad Neuenahr-Ahrweiler → Kocks Consult GmbH
+-  KW1 - Neuordnung Trinkwassernetz – Stadt Nürnberg - Stadtentwässerung und Umweltanaly → IB. Bianchi GmbH
+- Zentrum für regionale Erzeugnisse Lübbenau (Gurkenwelt) Objektplanung_Frei- und  Innenraum – Spreewelten GmbH → k. A.
+- Projektsteuerung – Staatliches Bauamt Erlangen-Nürnberg, Technische G → M + P Meixner + Partner GmbH
+- Tragwerksplanung für Generalsanierung und Teilersatzneubau Rhabanus-Maurus-Gymnasium St. Ottilien – Schulwerk der Diözese Augsburg (kirchliche Stiftun → Demuth + Schön Beratende Ingenieure PartG mbB
+- Tragwerksplanung zur Sanierung der Mehrzweckhalle in 54451 Irsch – Verbandsgemeinde Saarburg-Kell → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Umbau der Schule am Lämmermarkt für die HAW Hamburg, Wallstraße 2 in Hamburg - Projektsteuerung in A – GMH | Gebäudemanagement Hamburg GmbH → HPP Projektmanagement GmbH · 607,040 €
+- Neubau eines Feuerwehrgerätehauses in Trechtingshausen, Los 1 - Leistungen der Objektplanung Gebäude – Verbandsgemeinde Rhein-Nahe → DB Engineering & Consulting GmbH
+- Schlossberghalle Haagen, Sanierung 3. BA, Planungsleistungen – Stadt Lörrach, Recht/Baurecht/Vergabe → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Wandsbeker Wochenmarkt – Freie und Hansestadt Hamburg, Bezirksamt Wandsbek → ARGUS Stadt und Verkehr Partnerschaft mbB
+- 26-07_Zentrum_für_regionale_Erzeugnisse_Luebbenau_Objektplanung_Frei- und Innenraum – SPREEWELTEN GMBH → K2O Architekten GmbH
+- Sachverständigenleistung RLT und Löschanlagen 70-00251-2260-P – Fraunhofer-Gesellschaft zur Förderung der angewand → k. A.
+- Planungsleistungen Ablaufkanal PWK Herne-Röhlinghausen – Emschergenossenschaft → FISCHER TEAMPLAN Ingenieurbüro GmbH
+- Planung der Technischen Ausrüstung zur Sanierung der Mehrzweckhalle in 54451 Irsch – Verbandsgemeinde Saarburg-Kell → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Neubau eines Feuerwehrgerätehauses in Trechtingshausen, Los 2 - Planungsleistungen der Technischen A – Verbandsgemeinde Rhein-Nahe → DB Engineering & Consulting GmbH
+- Rechercheauftrag Innenstadthavel und Nebengewässer; Recherche, Erfassung und Auswertung von Bestands – Land Berlin, Senatsverwaltung für Mobilität, Verke → ARC-GREENLAB GmbH
+- Neubau Kita Fischteichweg, 30419 Hannover - Fachplanung der Technischen Gebäudeausrüstung – Landeshauptstadt Hannover - Fachbereich Gebäudeman → UBO-0003 ap elektroanlagen planung gmbh, Team Kaufmann GmbH, Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- WBI - Errichtung einer Wohnanlage bestehend aus 4 Mehrfamilienhäuser im Stadtteil Ober-Ingelheim - " – Wohnungsbaugesellschaft Ingelheim am Rhein GmbH → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- PTB - Neubau Elektrischer Explosionsschutz (Cremer Bau) - Projektsteuerung und BIM-Management – Bundesrepublik Deutschland vertreten durch das Sta → Hiventure GmbH · 1,911,046 €
+- Zubau eines Ersatz- und Erweiterungsgebäudes als Individualbau für die spezielle Sonderschule „Schul – GMH | Gebäudemanagement Hamburg GmbH → KVL Bauconsult Hamburg GmbH · 391,196 €
+- Erschließung Gewerbegebiet Massenheimer Weg - Planungsleistungen Leistungsphasen 1-9 gemäß HOAI – Stadt Bad Homburg v. d. Höhe - Der Magistrat, Fach → Dipl.-Ing. Scheuermann u. Martin GmbH, Ingenieurbüro Fokus Versorgung GmbH
+- Neubau Klassenhaus mit 1-Feldsporthalle zum Ausbau zur 3-Zügigkeit einer Stadtteilschule am Standort – SBH | Schulbau Hamburg → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 514,708 €
+- 10011800-General Planner Services for an Infectious Diseases/Isolation Unit at Ola During Children"s – Deutsche Gesellschaft für Internationale Zusammena → management4health AG
+- Neugestaltung der Freianlagen nach Neubau von Unterrichts- sowie Mensa- und Kitaflächen an einer Gru – SBH | Schulbau Hamburg → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 180,006 €
+- Vergabe Ingenieurleistungen Bahnhofsumfeld Eschborn – Magistrat der Stadt Eschborn → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Ersatzneubau Brücke "Golzower Weg" in Chorin - Planungsleistungen – Gemeinde Chorin über Amt Britz-Chorin → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- BÜW + SiGeKo Paket 302279 GA und WE im Bf. Gremberg – DB InfraGO AG ? Geschäftsbereich Fahrweg (Bukr 16) → k. A.
+- BLB NRW D/Düsseldorf(WE2787)/D-HSD Geb. 5/Schadstoffsanierung 065-26-00310 – Bau- und Liegenschaftsbetrieb NRW Düsseldorf → k. A.
+- BLB NRW D/Grevenbroich(WE2792)/Finanzamt Grevenbroich/Planungsleistungen zur Errichtung einer Photov – Bau- und Liegenschaftsbetrieb NRW Düsseldorf → k. A.
+- Rahmenvereinbarung arbeitsmedizinische und arbeitssicherheitstechnische Betreuung Ost – Landwirtschaftskammer Niedersachsen → k. A.
+- [ab LPH 5] ELT - Ingenieurleistungen nach Teil 4 Abschnitt 2 HOAI - KG 440 und 450 – Vermögen und Bau Baden-Württemberg, Amt Pforzheim → k. A.
+- Teilsanierung Hort Zauberburg - Planungsleistung Technische Ausrüstung – Stadt Dessau-Roßlau, Zentr. Vergabestelle → pi Passau Ingenieure GmbH
+- Planungsleistungen Technische Ausrüstung für: Umstrukturierung und Modernisierung des bbz Arnsberg – Handwerkskammer Südwestfalen → G-TEC Ingenieure GmbH
+- Zentrum für regionale Erzeugnisse Lübbenau (Gurkenwelt) Objektplanung_Frei- und  Innenraum – Spreewelten GmbH → k. A.
+- Technisch-Logistische Betreuung von Feuerwehr-Führungsfahrzeugen – Bundesamt für Ausrüstung, Informationstechnik und  → techcos GmbH Schulung und Beratung
+- Betrieb von Meeresboden-Drucksensoren – GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Ermittlung von Überflutungsflächen im Zusammenhang mit der Umsetzung der EG-HWRM-RL - Strunde – Bezirksregierung Köln → Hydrotec Ingenieurgesellschaft für Wasser und Umwelt mbH · 284,151 €
+- Neubau des Unternehmensstandortes der AWA Ammersee - Vergabe Objektplanung – AWA – Ammersee, Wasser- und Abwasserbetriebe gKU → Sommersberger GmbH – Architekten und Ingenieure · 1,216,334 €
+- Sanierung und Erweiterung Kindertagesstätte „Haus der Kinder“ - Objektplanung Gebäude gemäß Teil 3,  – Gemeinde Engelthal → Graf Architekten GmbH
+- Los 3: Fachplanung Gebäude- und Anlagenautomation (AG 8) – Kulturstiftung Sachsen-Anhalt → k. A.
+- L651/551 Sprockhövel/Niedersprockhövel, Verkehrsuntersuchung – Landesbetrieb Straßenbau NRW - RNL Südwestfalen -  → Brilon Bondzio Weiser Ingenieurgesellschaft  mbH · 63,050 €
+- Aufhebung// Rahmenvereinbarung über Neubau- und Sanierungsmaßnahmen - Projektsteuerungsleistungen na – Land Rheinland-Pfalz, vertreten durch das Minister → k. A.
+- Maßnahmepaket 3 Gefahrenlagen an Schulen, OPL Gebäude und Innenräume – Landeshauptstadt Dresden, GB Bildung, Jugend und S → Wu8 GmbH
+- Denkmalgerechter Neubau Seilbahnbrücke Stuttgart, Objektplanung Ingenieurbauwerk & Tragwerksplanung – Stuttgarter Straßenbahnen AG → Konstruktionsgruppe Bauen AG
+- Gemeinde Grafrath - Sanierung Bürgerstadl – Gemeinde Grafrath → Reitberger & Schilk GBR
+- Planungsleistungen Rückkühlwerke – Klinikum St. Marien Anstalt des öffentlichen Recht → Architekten Brummer und Retzer GmbH, Ingeniuerbüro Hausmann GmbH, LHV Ingenieur GmbH
+- Sanierung rechter Paardeich von Großmehringer Brücke bis Manching – Wasserwirtschaftsamt Ingolstadt → Tractebel GmbH
+- Neubau einer Mensa im Schulpark Senden - TECHNISCHE GEBÄUDEAUSRÜSTUNG ELT, Mess- und Regeltechnik – Gemeinde Senden → ISW Ingenieur GmbH Schmidt & Willmes
+- Neubau Quartierssporthaus am Standort Weg beim Jäger 20a in Hamburg - Objektplanung gem. § 33 HOAI – GMH | Gebäudemanagement Hamburg GmbH → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 222,707 €
+- Ausbau A4, VKE 3621, Erstellung LBP, ASB, SPA-VP; Biotoptypenkartierung – DEGES Deutsche Einheit Fernstraßenplanungs- und -b → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Bestandsdokumentation nach Umbau Dossenheimer Landstraße, Heidelberg – Rhein-Neckar-Verkehr GmbH → BKR Ingenieurbüro GmbH · 60,088 €
+- Neugründung einer Stadtteilschule mit Abbruch, Neubau, Sanierung und Umbau sowie Sanierung Außenanla – SBH | Schulbau Hamburg → Schmitz.Reichard GmbH · 982,502 €
+- Modernisierung Sportanlage Perlstieg - Objektplanung Freianlagen – Bezirksamt Hamburg-Mitte → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 108,828 €
+- Verkehrliche Erschließung des B-Plan Gebietes 301-1, 7. Ä., Kümmelsberg-Ost, 
+                       – Landeshauptstadt Magdeburg, Die Bügermeisterin → Pabsch Ingenieure GmbH
+- Generalplanerleistungen – Senatsverwaltung für Stadtentwicklung, Bauen und W → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Neuorganisation der Grundschule Fabriciusstraße mit Rück- und Neubau, sowie Sanierungen und Außenanl – SBH | Schulbau Hamburg → Hitzler Ingenieure GmbH & Co. KG · 749,930 €
+- Bestandsaufnahme ELA-Anlage KKR – EWN Entsorgungswerk für Nuklearanlagen GmbH → k. A.
+- Verantwortliche Elektrofachkraft – Bayerische Landesanstalt für Landwirtschaft → k. A.
+- große Umweltanalytik, Friedrich-Engels-Straße – Berliner Verkehrsbetriebe, Bereich Einkauf/ Materi → phtv Prüflabor für Hoch-, Tief- und Verkehrsbau GmbH
+- 0178a7a. Vorgezogene Ausführungsplanung Lph 4 u. 5, Hessen ID: 21059. – Hessen Mobil, Straßen- und Verkehrsmanagement, Zen → k. A.
+- Projektunterstützung EMSR – ZRE Zentrum für Ressourcen und Energie GmbH → TBF + Partner AG
+- Umweltprobenbank des Bundes: Chemisch-analytische Untersuchungen für Polyzyklische Aromatische Kohle – Umweltbundesamt → Eurofins GfA Lab Services GmbH
+- 2026-05-rv-sb-generalsanierung-thg-sulzbach – Regionalverband Saarbrücken → Schaus Decker Architekten GmbH
+- RRX PF5a Fachbauüberwachung + Gutachter Altbergbau – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → Dr. Spang Ingenieurgesellschaft für - Bauwesen Geologie Umwelttechnik mbH
+- Architekten- und Ingenieurleistungen für die folgende Maßnahme: Zentralisierung der Klinik für Kinde – Klinikum Oberberg GmbH → Architekten Naujack Rind Hof GmbH
+- 2026-05-rv-sb-generalsanierung-thg-sulzbach-ta – Regionalverband Saarbrücken → ARGE TGA Engineering GbR
+- 2026-05-rv-sb-generalsanierung-thg-sulzbach-tp – Regionalverband Saarbrücken → Kempen Krause Ingenieure GmbH
+- Beratungsleistung zu Projekt für vibrationsbasierte Bohrlochwerkzeuge – Technische Universität Clausthal - Institute of Su → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 194,000 €
+- Infrastrukturplanung für den Neubau Baustufe 1 und Baustufe 2 der Universitätsmedizin Göttingen – Baugesellschaft UMG mbH → Rother & Partner Ingenieurgesellschaft mbH
+- Neubau Betriebsdienstgebäude; Objektplanung – Landeshauptstadt Kiel - Der Oberbürgermeister → Trapez Architektur GmbH
+- BLB NRW BB / BI / GFMR-Kaserne Augustdorf / MZH Geb. 112 / SiGeKo – Bau- und Liegenschaftbetrieb NRW Bundesbau → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 58,555 €
+- Nichtoffener Realisierungswettbewerb für den Neubau des Rathauses mit der Gestaltung des Rathausumfe – Markt Mering → Harris + Kurrle Architekten BDA Partnerschaft mbB, Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Planungsleistungen Objektplanung Garath Koblenzerstraße (EFRE) – Landeshauptstadt Düsseldorf, Der Oberbürgermeister → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Gestellung Sicherungsaufsicht Sakra/Bahnerdungberechtigter (BEB)/ATWS-Anlage – Die Autobahn GmbH des Bundes | NL Westfalen | AS H → FSU Rail GmbH
+- Geotechn.Leistungen/ Bodenschutz/ Bodenmanagement_ABS 38 PFA1.7 – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → Umtec Ingenieure Sasse Meyer - von Mücke GmbH & Co. KG, Geoconsult ZT GmbH, regioplus Ingenieurgesellschaft GbR
+- Neubau eines Parkhauses in Adenau (Wimbachstraße), Los 2 - Leistungen der Technischen Ausrüstung – Stadt Adenau, vertreten durch die Verbandsgemeinde → k. A.
+- Hängung und Einbringung des Großgeläuts in den Westbau des  
+Magdeburger Doms_technische Gebäudeausr – Kulturstiftung Sachsen-Anhalt → Elektroplanung Will GmbH
+- Bauüberwachung Generalsanierung Lehrte-Oebisfelde, BA 2 - Sperrzeit B2 und C – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- BLB Aachen | RWTH | Sanierung Brandschutz Luft- und Raumfahrt (LUR) | Objektplanung (005-26-00203) – Bau- und Liegenschaftsbetrieb NRW Aachen → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 116,372 €
+- kommunales Klimaschutznetzwerk – Landkreis Schwandorf → Institut für Energietechnik IfE GmbH
+- Mastprüfungen 2026 – Die Autobahn GmbH des Bundes - NL Südwest → DEKRA Automobil GmbH
+- 26DE Fachplanung TGA – Staatliches Bauamt Bayreuth → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Hängung und Einbringung des Großgeläuts in den Westbau des  
+Magdeburger Doms – Kulturstiftung Sachsen-Anhalt → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- BLB NRW Köln / Technische Hochschule Köln / Ersatzneubau Campus Deutz / Mensa / Projektsteuerungslei – Bau- und Liegenschaftsbetrieb NRW Köln → BMP Baumanagement GmbH · 1,572,614 €
+- Stellingdamm - Hirtestraße - Verkehrsanlagenplanung Lph. 1-7 – Berliner Verkehrsbetriebe, Bereich Einkauf/ Materi → Emch+Berger GmbH  Ingenieure und Planer Nürnberg
+- 26FEI85530 Grundlastvertrag BÜW Region Mitte 2026ff – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → IST GmbH Ingenieurbüro Schienentech, Einzelbieter (Name aus Datenschutzgründen ausgeblendet), Railim GmbH
+- Ext. Unterstützung Nachtragsmanagement AS Euskirchen – Die Autobahn GmbH des Bundes - NL Rheinland → Römhild Ingenieur Consulting GmbH
+- Bauüberwachung Ern. KrBw. Wiesbaden Biebrich Str. 3505 Km 44,020 – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → k. A.
+-  Grundschule Bortfeld - Fachplanungen Technische Ausrüstung (ALG 4 und 5) LPH 1 - 9 und Besondere Le – Gemeinde Wendeburg → Elektroplanung Will GmbH · 87,453 €
+- NBU – Neubau Unternehmensstandort AWA Ammersee – Technische Gebäudeausrüstung HKLS – AWA – Ammersee, Wasser- und Abwasserbetriebe gKU → TGA-Consult GmbH & Co. KG · 425,296 €
+- BImA/ Generalzolldirektion Dresden Neubau Dienstgebäude – Staatsbetrieb Sächsisches Immobilien- und Baumanag → kister scheithauer gross architekten und stadtplaner GmbH
+- Wartung zentrale Leittechnik 6003123851-BwDLZ Leer – Bundeswehr-Dienstleistungszentrum Leer → Sauter-Cumulus GmbH
+- Beauftragung von Planungsleistungen für OP-/AEMP-Bereich der Asklepios Klinik im Städtedreieck – Asklepios Südpfalzkliniken GmbH - Asklepios Klinik → SGP³-Dr. Scholz Gesamtplan GmbH, Planungsgruppe VA GmbH, Sbi schicho GmbH & CO. KG
+- Erstellung eines Grünflächenkonzeptes – Stadt Rinteln → k. A.
+- Erbringung von Vermessungsleistungen für die KTE-Standorte – KTE Kerntechnische Entsorgung Karlsruhe GmbH → k. A.
+- Ing.Leistungen TV-Kanal, Schachtinspektion und -sanierung – Große Kreisstadt Fürstenfeldbruck → k. A.
+- Durchführung der E50-Inspektionen nach Herstellervorgabe an 3 Blockheizkraftwerken auf dem Klärwerk  – Landeshauptstadt Düsseldorf, Der Oberbürgermeister → k. A.
+- Erstellung eines Klimaanpassungskonzeptes – Kreis Ostholstein - Zentrale Vergabestelle → k. A.
+- Planungsleistungen Fahrleitungsanlage Bad Dürkheim_?R114 – Rhein-Neckar-Verkehr GmbH → k. A.
+- Projektsteuerung: VDE 8.1 Projekt ETCS km 29 bis km 60 – DB InfraGO AG ? Geschäftsbereich Fahrweg (Bukr 16) → k. A.
+- BKS-Objektplanung – Kreis Düren → SSP AG
+- BKS-Technische_Ausrüstung, Vergabe – Kreis Düren → Reichel Ingenieurgesellschaft für Gebäudetechnik mbH
+- ELO - Objektplanungsleistung  – Stadtverwaltung Worms, Abt. 6.4 Zentrale Ausschrei → Rittmannsperger Architekten GmbH
+- Neubau Kita Sankt Mauritius - Planungsleistungen Freianlagenplanung (LPH 3-9) § 39 HOAI 2021 – Aufbau- und Entwicklungsgesellschaft Bad Neuenahr- → k. A.
+- "Neubau EUREGIO Geschäftsstelle" in Gronau: Fachplanungsleistung Tragwerksplanung – Stadt Gronau (Westfalen) → g+w ingenieurplanung Beratende Ingenieure für das Bauwesen GmbH
+- BLB NRW D/Düsseldorf (WE1312)/D-MAGS Fachplanung TA: Erneuerung der GLT und Brandschutzmaßnahmen 065 – Bau- und Liegenschaftsbetrieb NRW Düsseldorf → BHS Planungs GmbH & Co KG · 680,630 €
+- Rahmenvertrag über Leistungen zur Überprüfung und Planung der Entwässerung 2026-2030 (Entwässerung) – Die Autobahn GmbH des Bundes - NL Ost → A+S Consult GmbH, IFS Ingenieurgesellschaft für Stadthydrologie mbH, IGS INGENIEURE GmbH & Co. KG · 871,920 €
+- CKS / Projektsteuerung für Erweiterungsneubauten u. Neu- bzw. Umstrukturierung – Christliches Klinikum Soest gGmbH → BOS Projektmanagement GmbH
+- Fachplanung Monitoring – Landeshauptstadt München, Baureferat → MKP GmbH
+- Brandschutzmaßnahmen östlicher Collegienflügel TGA Planung – Landkreis Helmstedt → k. A.
+- Erweiterung und Umbau der Kindertagesstätte Trierweiler - Sicherheits- & Gesundheitskoordinator (SiG – Ortsgemeinde Trierweiler c/o Verbandsgemeinde Trie → SVB Rhein-Mosel GmbH
+- BvA_TWP_KJF der Diözese Regensburg e.V._Schulbaumaßnahme Umbau, Neubau und Erweiterung, Sanierung, M – Katholische Jugendfürsorge der Diözese Regensburg  → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Euregio-Gymnasium: Planung der Baufeldfreimachung / Rückbaus – Stadt Bocholt → Asmus + Prabucki Ingenieure Beratungs GmbH · 151,528 €
+- Objektplanung – Landeshauptstadt München, Baureferat → DAUTERMANN INGENIEURE GmbH
+- Ing. RV Betontechnologische Beratung – Berliner Wasserbetriebe → ibb Mangold - Ingenieurgesellschaft für Bauwerkserhaltung und Bauüberwachung mbH
+- Sanierung der 3-Feld-Sporthalle des Staufer-Schulzentrums in Annweiler, Kreisverwaltung Südliche Wei – Kreisverwaltung Südliche Weinstraße → k. A.
+- Objektplanung gemäß §§ 33 HOAI – Gemeinde Büsum → k. A.
+- Fachplanung Technische Gebäudeausrüstung gem. §§ 53 ff. HOAI - Sanierung der Wilhelm-Schröder-Sporth – Stadt Bützow → Bietergemeinschaft IBE Mahnke & Schaarschmidt GbR & Ingenieurbüro Behrens · 296,745 €
+- GP: Klinikum Leverkusen – Klinikum Leverkusen gGmbH c/o Klinikum Leverkusen  → Vollack GmbH & Co. KG
+- Bewässerungssystem Unteres Rezattal für landwirtschaftliche Sonderkulturen – Bewässerungsverband Unteres Rezattal K.d.Ö.R → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- ÖFS Brutvogelkartierung 2027 – Landesamt für Natur, Umwelt und Klima NRW → Einzelbieter (Name aus Datenschutzgründen ausgeblendet), Einzelbieter (Name aus Datenschutzgründen ausgeblendet), Bioplan Höxter PartG · 350,177 €
+- Stadt Reutlingen - Generalsanierung Rathaus - Planerauswahlverfahren VgV Schadstoffgutachter – Stadt Reutlingen → HPC AG
+- BvA_ING_Wasserzweckverband Paunzhausen_Neubau eines Trinkwasserhochbehälters – Zweckverband Wasserversorgungsgruppe Paunzhausen - → COPLAN AG
+- (Bekanntmachung verg. Aufträge) Rahmenvertrag Innenarchitektur-Workplacedesign – Bundesdruckerei GmbH → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Leistungen nach BaustellV: Sicherheits- und Gesundheitsschutzkoordinierung (SiGeKo) – Landeshauptstadt München vertreten durch MRG Münch → kpp consulting GmbH
+- JHK-DR: Erstmalige Zuweisung der Fachabteilung Geriatrie – Johanniter-Krankenhaus Duisburg-Rheinhausen GmbH → THIEKEN ARCHITEKTEN + INGENIEURE GmbH, IBH-Ingenieurgesellschaft, Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 270,912 €
+- Ingenieurleistung Elektrotechnik - Errichtung Trafo und NSHV am EBG – Stadt Castrop-Rauxel → Hatting & Kuhlmann TGA GmbH & Co. KG · 59,521 €
+- Fraunhofer-Gesellschaft 80-00031-2800-A Objektplanung Gebäude - Rahmenvereinbarung – Fraunhofer-Gesellschaft e.V. - Vergabestelle Bau → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Ingenieurleistungen Elektrotechnik an der Grundschule Alter Garten – Stadt Castrop-Rauxel → Hatting & Kuhlmann TGA GmbH & Co. KG · 86,507 €
+- Ingenieursleistungen Elektrotechnik - Sanierung Ratssaal – Stadt Castrop-Rauxel → Hatting & Kuhlmann TGA GmbH & Co. KG · 95,233 €
+- Erwerb ausschließlicher Nutzungsrechte am Wettbewerbsentwurf von bbz landschaftsarchitekten berlin g – Stadt Castrop-Rauxel → bbz landschaftsarchitekten berlin gmbh · 300,000 €
+- Stadt Steinau an der Straße Projektsteuerung Städtebauförderung mit ISEK – Magistrat der Stadt Steinau an der Straße → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Rahmenvertrag Qualitäts- und Projektcontrollingleistungen -Baucontrolling und Bauüberwachung – degewo AG → Drees & Sommer SE, IBB-Müller Ingenieurgesellschaft mbH, Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Technische Betriebsführung der Anlagen des AZV "Weißer Schöps" – Abwasserzweckverband "Weißer Schöps" → SWG Service GmbH
+- Sanierung Innenräume Freizeitzentrum Marienthal Zwickau – Stadtverwaltung Zwickau, Liegenschafts- und Hochba → Ingenieurbüro Firmbach GbR
+- Fraunhofer-Gesellschaft 80-00031-2800-E Fachplanung ELT - Rahmenvereinbarung – Fraunhofer-Gesellschaft e.V. - Vergabestelle Bau → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Fraunhofer-Gesellschaft 80-00031-2800-D Fachplanung HLSK - Rahmenvereinbarung – Fraunhofer-Gesellschaft e.V. - Vergabestelle Bau → Ingenieurbüro Scheibner GmbH
+- Fraunhofer-Gesellschaft 80-00031-2800-A Objektplanung Gebäude - Rahmenvereinbarung Region 10 – Fraunhofer-Gesellschaft e.V. - Vergabestelle Bau → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Objektplanung Gebäude und Innenräume, Leistungsphasen 3 bis 5, für den Ersatzneubau und die Umstrukt – Stadt Bad Wörishofen → Beyss Architekten GmbH · 568,047 €
+- Technische Ausrüstung, Leistungsphasen 3 bis 9, für den Ersatzneubau und die Umstrukturierung der Pf – Stadt Bad Wörishofen → Scheel Ingenieure GmbH, Ingenieurbüro TGA-Elektrotechnik IB.S GmbH · 784,390 €
+- NBU – Neubau Unternehmensstandort AWA Ammersee – Tragwerksplanung – AWA – Ammersee, Wasser- und Abwasserbetriebe gKU → GFM Bau- und Umweltingenieure GmbH · 276,513 €
+- NBU – Neubau Unternehmensstandort AWA Ammersee – Fachplanung Technische Gebäudeausrüstung Elektro (A – AWA – Ammersee, Wasser- und Abwasserbetriebe gKU → TEAM FÜR TECHNIK GmbH · 278,245 €
+- Stadtklinik Frankenthal - Modernisierung & Umbau des Haupthauses (Teilbereiche / komplette Geschosse – Stadtklinik Frankenthal → k. A.
+- 2066_VgV_Baulogistik_Bildungsakademie Karlsruhe_Abschluss – Handwerkskammer Karlsruhe, KöR → k. A.
+- Ausschreibung zur Beschaffung eines Generalplaners für den Neubau einer Wohnanlage – Gemeinde Leezen → AX5 architekten PartG mbB
+- Gemeinde Karlsbad | Sanierung Sporthallen - Fachplanung Technische Ausrüstung – Gemeinde Karlsbad → k. A.
+- Liegenschaften des RNK, DGUV 4 ortsfeste Betriebsmittel – Eigenbetrieb Bau, Vermögen und Informationstechnik → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Stadt Schwalbach - Vergabe von Fachplanungsleistungen für Küchentechnik für den Neubau des Feuerwehr – Magistrat der Stadt Schwalbach am Taunus → k. A.
+- Entwurfs- und Genehmigungsplanung für die Errichtung und den Betrieb einer Abfallbehandlungsanlage ( – Berliner Stadtreinigungsbetriebe AöR → GICON – Großmann Ingenieur Consult GmbH
+- Justizvollzugsanstalt Tonna, Neubau Sicherungsverwahrung, Fachplanung Technische Gebäudeausrüstung ( – Thüringer Landesamt für Bau und Verkehr (TLBV) → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Stadt Cottbus OV 119-2026 Projektbegleitung bei der Altlastensanierung ehem. Potsdamer Chemiehandel  – Stadtverwaltung Cottbus → CDM Smith SE · 569,834 €
+- Errichtung eines Integrativen, Sozialen-Kompetenzzentrums in Nürnberg-Kornburg - Technische Gebäudea – AWO Kreisverband Mittelfranken-Süd e.V. → Einzelbieter (Name aus Datenschutzgründen ausgeblendet)
+- Erweiterung Gebrüder-Grimm-Schule in Grevenbroich | Fachplanung (Leistungsbild Technische Ausrüstung – Stadt Grevenbroich → RC-Planung GmbH
+- V347_2026 Wartung Aufzüge HZB (Wannsee, Adlershof) – Helmholtz-Zentrum Berlin für Materialien und Energ → Schindler Aufzüge und Fahrtreppen GmbH
+- B1 Oderbrücke Küstrin - Objektplanung Verkehrsanlagen, Ingenieurbauwerk – Landesbetrieb Straßenwesen Brandenburg, DS Frankfu → Einzelbieter (Name aus Datenschutzgründen ausgeblendet) · 226,600 €
+- Zentralisierung der Aus- und Fortbildung der Thüringer Landesverwaltung am Standort Gotha - Bildungs – Thüringer Landesamt für Bau und Verkehr (TLBV) → SOCOTEC Building Solutions GmbH · 187,767 €
+- 0180ec. Objekt- und Tragwerksplanung Ingenieurbauwerke nach § 41 und § 51 HOAI, Lph. 1 bis 3. – Hessen Mobil, Straßen- und Verkehrsmanagement, Zen → Ingenieurbüro Grassl GmbH
+- Baufeldvorbereitung IBW – Staatliches Bauamt Ansbach → Ziegler Ingenieurgesellschaft GmbH
+- Nürnberg Hbf Sprinkleranlage Planung – DB InfraGO AG – Geschäftsbereich Personenbahnhöfe  → BIEGE Nürnberg Hbf c/o SSF Ingenieure AG
+- Planung Seewasserwärmepumpe - Los 3 - Objektplanung Gebäude sowie Freianlagen – Stadtwerke Cottbus GmbH → Integral Projekt GmbH & Co. KG
+- 74-2026-40 | Zwickauer Mulde, Zwickau- Crossen, rechts, Deichertüchtigung mit Vorlandabsenkung von P – Landestalsperrenverwaltung des Freistaates Sachsen → Bauer Tiefbauplanung GmbH · 70,129 €
+- Rahmenvertrag für Prüfdienstleistungen Medizin- und Labortechnik – Universitätsklinikum Köln AöR → Universal Labortechnik GmbH & Co. KG, WISAG Medizintechnischer Service GmbH · 1,817,796 €
+- Erneuerung Stufenbrücke über das Große Fließ, alias Malxe, im Zuge des Fontaneweges am Waldhotel Eic – Stadt Lübbenau/Spreewald → Ingenieurbüro PROKON GmbH · 66,833 €
+- Errichtung eines Integrativen, Sozialen-Kompetenzzentrums in Nürnberg-Kornburg -Tragwerksplanung gem – AWO Kreisverband Mittelfranken-Süd e.V. → Sailer Stepan Tragwerkteam München GmbH
+- Sicherheitsprüfungen an elektrischen Betriebsmitteln der Universität Augsburg – Universität Augsburg → OMS Prüfservice GmbH
+- 2025-34/2 DEG Freiraumplanerischer Realisierungswettbewerb - Freiraumgestaltung Friedrich-Park und B – Stadt Duisburg - Amt 31-21 Grün- und Freiraumentwi → KOKOMO Landschaft und Stadtraum GmbH · 563,666 €
+- 26FEI87603 - Grundlastvertrag PD Nürnberg alle Netzbezirke 2027 – DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16) → Emch + Berger GmbH - Ingenieure und Planer Nürnberg
+- Neubau Sekundarstufe I - Modulbau - Projektsteuerung – Vergabe und Beschaffungszentrum Dortmund → BMP Baumanagement GmbH · 824,089 €
+- Rahmenverträge Vermessungsleistungen 2027 - 2030  – eins energie in sachsen GmbH & Co. KG → DMT Engineering Surveying GmbH & Co. KG, Einzelbieter (Name aus Datenschutzgründen ausgeblendet), IBV Ingenieurbüro für Vermessung GmbH
+- Altlastensanierung ehem. RAW Malchin – Stadt Malchin → S.I.G. - Dr.-lng. Steffen GmbH
+- Generalplanungsleistungen LP 2-9 – Senatsverwaltung für Stadtentwicklung, Bauen und W → PMS AG - Büro für Planung und Steuerung
+- 26DE Objektplanung Gebaeude – Staatliches Bauamt Bayreuth → Team JÜRGENS GmbH
+- BLB NRW BB/Aachen/NATO-Flugplatz Nörvenich/RÜV Begehung/080-26-00649 – Bau- und Liegenschaftbetrieb NRW Bundesbau → k. A.
+- Neubau Gewerbegebiet Brinkum-Süd: Fachplanung Verkehrsanlagen und Entwässerungsplanung – Gemeinde Stuhr → k. A.
+- Museum für Sepulkralkultur Kassel - Bauphysik-Bauakustik-Raumakustik – Arbeitsgemeinschaft Friedhof und Denkmal e.V. - Ze → k. A.
+
+## Häufigste Gewinner im Zeitraum
+- DB Engineering & Consulting GmbH – 6 Zuschlag/Zuschläge
+- ZETCON Ingenieure GmbH – 4 Zuschlag/Zuschläge
+- Elektroplanung Will GmbH – 4 Zuschlag/Zuschläge
+- Hitzler Ingenieure GmbH & Co. KG – 3 Zuschlag/Zuschläge
+- Drees & Sommer SE – 3 Zuschlag/Zuschläge
+- Kocks Consult GmbH – 3 Zuschlag/Zuschläge
+- Hatting & Kuhlmann TGA GmbH & Co. KG – 3 Zuschlag/Zuschläge
+- Konstruktionsgruppe Bauen AG – 2 Zuschlag/Zuschläge
+- IBH-Ingenieurgesellschaft – 2 Zuschlag/Zuschläge
+- ibe Ingenieurbüro für Bauplanung GmbH Eberswalde – 2 Zuschlag/Zuschläge
+- Ingenieurgesellschaft Frey-Donabauer-Wich mbH – 2 Zuschlag/Zuschläge
+- FISCHER TEAMPLAN Ingenieurbüro GmbH – 2 Zuschlag/Zuschläge
+- Beyss Architekten GmbH – 2 Zuschlag/Zuschläge
+- SOCOTEC Building Solutions GmbH – 2 Zuschlag/Zuschläge
+- TRIGIS GeoServices GmbH – 2 Zuschlag/Zuschläge
